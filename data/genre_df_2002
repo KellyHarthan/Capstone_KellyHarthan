@@ -1,0 +1,16 @@
+,index,year,primary_genre,p_gen_count,pg_count,sub_genre_1,sg1_count,s1_count,sub_genre_2,sg2_count,s2_count
+0,0,2002,dance pop,23,27,dance pop,16,29,hip pop,9,27
+1,1,2002,contemporary r&b,8,27,hip hop,10,29,dance pop,7,27
+2,2,2002,alternative metal,7,27,east coast hip hop,7,29,gangster rap,7,27
+3,3,2002,contemporary country,7,27,country,7,29,hip hop,7,27
+4,4,2002,hip pop,5,27,pop,4,29,country road,6,27
+5,5,2002,alternative rock,4,27,hip pop,4,29,pop rock,4,27
+6,6,2002,atl hip hop,4,27,neo mellow,3,29,dance rock,3,27
+7,7,2002,canadian pop,4,27,nu metal,3,29,rap,3,27
+8,8,2002,detroit hip hop,3,27,gangster rap,3,29,pop,3,27
+9,9,2002,boy band,3,27,contemporary r&b,3,29,neo soul,3,27
+10,10,2002,neo mellow,3,27,dirty south rap,2,29,latin,2,27
+11,11,2002,bronx hip hop,2,27,candy pop,2,29,pop rap,2,27
+12,12,2002,lilith,2,27,canadian rock,2,29,nu metal,2,27
+13,13,2002,colombian pop,2,27,latin,2,29,piano rock,2,27
+14,14,2002,hardcore hip hop,1,27,mellow gold,1,29,post-teen pop,2,27

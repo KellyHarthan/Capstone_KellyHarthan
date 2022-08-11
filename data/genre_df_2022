@@ -1,0 +1,16 @@
+,index,year,primary_genre,p_gen_count,pg_count,sub_genre_1,sg1_count,s1_count,sub_genre_2,sg2_count,s2_count
+0,0,2022,dance pop,24,30,pop,22.0,29.0,r&b,16.0,25.0
+1,1,2022,contemporary country,21,30,reggaeton,11.0,29.0,trap latino,10.0,25.0
+2,2,2022,latin,11,30,country,11.0,29.0,country road,9.0,25.0
+3,3,2022,pop,5,30,rap,3.0,29.0,rap,4.0,25.0
+4,4,2022,canadian hip hop,4,30,canadian pop,3.0,29.0,hip hop,4.0,25.0
+5,5,2022,atl hip hop,4,30,uk pop,2.0,29.0,pop,2.0,25.0
+6,6,2022,australian hip hop,2,30,hip hop,2.0,29.0,melodic rap,2.0,25.0
+7,7,2022,dfw rap,2,30,gen z singer-songwriter,2.0,29.0,southern hip hop,2.0,25.0
+8,8,2022,florida rap,2,30,country pop,2.0,29.0,country,2.0,25.0
+9,9,2022,alt z,2,30,contemporary country,2.0,29.0,uk pop,1.0,25.0
+10,10,2022,memphis hip hop,1,30,melodic rap,2.0,29.0,trap argentino,1.0,25.0
+11,11,2022,minnesota hip hop,1,30,mellow gold,1.0,29.0,trap,1.0,25.0
+12,12,2022,glam rock,1,30,pop venezolano,1.0,29.0,tennessee hip hop,1.0,25.0
+13,13,2022,modern rock,1,30,piano rock,1.0,29.0,shiver pop,1.0,25.0
+14,14,2022,gen z singer-songwriter,1,30,rock,1.0,29.0,reggaeton colombiano,1.0,25.0

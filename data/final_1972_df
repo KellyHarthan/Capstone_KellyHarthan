@@ -1,0 +1,99 @@
+,index,artist_name,year,track_name,primary_genre,sub_genre_1,sub_genre_2,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_uri,duration_ms,time_signature
+0,0,Roberta Flack,1972,The First Time Ever I Saw Your Face,adult standards,classic soul,disco,0.311,0.0264,0,-21.644,1,0.037,0.731,0.00205,0.156,0.139,120.653,0SxFyA4FqmEQqZVuAlg8lf,260666,4
+1,1,Gilbert O'Sullivan,1972,Alone Again (Naturally),adult standards,brill building pop,bubblegum pop,0.558,0.464,8,-8.488,0,0.0354,0.583,0.000133,0.159,0.558,171.762,6vuEG9sZtC4W2zT64f7zLF,217729,4
+2,2,Don McLean,1972,American Pie,adult standards,classic rock,folk,0.531,0.481,4,-11.709,0,0.06,0.699,0.0,0.0842,0.491,138.45,1fDsrQ23eTAVFElUMaf38X,516893,4
+3,3,Harry Nilsson,1972,Without You,art rock,brill building pop,classic rock,0.381,0.186,4,-15.477,1,0.029,0.613,2.75e-06,0.0694,0.142,65.058,6MrILERJLA3Jcq0E9poZsp,201000,4
+4,4,Sammy Davis Jr.,1972,The Candy Man,adult standards,easy listening,lounge,0.634,0.56,0,-10.883,1,0.037,0.681,0.0,0.367,0.88,131.641,5X3XrHlCFVGqNKpGp85xVC,188227,4
+5,5,Joe Tex,1972,I GOTCHA,northern soul,southern soul,,0.84,0.856,8,-11.277,1,0.328,0.182,0.000297,0.306,0.763,93.41,3t5caUWBhKDgy1ypsxRcg4,148813,4
+6,6,Bill Withers,1972,Lean on Me,funk,quiet storm,soul,0.619,0.22,0,-13.843,1,0.0672,0.782,1.19e-05,0.124,0.426,75.143,3M8FzayQWtkvOhqMn2V4T2,258835,4
+7,7,Mac Davis,1972,Baby Don't Get Hooked on Me,bubblegum pop,classic country pop,country rock,0.495,0.307,9,-18.168,1,0.0403,0.26,5.21e-05,0.103,0.802,80.97,4z51Gf7Ppt9Lmu5zmnUIz9,183933,4
+8,8,Melanie,1972,Brand New Key,classic uk pop,folk,folk rock,0.703,0.292,1,-10.924,1,0.036,0.805,3.76e-06,0.08,0.855,84.032,7da5B9d2oVV16YSzXVxmrR,147040,4
+9,9,Al Green,1972,Let's Stay Together,classic soul,funk,memphis soul,0.756,0.401,7,-10.702,0,0.0526,0.582,0.011,0.0541,0.514,101.954,63xdwScd1Ai1GigAwQxE8y,199396,4
+10,10,Looking Glass,1972,Brandy (You're a Fine Girl),soft rock,sunshine pop,,0.716,0.625,1,-11.369,0,0.0601,0.396,1.97e-05,0.134,0.826,125.276,2BY7ALEWdloFHgQZG6VMLA,186827,4
+11,11,The Chi-Lites,1972,Oh Girl,chicago soul,classic soul,disco,0.418,0.402,10,-12.942,1,0.0288,0.226,0.0,0.103,0.601,133.683,0cFlXjTxFdMGGPfLVpt3Wv,216280,4
+12,12,Gallery,1972,Nice to Be with You - Rerecorded Version,bubblegum pop,soft rock,,0.756,0.496,9,-12.353,1,0.0308,0.11,4.24e-06,0.0666,0.835,123.076,5H5rp5wyCNFEHdLvU8tDcz,168027,4
+13,13,Chuck Berry,1972,My Ding-A-Ling,blues rock,classic rock,rock,0.767,0.517,4,-9.908,1,0.195,0.791,0.000186,0.078,0.846,144.322,2L8mIvM1OwkJyGb3WwDFT3,223573,4
+14,14,Luther Ingram,1972,(If Loving You Is Wrong) I Don't Want to Be Right,classic soul,memphis soul,southern soul,0.502,0.451,4,-7.423,0,0.0438,0.283,0.0,0.154,0.531,140.474,54K7o2yNOMZYCtEDnfD6wI,216800,4
+15,15,Neil Young,1972,Heart of Gold - 2009 Remaster,canadian singer-songwriter,classic canadian rock,classic rock,0.541,0.459,4,-10.433,0,0.0297,0.189,0.0274,0.099,0.803,171.165,1Q1b8eVkUPGlpSArl8JAVw,187013,4
+16,16,The Stylistics,1972,"Betcha By Golly, Wow",adult standards,classic soul,disco,0.347,0.53,3,-7.949,1,0.0293,0.522,0.0,0.298,0.492,140.899,6TrZdWmmsJTLjkka3tBZwB,198920,4
+17,17,The Staple Singers,1972,I'll Take You There,chicago soul,classic soul,funk,0.846,0.595,0,-8.372,1,0.0439,0.0904,1.96e-06,0.063,0.78,101.632,5YLnfy7R2kueN0BRPkjiEG,196827,4
+18,18,Michael Jackson,1972,Ben - Single Version,pop,r&b,soul,0.435,0.161,5,-10.84,1,0.0298,0.911,0.000214,0.113,0.291,136.166,0ZFqB9g2FujbmMSrjqsL3j,167387,4
+19,19,Robert John,1972,The Lion Sleeps Tonight,bubblegum pop,soft rock,,0.604,0.377,5,-12.179,1,0.0358,0.651,2.37e-06,0.103,0.9,128.523,79fwgYi0nxAn2Zda7sHlmC,153707,4
+20,20,Billy Preston,1972,Outa-Space,classic soul,funk,psychedelic soul,0.715,0.827,1,-8.555,1,0.0369,0.14,0.176,0.243,0.901,116.213,17KFO56mkVEKR0v8qOPlkU,250867,4
+21,21,War,1972,Slippin' Into Darkness,classic soul,funk,quiet storm,0.6,0.623,4,-8.87,0,0.0782,0.125,0.00876,0.145,0.664,90.601,7IPKqsNoJAkIINb007DxWw,225840,4
+22,22,The Hollies,1972,Long Cool Woman (In a Black Dress) - 1999 Remaster,album rock,brill building pop,british invasion,0.757,0.868,9,-9.326,1,0.062,0.411,0.00221,0.355,0.815,138.923,5UwbnHhjnbinJH8TefuQfN,199200,4
+23,23,Mouth & MacNeal,1972,How Do You Do?,classic uk pop,nederpop,,0.486,0.562,2,-8.382,1,0.0377,0.607,4.12e-06,0.668,0.711,96.12,3DijXDOWwsrg43D0Se345d,244133,4
+24,24,Neil Diamond,1972,Song Sung Blue - Single Version,adult standards,brill building pop,classic rock,0.556,0.327,0,-15.612,1,0.0311,0.467,1.32e-05,0.318,0.327,108.913,4FZ8wtTaOAbYvyChBt4GEQ,195160,4
+25,25,America,1972,A Horse with No Name,album rock,classic rock,country rock,0.654,0.506,11,-17.18,0,0.0535,0.686,0.0155,0.155,0.831,123.179,54eZmuggBFJbV7k248bTTt,252240,4
+26,26,Hot Butter,1972,Popcorn,early synthpop,moog,,0.784,0.626,11,-14.617,0,0.0572,0.0425,0.703,0.0645,0.952,136.886,6Z5wWOqBfk4G3bP1KF2Vbj,151440,4
+27,27,The Main Ingredient,1972,Everybody Plays the Fool,classic soul,disco,funk,0.485,0.641,3,-8.752,1,0.0418,0.704,9.92e-05,0.159,0.855,168.645,3DkqEHCCqlkknDfksHWWu0,202253,4
+28,28,Climax,1972,Precious and Few,bubblegum pop,,,0.203,0.401,9,-12.341,1,0.0339,0.434,0.0,0.1,0.17,201.467,7uuM0HwvCG20e5ttu6ugmP,164653,4
+29,29,The 5th Dimension,1972,(Last Night) I Didn't Get To Sleep At All,adult standards,brill building pop,bubblegum pop,0.671,0.497,5,-12.53,0,0.0289,0.484,0.0027,0.0893,0.564,105.117,6HH6fmHF2YssfVkRmzcjf0,192600,4
+30,30,The Moody Blues,1972,Nights In White Satin - Single Version / Mono,album rock,art rock,blues rock,0.195,0.483,4,-4.991,0,0.03,0.465,0.497,0.0686,0.173,84.71,6L5BZEcZmD6RBJnimzlyKr,269107,4
+31,31,Raspberries,1972,Go All The Way,beatlesque,bubblegum pop,jangle pop,0.305,0.849,9,-4.892,1,0.0999,0.548,0.000134,0.0995,0.555,134.287,75GQIYnRaBg7ndHxhfYuQy,205347,4
+32,32,Cornelius Brothers & Sister Rose,1972,Too Late To Turn Back Now,classic soul,,,0.516,0.73,7,-7.136,1,0.0494,0.344,0.0,0.425,0.907,115.126,2OyaNAq8BcGstyzueloqpE,198693,4
+33,33,The O'Jays,1972,Back Stabbers,classic soul,disco,funk,0.751,0.714,10,-11.614,1,0.0374,0.317,0.0,0.639,0.935,124.379,0KpMY3D2G8253VTZbDBUmA,186093,4
+34,34,The Osmonds,1972,Down By The Lazy River,bubblegum pop,,,0.6,0.909,1,-5.154,0,0.0742,0.433,0.0,0.337,0.94,141.678,49ZAeWd40u4py51DpjEY8p,163093,4
+35,35,Jonathan Edwards,1972,Sunshine (Go Away Today),country rock,folk rock,mellow gold,0.705,0.359,10,-15.388,1,0.0649,0.335,0.0,0.0968,0.837,125.31,3Xd39NB1rifow2RDNVgSFp,138733,4
+36,36,Mel & Tim,1972,Starting All Over Again,chicago soul,classic soul,memphis soul,0.622,0.305,11,-12.204,1,0.0358,0.687,0.0789,0.126,0.489,137.777,6Vo8rpayHpm3dmuoluEzTQ,230027,4
+37,37,Badfinger,1972,Day After Day - Remastered 2010,album rock,art rock,beatlesque,0.399,0.686,5,-7.112,1,0.0311,0.109,0.000874,0.112,0.377,101.806,2XKW8CH8nRZH9cF2DNjBHN,191053,4
+38,38,Elton John,1972,"Rocket Man (I Think It's Going To Be A Long, Long Time)",glam rock,mellow gold,piano rock,0.601,0.532,10,-9.119,1,0.0286,0.432,6.25e-06,0.0925,0.341,136.571,3gdewACMIVMEWVbyb8O9sY,281613,4
+39,39,Michael Jackson,1972,Rockin' Robin,pop,r&b,soul,0.622,0.721,10,-8.224,1,0.0983,0.24,7.88e-05,0.271,0.968,173.395,63gcHyuhAC8G2C0bVQUOJI,154840,4
+40,40,Daniel Boone,1972,Beautiful Sunday,bubblegum pop,classic uk pop,,0.676,0.463,9,-13.155,1,0.0306,0.309,0.0,0.288,0.91,121.923,6DqNZJ4hhBYd8qj9WbpSTJ,182133,4
+41,41,Dennis Coffey & The Detroit Guitar Band,1972,Scorpio,,,,0.696,0.631,11,-15.944,0,0.0821,0.404,0.89,0.148,0.641,118.966,1P8lIrb4yLlg1nzAjhhcfi,260843,4
+42,42,Yusuf / Cat Stevens,1972,Morning Has Broken,british folk,classic rock,folk,0.424,0.321,7,-13.162,1,0.0312,0.622,0.0196,0.0903,0.405,133.126,3BqqF8suAIzW8655yJfcvh,200000,3
+43,43,Arlo Guthrie,1972,The City of New Orleans,classic rock,country rock,folk,0.616,0.577,1,-8.834,1,0.0407,0.535,0.0,0.0808,0.592,145.863,0P6TTXbSLGrSoTNMz5kvB7,274507,4
+44,44,Ricky Nelson,1972,Garden Party,adult standards,brill building pop,bubblegum pop,0.774,0.247,2,-21.657,1,0.0779,0.786,0.0186,0.116,0.803,143.955,7J5tyfg3OYVNR97KH66ovw,229800,4
+45,45,Johnny Nash,1972,I Can See Clearly Now - Edit,brill building pop,bubblegum pop,,0.681,0.373,2,-13.2,1,0.0568,0.633,0.00113,0.0751,0.623,123.423,0DcrhZ12WcCqruCs8ibXSf,164733,4
+46,46,Elvis Presley,1972,Burning Love,rock-and-roll,rockabilly,,0.66,0.748,2,-11.206,1,0.0284,0.0993,0.00585,0.283,0.972,143.549,7zMUCLm1TN9o9JlLISztxO,170293,4
+47,47,Betty Wright,1972,Clean up Woman,classic soul,funk,quiet storm,0.865,0.652,5,-9.046,1,0.143,0.566,0.000919,0.0833,0.829,90.081,6uqTETWok9npbL4c9cuLVh,169533,4
+48,48,Argent,1972,Hold Your Head Up,art rock,blues rock,classic rock,0.502,0.488,7,-12.265,1,0.0261,0.3,0.128,0.319,0.74,89.279,3vfIv3pvYlLOa0wKIEuqFn,377560,4
+49,49,The Chakachas,1972,Jungle Fever,latin funk,,,0.648,0.49,0,-15.252,1,0.0905,0.521,0.21,0.193,0.622,98.835,53d3lGEb9rQLuc0wS8jBFx,263013,4
+50,50,Bread,1972,Everything I Own,adult standards,folk rock,mellow gold,0.365,0.338,2,-13.406,1,0.0322,0.735,0.0,0.104,0.446,79.241,52VIdyKqp1pJRSyUQaxKUA,187000,4
+51,51,The Dramatics,1972,In The Rain,classic soul,disco,funk,0.421,0.514,8,-9.52,0,0.049,0.591,8.97e-05,0.337,0.564,145.653,6aKFAhG7hCy71wLDMKjP5G,209213,4
+52,52,Al Green,1972,Look What You Done for Me,classic soul,funk,memphis soul,0.604,0.568,10,-8.555,1,0.0447,0.371,3.18e-06,0.182,0.818,95.672,0ZhwlFI7I69yaXphO7t5R8,185823,4
+53,53,Donna Fargo,1972,The Happiest Girl In The Whole U.S.A.,classic country pop,,,0.597,0.426,7,-10.04,1,0.0261,0.749,0.0,0.63,0.559,97.889,7mN6CJxlqQc5t63Ifj9ieQ,150400,3
+54,54,T. Rex,1972,Bang a Gong (Get It On) - 2003 Remaster,album rock,art rock,blues rock,0.729,0.818,2,-9.992,1,0.0732,0.157,0.284,0.195,0.906,125.814,6FsQrRpBLgsrFeAeiQqytm,267000,4
+55,55,Paul Simon,1972,Mother and Child Reunion,classic rock,folk,folk rock,0.712,0.632,9,-7.704,1,0.0334,0.112,0.0,0.0648,0.764,119.931,5vZ1BKMSLgrxxPYGMR904n,187400,4
+56,56,Roberta Flack,1972,Where Is the Love,adult standards,classic soul,disco,0.558,0.439,8,-13.443,1,0.0281,0.369,1.78e-05,0.161,0.605,114.969,7l07ak5IWpISBsrUtwj4O4,166400,4
+57,57,Al Green,1972,I'm Still in Love with You,classic soul,funk,memphis soul,0.712,0.393,0,-9.538,1,0.0287,0.158,0.000588,0.0908,0.791,97.918,2GEDd9qtGXU7IvGgqTF6Uj,191636,4
+58,58,Derek & The Dominos,1972,Layla,album rock,art rock,blues,0.404,0.902,1,-3.88,1,0.0665,0.577,0.297,0.287,0.497,115.669,2kkvB3RNRzwjFdGhaUA0tz,423840,4
+59,59,Aretha Franklin,1972,Day Dreaming,classic soul,jazz blues,memphis soul,0.463,0.273,0,-15.364,0,0.074,0.907,0.000367,0.101,0.293,146.426,7L4G39PVgMfaeHRyi1ML7y,239960,4
+60,60,Cher,1972,The Way Of Love,dance pop,hollywood,new wave pop,0.319,0.321,9,-11.911,1,0.0289,0.304,0.0,0.144,0.252,106.762,1q1oeOO8LQJH0qWI549cqN,152493,3
+61,61,Three Dog Night,1972,Black And White,album rock,art rock,blues rock,0.66,0.53,11,-13.686,1,0.029,0.406,0.00186,0.343,0.924,109.058,6LQsrJmTt1JKPUbivcZln9,231093,4
+62,62,Dr. Hook,1972,Sylvia's Mother,adult standards,bubblegum pop,classic rock,0.303,0.47,9,-12.715,1,0.0512,0.692,0.0,0.339,0.563,168.104,4hLk7Bjz1XJWNDiqovvgBW,228333,4
+63,63,Carpenters,1972,Hurting Each Other,adult standards,folk rock,mellow gold,0.341,0.325,4,-9.421,1,0.038,0.765,0.0,0.3,0.292,93.265,4wGKFjv7PUEZJsRk79wNKu,168533,3
+64,64,Harry Nilsson,1972,Coconut,art rock,brill building pop,classic rock,0.653,0.494,5,-14.79,1,0.102,0.389,1.46e-06,0.0677,0.905,137.463,4o5GyaeGMgDsrclBsL3au7,231733,4
+65,65,Donny Osmond,1972,Puppy Love,,,,0.414,0.681,1,-3.992,1,0.036,0.612,7.98e-06,0.248,0.538,102.338,7HWH4kGaHR3ZwKNFPT4dSW,184973,3
+66,66,Jim Croce,1972,You Don't Mess Around with Jim,album rock,classic rock,country rock,0.705,0.581,11,-11.379,0,0.0455,0.607,1.52e-05,0.117,0.967,163.24,5yrsBzgHkfu2idkl2ILQis,184640,4
+67,67,Commander Cody and His Lost Planet Airmen,1972,Hot Rod Lincoln,country rock,,,0.696,0.791,4,-13.056,1,0.22,0.296,0.0,0.318,0.965,130.246,2sZjmnS1BSoc1svOu5P8LM,164933,4
+68,68,Sonny & Cher,1972,A Cowboy's Work Is Never Done,adult standards,brill building pop,bubblegum pop,0.61,0.315,8,-14.12,1,0.0342,0.517,4.42e-06,0.361,0.58,135.521,3X1a60iOm7XAJ1ZT1w2TVq,194733,4
+69,69,Apollo 100,1972,Joy,,,,0.487,0.696,7,-12.899,1,0.0411,0.29,0.921,0.187,0.825,128.15,5xwmLfRd5kLb6XohkIqNV2,170283,4
+70,70,Carly Simon,1972,Anticipation,adult standards,brill building pop,classic rock,0.61,0.297,2,-14.956,1,0.0304,0.838,9.16e-06,0.107,0.543,99.963,0rLRrCTqWVMgv1DpMBSezw,201707,4
+71,71,Three Dog Night,1972,Never Been To Spain - Single Version,album rock,art rock,blues rock,0.517,0.502,4,-15.014,1,0.0275,0.58,0.00157,0.352,0.727,88.762,61OQuSzsom6geFCA18JwO6,226067,4
+72,72,Charley Pride,1972,Kiss an Angel Good Mornin',classic country pop,country,country rock,0.665,0.512,4,-10.704,1,0.03,0.581,0.0,0.371,0.87,130.578,37GWhu8R61gTStMvVQfDuE,123467,4
+73,73,Alice Cooper,1972,School's Out,album rock,classic rock,detroit rock,0.294,0.745,5,-9.138,1,0.0461,0.05,0.125,0.676,0.347,134.364,5Z8EDau8uNcP1E8JvmfkZe,210107,4
+74,74,Chicago,1972,Saturday in the Park - 2002 Remaster,adult standards,album rock,classic rock,0.67,0.763,7,-6.864,1,0.0341,0.155,0.0,0.0799,0.61,114.398,4OJFkrRQqol4FsPesF8eu4,235667,4
+75,75,Joe Simon,1972,Drowning In the Sea of Love,classic soul,philly soul,soul,0.603,0.448,9,-10.552,0,0.0927,0.388,0.0172,0.103,0.522,119.715,0ccQoLBxhOTg6PYUIoSix9,203107,4
+76,76,Bill Withers,1972,Use Me,funk,quiet storm,soul,0.758,0.586,11,-13.461,0,0.056,0.033,0.0028,0.0743,0.947,154.629,4gRA0i5sxx3jAhHaVjPnUN,228327,4
+77,77,Sly & The Family Stone,1972,Family Affair - Single Version,classic rock,classic soul,disco,0.819,0.605,2,-13.83,0,0.132,0.669,0.0163,0.199,0.797,108.892,2GVEs1sn5Q1jB1976vQoAX,185533,4
+78,78,The Jimmy Castor Bunch,1972,Troglodyte (Cave Man),funk,rare groove,,0.797,0.653,5,-14.226,1,0.0722,0.0527,0.0043,0.0801,0.861,133.294,08L6jFH2p1NfDXX4suPvp2,217896,4
+79,79,Redbone,1972,The Witch Queen of New Orleans,native american,native american contemporary,,0.613,0.817,0,-4.957,1,0.0858,0.0338,1.96e-06,0.083,0.62,119.926,5M3lcfDNGB4S0iDoP9ItcV,165093,4
+80,80,Curtis Mayfield,1972,Freddie's Dead,chicago soul,classic soul,funk,0.523,0.803,1,-6.321,0,0.0791,0.107,0.000409,0.154,0.921,91.469,2ouFIPC3O1HNBcVTw1d9AN,329467,4
+81,81,Joe Simon,1972,Power of Love,classic soul,philly soul,soul,0.828,0.674,0,-7.216,1,0.0499,0.244,0.0,0.455,0.969,110.722,7H7zHJSHSSlyEBU0EAxmFK,174636,4
+82,82,Jerry Butler,1972,Ain't Understanding Mellow,beach music,brill building pop,chicago soul,0.449,0.456,4,-10.674,0,0.0278,0.506,8.34e-05,0.15,0.69,140.316,5ehrJB4xFea5kph6jVoWtS,260333,4
+83,83,Harry Chapin,1972,Taxi,classic rock,country rock,folk,0.61,0.363,4,-12.576,0,0.0322,0.679,2.83e-05,0.18,0.462,118.509,7qnxmC6qdYkjcoCJCeD8Jx,402840,4
+84,84,Beverly Bremers,1972,Don't Say You Don't Remember,,,,0.503,0.476,0,-9.577,1,0.0307,0.103,0.0,0.138,0.402,117.031,2yb8jAFj1cOj3CBI66jN78,204507,3
+85,85,Bobby Vinton,1972,Sealed with a Kiss,adult standards,brill building pop,bubblegum pop,0.414,0.317,5,-12.9,0,0.026,0.678,2.56e-05,0.213,0.673,86.111,26mlDJoh5bQiC7efK7xq9z,169067,4
+86,86,Todd Rundgren,1972,I Saw the Light,album rock,art rock,classic rock,0.583,0.833,0,-8.29,1,0.0343,0.0531,5.57e-05,0.16,0.81,119.884,0B1zVsLqmV9ibIFdNS5tGs,182800,4
+87,87,Sailcat,1972,Motorcycle Mama,,,,0.687,0.154,4,-24.336,1,0.0649,0.936,0.44,0.089,0.733,121.293,1TkgnYlGsO7nva2PF97tVM,126573,4
+88,88,Robin Lamont,1972,"Day by Day (From ""Godspell"")",,,,0.241,0.638,2,-6.626,0,0.0668,0.305,0.0,0.192,0.558,148.755,5nRxhDKDgtTti6aZXB3jVl,204507,4
+89,89,Yes,1972,Roundabout - 2008 Remaster,album rock,art rock,classic rock,0.411,0.845,4,-6.821,0,0.0835,0.117,0.0146,0.0763,0.391,132.876,7lPjS6Yd4lRk4BsboDsm1H,515960,4
+90,90,Jackson Browne,1972,Doctor My Eyes,album rock,classic rock,country rock,0.48,0.626,5,-8.406,1,0.0294,0.266,5.7e-05,0.0857,0.542,75.63,3QcuZo6WLcFkqqLmDs0d95,199907,4
+91,91,The New Seekers,1972,I'd Like to Teach the World to Sing (In Perfect Harmony),brill building pop,bubblegum pop,classic uk pop,0.466,0.476,11,-9.289,1,0.031,0.749,0.0,0.22,0.856,133.731,0hbC2CAJidLslKqJ39Lxh4,145467,4
+92,92,Don McLean,1972,Vincent,adult standards,classic rock,folk,0.419,0.085,7,-19.387,1,0.0362,0.908,5.33e-06,0.34,0.458,91.509,0VNzEY1G4GLqcNx5qaaTl6,243493,3
+93,93,The Detroit Emeralds,1972,Baby Let Me Take You (In My Arms),classic soul,rhythm and blues,,0.564,0.495,6,-9.129,0,0.0463,0.227,0.000113,0.0685,0.5,81.58,2zE47i0dZKBoSIFJGhtpG9,230360,4
+94,94,Rick Springfield,1972,Speak To The Sky,album rock,australian rock,classic rock,0.583,0.659,9,-9.427,1,0.0308,0.584,8.95e-06,0.125,0.788,96.106,3U7WGQgdrFM9SWbVkPQSPn,162987,4
+95,95,Love Unlimited,1972,Walkin' In The Rain With The One I Love,classic soul,disco,,0.424,0.594,10,-9.652,1,0.0551,0.341,0.000282,0.413,0.59,137.535,4Ev3gucC4JAUbHJrHpY70w,287933,4
+96,96,James Brown,1972,Get On The Good Foot,funk,soul,,0.899,0.764,7,-8.204,1,0.137,0.0384,0.0,0.0354,0.747,108.445,7eoNNyyusSxTQeCtWMWdr0,214933,4
+97,97,The Isley Brothers,1972,Pop That Thang,classic soul,disco,funk,0.717,0.655,11,-5.818,0,0.125,0.274,0.0,0.11,0.877,158.636,4jsiIeVm7ZcCJRpq8opfMa,172760,4

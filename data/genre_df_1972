@@ -1,0 +1,16 @@
+,index,year,primary_genre,p_gen_count,pg_count,sub_genre_1,sg1_count,s1_count,sub_genre_2,sg2_count,s2_count
+0,0,1972,adult standards,17,26,brill building pop,11,35,classic rock,11.0,25.0
+1,1,1972,classic soul,17,26,classic rock,8,35,soul,6.0,25.0
+2,2,1972,album rock,14,26,classic soul,8,35,funk,6.0,25.0
+3,3,1972,bubblegum pop,6,26,art rock,8,35,bubblegum pop,5.0,25.0
+4,4,1972,funk,4,26,funk,6,35,country rock,5.0,25.0
+5,5,1972,classic rock,4,26,disco,5,35,disco,5.0,25.0
+6,6,1972,chicago soul,4,26,bubblegum pop,4,35,folk,5.0,25.0
+7,7,1972,art rock,3,26,folk rock,3,35,memphis soul,5.0,25.0
+8,8,1972,classic country pop,2,26,folk,2,35,blues rock,4.0,25.0
+9,9,1972,pop,2,26,philly soul,2,35,mellow gold,3.0,25.0
+10,10,1972,country rock,2,26,soft rock,2,35,folk rock,2.0,25.0
+11,11,1972,classic uk pop,2,26,quiet storm,2,35,quiet storm,2.0,25.0
+12,12,1972,brill building pop,2,26,country rock,2,35,rock,1.0,25.0
+13,13,1972,canadian singer-songwriter,1,26,r&b,2,35,psychedelic soul,1.0,25.0
+14,14,1972,british folk,1,26,nederpop,1,35,piano rock,1.0,25.0

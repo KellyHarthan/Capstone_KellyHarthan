@@ -1,0 +1,16 @@
+,index,year,primary_genre,p_gen_count,pg_count,sub_genre_1,sg1_count,s1_count,sub_genre_2,sg2_count,s2_count
+0,0,1992,contemporary r&b,15,33,contemporary r&b,11,35,new jack swing,8.0,31.0
+1,1,1992,album rock,11,33,mellow gold,6,35,hip house,6.0,31.0
+2,2,1992,boy band,7,33,hard rock,5,35,rock,5.0,31.0
+3,3,1992,dance pop,7,33,dance pop,5,35,hip hop,4.0,31.0
+4,4,1992,atl hip hop,5,33,hip pop,5,35,classic rock,4.0,31.0
+5,5,1992,gangster rap,4,33,pop,4,35,soft rock,4.0,31.0
+6,6,1992,canadian pop,4,33,new wave pop,4,35,r&b,4.0,31.0
+7,7,1992,adult standards,3,33,hip hop,4,35,new wave pop,4.0,31.0
+8,8,1992,disco,3,33,r&b,3,35,neo soul,3.0,31.0
+9,9,1992,pop,3,33,canadian singer-songwriter,3,35,classic canadian rock,3.0,31.0
+10,10,1992,christian music,3,33,permanent wave,3,35,hip pop,3.0,31.0
+11,11,1992,new wave pop,3,33,diva house,3,35,soul,3.0,31.0
+12,12,1992,alternative rock,3,33,art rock,3,35,girl group,3.0,31.0
+13,13,1992,glam metal,3,33,soft rock,2,35,dance pop,3.0,31.0
+14,14,1992,irish rock,2,33,gangster rap,2,35,pop rock,2.0,31.0

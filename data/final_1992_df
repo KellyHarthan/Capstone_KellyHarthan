@@ -1,0 +1,101 @@
+,index,artist_name,year,track_name,primary_genre,sub_genre_1,sub_genre_2,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_uri,duration_ms,time_signature
+0,0,Boyz II Men,1992,End Of The Road,boy band,contemporary r&b,new jack swing,0.561,0.579,5,-6.022,0,0.0243,0.0343,0.0,0.0673,0.55,74.822,3ZxhEGcEmCuwyBzwqCa7oW,349135,3
+1,1,Sir Mix-A-Lot,1992,Baby Got Back,gangster rap,hip hop,hip house,0.933,0.664,1,-11.281,1,0.311,0.00471,0.0,0.0908,0.616,128.467,7MCNnnmwm7TXMh7xyNGohi,262827,4
+2,2,Kris Kross,1992,Jump,gangster rap,hip hop,old school atlanta hip hop,0.749,0.745,2,-10.625,1,0.164,0.000501,0.00403,0.333,0.481,101.972,27AHAtAirQapVldIm4c9ZX,195107,4
+3,3,Vanessa Williams,1992,Save The Best For Last,adult standards,contemporary r&b,new wave pop,0.531,0.297,3,-12.742,1,0.0266,0.648,0.0,0.2,0.225,95.972,0oKtaLvAcLN1ayWxU3jub6,219147,4
+4,4,TLC,1992,Baby-Baby-Baby,atl hip hop,contemporary r&b,dance pop,0.679,0.597,11,-8.601,0,0.0439,0.0913,0.000673,0.0487,0.9,184.174,1zTuB57LYZa7xu7KUH8kF0,315040,4
+5,5,Eric Clapton,1992,Tears in Heaven,album rock,blues rock,classic rock,0.498,0.242,9,-12.238,1,0.0257,0.835,0.536,0.133,0.312,153.744,7utRJ4BeYx85khzP3lKoBX,271760,4
+6,6,En Vogue,1992,My Lovin' (You're Never Gonna Get It),contemporary r&b,dance pop,girl group,0.767,0.839,8,-5.519,1,0.0613,0.0318,9.31e-06,0.111,0.461,98.055,3R97rNX7JnmshCWBwOSFet,281613,4
+7,7,Red Hot Chili Peppers,1992,Under the Bridge,alternative rock,funk metal,funk rock,0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581,3d9DChrdc6BOeFsbrZ3Is0,264307,4
+8,8,Color Me Badd,1992,All 4 Love,boy band,contemporary r&b,new jack swing,0.807,0.75,2,-8.29,1,0.0315,0.0346,0.000179,0.149,0.797,106.389,4XmsMIMjvDIFEjeY3ycMzW,211493,4
+9,9,Jon Secada,1992,Just Another Day,mellow gold,new wave pop,soft rock,0.717,0.642,1,-10.727,1,0.0287,0.0194,0.000249,0.043,0.732,105.894,5AoBNJQDXXEnIJGjJjZu3y,327427,4
+10,10,Shanice,1992,I Love Your Smile,contemporary r&b,hip pop,new jack swing,0.722,0.842,5,-8.745,0,0.126,0.00955,8.45e-06,0.178,0.751,93.954,69mFxANpGyq9s69LqH3d9G,257973,4
+11,11,Mr. Big,1992,To Be With You - 2010 Remastered Version,glam metal,hard rock,,0.688,0.375,4,-9.601,1,0.0535,0.286,0.0,0.133,0.45,83.635,3Mmt6Xk0H6VR92PEp6x3hP,210480,4
+12,12,Right Said Fred,1992,I'm Too Sexy,eurodance,europop,hip house,0.683,0.739,11,-12.831,0,0.0495,4.91e-05,0.0122,0.293,0.836,122.113,2WElktskrNJEwgpp5Vouxk,170467,4
+13,13,Michael Jackson,1992,Black or White - Single Version,pop,r&b,soul,0.741,0.894,4,-3.826,1,0.0496,0.0814,0.0527,0.089,0.96,114.879,2Cy7QY8HPLk925AyNAt6OG,202853,4
+14,14,Billy Ray Cyrus,1992,Achy Breaky Heart,country,country rock,,0.79,0.563,9,-10.247,1,0.0305,0.0564,1.44e-06,0.12,0.966,121.772,3DoblTreF2YRCXnwROcAbS,203373,4
+15,15,Mariah Carey,1992,"I'll Be There (feat. Trey Lorenz) - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",dance pop,pop,r&b,0.404,0.498,5,-9.855,1,0.0338,0.687,0.0,0.725,0.284,81.951,2exGHTlYAUQ5UX4e7Uqc79,282373,4
+16,16,Guns N' Roses,1992,November Rain,glam metal,hard rock,rock,0.197,0.629,11,-9.291,1,0.03,0.0165,0.279,0.125,0.221,79.495,53968oKecrFxkErocab2Al,537507,4
+17,17,Tom Cochrane,1992,Life Is A Highway,album rock,canadian singer-songwriter,classic canadian rock,0.683,0.751,5,-10.184,1,0.0346,0.0681,8.36e-06,0.248,0.841,103.036,0hKF8N8aflF1uDzEEnPr2j,266560,4
+18,18,Michael Jackson,1992,Remember the Time,pop,r&b,soul,0.831,0.921,5,-2.383,0,0.0582,0.153,0.00224,0.305,0.795,108.002,4jnFqNWeJCeCRHc4HCdxfd,239227,4
+19,19,CeCe Peniston,1992,Finally,disco,diva house,hip house,0.761,0.718,11,-10.279,0,0.0366,0.00459,5.95e-06,0.0333,0.876,120.12,2WpCr1ls4bjL54NAcN5DAA,249067,4
+20,20,Madonna,1992,This Used to Be My Playground,dance pop,pop,,0.499,0.308,7,-11.692,0,0.0264,0.754,0.000943,0.124,0.0706,75.91,637V2ymBt4Ljlbz4EmRys8,310267,4
+21,21,Patty Smyth,1992,Sometimes Love Just Ain't Enough,new wave pop,,,0.561,0.442,10,-10.687,1,0.0243,0.329,0.0,0.24,0.267,82.996,3CUV8wsoTTKznGpEovrnZw,267600,4
+22,22,Mariah Carey,1992,Can't Let Go,dance pop,pop,r&b,0.478,0.533,10,-11.048,1,0.0404,0.591,0.00704,0.139,0.181,162.369,0ikbcCJIJaY9sKEivAXJ4I,266560,4
+23,23,House Of Pain,1992,Jump Around,gangster rap,hardcore hip hop,hip hop,0.854,0.71,4,-6.32,0,0.0793,0.0113,8.72e-05,0.166,0.818,106.894,2oTDOIAdsxPTE7yAp4YOcv,214947,4
+24,24,Prince,1992,Diamonds and Pearls,funk,funk rock,minneapolis sound,0.549,0.547,7,-10.119,1,0.0328,0.0532,0.321,0.0655,0.288,81.05,4mfyehYgUP2V8jsjW9UzYj,285267,4
+25,25,George Michael,1992,Don't Let the Sun Go Down on Me,new wave pop,soft rock,,0.433,0.551,0,-8.096,1,0.0289,0.501,1.77e-06,0.473,0.253,136.467,0q90594hk25yo0xZmBTqCd,346960,4
+26,26,Atlantic Starr,1992,Masterpiece,contemporary r&b,disco,funk,0.642,0.448,5,-10.417,0,0.0259,0.492,1.68e-05,0.0646,0.285,137.832,2sm3HfTCt3O6R6qUc5f6xb,295347,4
+27,27,Céline Dion,1992,If You Asked Me To,canadian pop,dance pop,,0.46,0.437,7,-10.587,1,0.0304,0.128,0.0,0.025,0.227,172.382,6vubJBI43jIr557lvNbzlH,234360,4
+28,28,En Vogue,1992,Giving Him Something He Can Feel,contemporary r&b,dance pop,girl group,0.496,0.298,9,-10.175,0,0.0405,0.306,1.72e-06,0.0875,0.705,203.824,4htbAEZWr53J08x3dUv00W,235707,3
+29,29,Joe Public,1992,Live and Learn,contemporary r&b,new jack swing,,0.746,0.905,11,-8.221,0,0.0817,0.0783,0.0,0.105,0.653,106.628,4nAerUqEeGCmVFsnpMTBAP,257907,4
+30,30,Jodeci,1992,Come & Talk To Me,contemporary r&b,hip hop,hip pop,0.609,0.57,7,-14.773,1,0.0912,0.223,0.0,0.366,0.84,172.095,63uR29DnkNPUiorL30cHnj,276267,4
+31,31,Nirvana,1992,Smells Like Teen Spirit,alternative rock,grunge,permanent wave,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,1f3yAtsJtY87CTmM8RLnxf,301920,4
+32,32,Bobby Brown,1992,Humpin' Around,contemporary r&b,funk,hip hop,0.71,0.797,1,-7.152,1,0.0401,0.00202,0.127,0.0395,0.613,110.214,52t5L70Ap9iHYSbIJ0jZFM,378360,4
+33,33,Sophie B. Hawkins,1992,Damn I Wish I Was Your Lover,lilith,new wave pop,pop rock,0.546,0.781,11,-9.439,0,0.0506,0.22,1.51e-05,0.363,0.539,95.032,7kmfQ2QHwGqRCxVHDv5mzo,323267,4
+34,34,Tevin Campbell,1992,Tell Me What You Want Me to Do,contemporary r&b,hip pop,neo soul,0.609,0.551,6,-7.93,1,0.0291,0.0233,0.0,0.234,0.512,127.956,0IhHkW1fnUSMEcLSHmKhrJ,256040,4
+35,35,TLC,1992,Ain't 2 Proud 2 Beg,atl hip hop,contemporary r&b,dance pop,0.674,0.707,10,-10.799,0,0.0343,0.00265,0.00213,0.352,0.712,104.855,5kVSEpbyuLIVuPM1i2KivC,336560,4
+36,36,Boyz II Men,1992,It's So Hard To Say Goodbye To Yesterday,boy band,contemporary r&b,new jack swing,0.3,0.225,4,-11.079,1,0.0264,0.915,0.0,0.159,0.294,87.698,7DgjLTqVb8OCtWaqYozFB9,168530,4
+37,37,Technotronic,1992,Move This (Shake That Body),eurodance,europop,hip house,0.782,0.96,10,-4.047,1,0.0347,0.0637,0.0,0.0788,0.979,120.682,0PAGmTNpVASXq2tegMxSOs,296986,4
+38,38,Queen,1992,Bohemian Rhapsody - Remastered 2011,classic rock,glam rock,rock,0.414,0.404,0,-9.928,0,0.0499,0.271,0.0,0.3,0.224,71.105,1AhDOtG9vPSOmsWgNW0BEY,354320,4
+39,39,Arrested Development,1992,Tennessee - Remastered,atl hip hop,conscious hip hop,hip hop,0.815,0.851,1,-3.667,0,0.178,0.0284,0.0,0.343,0.674,99.915,5K8qwhQQSAj9ebIvlNJY8q,272707,4
+40,40,Janet Jackson,1992,The Best Things In Life Are Free,dance pop,hip pop,r&b,0.719,0.918,7,-5.173,1,0.0532,0.0592,0.000112,0.169,0.636,120.376,3E5wSWxUUUfIbZfYtL0h1A,276573,4
+41,41,Mariah Carey,1992,Make It Happen,dance pop,pop,r&b,0.811,0.531,2,-8.537,0,0.0355,0.00657,0.0285,0.0801,0.752,107.853,5UVcgBRW78CCcKCopEGAST,307000,4
+42,42,Elton John,1992,The One,glam rock,mellow gold,piano rock,0.421,0.646,10,-7.86,1,0.0278,0.0353,0.0016,0.166,0.284,76.144,3YpkVhRNeKVaSXUaG2TKs9,351387,4
+43,43,P.M. Dawn,1992,Set Adrift on Memory Bliss (Re-Recorded),contemporary r&b,,,0.795,0.705,5,-8.552,0,0.0715,0.00118,0.00658,0.136,0.482,100.025,3rcNGUOJ0mPOUcAFUlEyT3,235800,4
+44,44,Shakespears Sister,1992,Stay,candy pop,new wave pop,,0.506,0.597,8,-7.336,1,0.0371,0.526,0.000278,0.065,0.163,96.603,7u44eEBhSbO7J5DWIApQIg,227360,4
+45,45,MC Hammer,1992,2 Legit 2 Quit,hip hop,hip house,rap,0.853,0.884,1,-6.771,1,0.0836,0.0394,6.83e-06,0.0313,0.668,124.542,4ZnKSrukEcPuMxGrcZEEh1,333624,4
+46,46,K.W.S.,1992,Please Don't Go,,,,0.725,0.954,8,-7.234,1,0.0375,0.0437,0.0857,0.132,0.594,120.248,41DTJjf2ZT7dTuZOKBNKbb,373600,4
+47,47,Mint Condition,1992,Breakin' My Heart (Pretty Brown Eyes),contemporary r&b,funk,hip pop,0.657,0.565,7,-8.823,0,0.0436,0.103,1.22e-06,0.0479,0.588,137.142,0v6Pti6FvAHik2wBRIcelI,356788,4
+48,48,The Cover Girls,1992,Wishing on a Star,freestyle,,,0.696,0.829,5,-9.0,0,0.046,0.212,0.00542,0.136,0.686,97.086,2PeP9g0AZq7KoLoeN9n9QY,240707,4
+49,49,Hi-Five,1992,She's Playing Hard To Get,boy band,contemporary r&b,hip pop,0.525,0.811,1,-6.148,1,0.0602,0.00847,0.0,0.266,0.751,199.977,3xRbymJj98leHL7K8Y94WS,276573,4
+50,50,P.M. Dawn,1992,I'd Die Without You,contemporary r&b,,,0.543,0.266,1,-18.813,1,0.0443,0.256,0.00093,0.0993,0.343,79.992,6FBlxkA9VKafooUNAi4W3p,250693,4
+51,51,Amy Grant,1992,Good For Me,christian music,,,0.594,0.883,5,-4.279,1,0.0451,0.329,8.33e-05,0.276,0.863,89.997,2GwDKcTJlvoRDaJXkA7ULJ,239493,4
+52,52,Toad The Wet Sprocket,1992,All I Want,alternative rock,neo mellow,pop rock,0.6,0.811,5,-7.693,1,0.0788,0.0558,6.82e-06,0.109,0.622,124.303,2GHYJ0dhVds3PODKnTdiGE,196116,4
+53,53,Michael Bolton,1992,When a Man Loves a Woman,adult standards,mellow gold,soft rock,0.476,0.363,1,-10.706,1,0.0296,0.2,0.0,0.055,0.243,164.555,3ascnOSOR5MX901ylGuhcl,231067,3
+54,54,Genesis,1992,I Can't Dance - Remastered 2007,album rock,art rock,classic rock,0.916,0.523,3,-9.733,1,0.0521,0.432,1.13e-05,0.0488,0.88,107.564,7safX55XidhznxK5eDdDm5,241360,4
+55,55,Richard Marx,1992,Hazard,album rock,mellow gold,new wave pop,0.674,0.546,7,-11.461,0,0.0262,0.176,0.0045,0.0672,0.63,124.846,6aILdORvFPD0mO7y5q8O1t,316733,4
+56,56,U2,1992,Mysterious Ways,irish rock,permanent wave,rock,0.674,0.667,8,-8.004,1,0.0295,0.00176,0.00561,0.105,0.718,99.79,7FOZKzyMlqKMOua5aehMUa,243587,4
+57,57,George Michael,1992,Too Funky - Single Edit,new wave pop,soft rock,,0.66,0.893,1,-8.324,1,0.0758,0.0211,0.305,0.718,0.757,98.262,4KjPPpRbthW8dSNdisR2Wi,224933,4
+58,58,The Heights,1992,How Do You Talk To An Angel?,,,,0.404,0.51,9,-11.353,1,0.0321,0.281,6.32e-06,0.0789,0.526,80.643,2QVHmiFTjFsHyxONRdbkcq,227267,4
+59,59,U2,1992,One,irish rock,permanent wave,rock,0.511,0.536,0,-8.661,1,0.0302,0.256,0.00265,0.122,0.357,90.358,3PKtemUKxiDBvBo7tpQ8bG,276187,4
+60,60,CeCe Peniston,1992,Keep On Walkin',disco,diva house,hip house,0.766,0.712,6,-12.111,1,0.0427,0.00291,0.0201,0.226,0.655,104.974,5Rg4i5SEzUXAiztaIwG3Qd,270838,4
+61,61,Genesis,1992,Hold On My Heart - Remastered 2007,album rock,art rock,classic rock,0.458,0.363,5,-12.521,0,0.0301,0.607,0.0144,0.0744,0.27,172.047,4zRl3lAyZOVcJgHwZTpH17,278000,4
+62,62,Karyn White,1992,The Way I Feel About You,contemporary r&b,minneapolis sound,new jack swing,0.673,0.888,1,-7.056,1,0.0364,0.261,0.000134,0.234,0.801,110.772,5LLRxnEQAbnQNzLK0mAC2R,275467,4
+63,63,Céline Dion,1992,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",canadian pop,dance pop,,0.463,0.4,6,-9.999,0,0.0308,0.643,2.46e-05,0.131,0.121,77.314,7B3UAPLYAbwXVgbHSKEaTw,249240,4
+64,64,Kris Kross,1992,Warm It Up,gangster rap,hip hop,old school atlanta hip hop,0.865,0.778,1,-10.05,1,0.249,0.0411,0.0,0.303,0.763,103.008,4Gv46S98aguDKuKTrbRBus,248333,4
+65,65,Michael Jackson,1992,In the Closet,pop,r&b,soul,0.877,0.781,11,-3.775,0,0.0691,0.117,0.000746,0.149,0.606,110.494,5Fy40smNxk0j5OpFMtvfaU,390573,4
+66,66,Arrested Development,1992,People Everyday,atl hip hop,conscious hip hop,hip hop,0.839,0.508,1,-12.359,1,0.219,0.0126,3.06e-05,0.0928,0.874,80.014,6JvodgYcsthsORxPsEYUoe,206893,4
+67,67,Genesis,1992,No Son Of Mine,album rock,art rock,classic rock,0.678,0.71,4,-4.443,0,0.0305,0.456,4.14e-05,0.0535,0.308,104.011,2nHajACLqGsbctpe3Rafh3,395653,4
+68,68,Marky Mark And The Funky Bunch,1992,Wildside,,,,0.767,0.356,8,-15.502,0,0.106,0.166,0.309,0.101,0.271,105.404,2U25Ne3teRZLF1wsRnjcfW,307267,4
+69,69,Bryan Adams,1992,Do I Have To Say The Words?,canadian pop,canadian singer-songwriter,classic canadian rock,0.5,0.594,7,-9.38,1,0.0283,0.0845,2.91e-06,0.143,0.447,128.081,6z47lCY4NaxMzhGuh7mnEK,371200,4
+70,70,The Cure,1992,Friday I'm In Love,new wave,permanent wave,rock,0.526,0.763,0,-12.663,0,0.0341,0.00126,6.75e-05,0.359,0.514,136.205,20CNpCKq1oTdvekXaboyeq,215160,4
+71,71,Ugly Kid Joe,1992,Everything About You,funk metal,funk rock,glam metal,0.516,0.783,1,-7.895,1,0.0646,0.0117,1.08e-06,0.142,0.775,122.603,0l37J5l4eJfIdd7cea1Cl5,260507,4
+72,72,Paula Abdul,1992,Blowing Kisses In The Wind,dance pop,new wave pop,soft rock,0.524,0.544,6,-9.059,0,0.0337,0.574,0.0,0.236,0.261,147.674,1uhsVQi7IADIxZXN1xJnk5,281840,4
+73,73,Bryan Adams,1992,Thought I'd Died And Gone To Heaven,canadian pop,canadian singer-songwriter,classic canadian rock,0.439,0.746,4,-8.159,1,0.03,0.0569,0.0,0.097,0.568,174.403,0LJKGUTtdzcLW9ZcUxkRXR,348467,4
+74,74,SNAP!,1992,"Rhythm Is A Dancer - 7"" Edit",diva house,eurodance,europop,0.794,0.756,9,-11.331,0,0.0343,0.251,0.000611,0.122,0.759,124.25,5iEDwEp82uLN3X6llJdqen,225867,4
+75,75,MC Hammer,1992,Addams Groove,hip hop,hip house,rap,0.912,0.582,11,-9.408,0,0.271,0.0333,0.0,0.0572,0.842,119.996,46jqxETXUwgLRsoMGuwFLa,239040,4
+76,76,Michael Bolton,1992,Missing You Now (feat. Kenny G),adult standards,mellow gold,soft rock,0.618,0.644,7,-7.343,1,0.0269,0.115,0.0,0.136,0.318,95.012,28jxOSSr6Ou0nOwO9yyrlZ,273560,4
+77,77,N2DEEP,1992,Back to the Hotel,chicano rap,gangster rap,hyphy,0.7,0.476,9,-9.195,1,0.0512,0.000166,0.000791,0.0823,0.323,201.77,2TVWQ8xDTLvjimMSqW3F96,304360,4
+78,78,Kathy Troccoli,1992,Everything Changes,,,,0.749,0.874,6,-3.981,1,0.0332,0.0853,2.66e-06,0.0414,0.78,117.776,7rJXvz9zXQr9YYdYzeXe7U,262200,4
+79,79,Def Leppard,1992,Have You Ever Needed Someone So Bad,album rock,hard rock,nwobhm,0.497,0.726,4,-8.335,1,0.0272,0.0489,8.99e-06,0.049,0.735,136.792,0nf9RjoFTcOzTIXtmzhRuH,324027,4
+80,80,Richard Marx,1992,Take This Heart,album rock,mellow gold,new wave pop,0.612,0.694,0,-8.277,1,0.026,0.00142,0.0012,0.0749,0.551,115.53,1aHCn2d62m0Gghu0nLeaw3,250667,4
+81,81,Firehouse,1992,When I Look Into Your Eyes,album rock,glam metal,hard rock,0.396,0.612,6,-8.039,1,0.0277,0.00288,4.71e-05,0.233,0.241,146.759,1yJWqYYDQge60nZKdLyiZU,239867,4
+82,82,Jade,1992,I Wanna Love You,contemporary r&b,girl group,neurofunk,0.731,0.707,0,-9.79,0,0.0769,0.0596,0.00654,0.264,0.838,200.306,2BDRHFw5170t2kRHD3uEMU,271400,4
+83,83,Boyz II Men,1992,Uhh Ahh,boy band,contemporary r&b,new jack swing,0.722,0.661,2,-8.236,1,0.0844,0.151,0.0,0.233,0.643,126.007,3F2We6fYbrFOsmPrJrFUE6,228763,4
+84,84,Mary J. Blige,1992,Real Love,dance pop,hip pop,neo soul,0.76,0.793,0,-5.528,1,0.0791,0.106,0.000433,0.0517,0.833,95.056,22sTMbJk27SLWMtsdYLt4u,269973,4
+85,85,The KLF,1992,Justified & Ancient,acid house,ambient house,big beat,0.628,0.953,10,-4.989,0,0.0626,0.00276,0.0132,0.427,0.515,111.134,7E81YAfHOaSlnevLjKMghT,228372,4
+86,86,Color Me Badd,1992,Slow Motion,boy band,contemporary r&b,new jack swing,0.783,0.885,6,-7.747,0,0.0648,0.00525,0.752,0.0435,0.941,92.042,03GzYByXsXHcoEAxjsWv9G,265667,4
+87,87,TLC,1992,What About Your Friends,atl hip hop,contemporary r&b,dance pop,0.744,0.851,10,-10.108,0,0.049,0.0267,0.00738,0.0989,0.626,105.882,63PIgPkDf3rswlU4ZWCYAM,293600,4
+88,88,Color Me Badd,1992,Thinkin' Back,boy band,contemporary r&b,new jack swing,0.587,0.326,6,-11.204,0,0.0242,0.21,1e-05,0.133,0.271,90.821,5OI4XbIHmAGDNnmP01sD82,322533,4
+89,89,Charles & Eddie,1992,Would I Lie To You?,neo soul,,,0.547,0.538,11,-11.39,0,0.0567,0.473,0.0,0.0369,0.718,202.409,21MLFi0ISlqDBp7DQHPi7p,279600,4
+90,90,Amy Grant,1992,That's What Love Is For,christian music,,,0.544,0.699,9,-4.148,1,0.0341,0.258,0.0,0.144,0.293,141.844,367dmPOxuMP8FsrZHenNnq,257293,4
+91,91,Richard Marx,1992,Keep Coming Back,album rock,mellow gold,new wave pop,0.72,0.478,9,-11.074,1,0.0239,0.115,2.27e-05,0.104,0.672,97.073,0GMFC1osUTm2qKycgHdwWD,409360,4
+92,92,En Vogue,1992,Free Your Mind,contemporary r&b,dance pop,girl group,0.765,0.831,7,-6.522,1,0.0565,0.0894,0.0,0.393,0.809,100.026,2vG1yrWSMiL6egg6w4e9ma,293106,4
+93,93,Keith Sweat,1992,Keep It Comin',contemporary r&b,hip pop,neo soul,0.667,0.899,11,-7.084,0,0.0809,0.0371,4.12e-06,0.541,0.738,101.477,5DcIkTnThkzh1fTnF6juFx,246373,4
+94,94,Mr. Big,1992,Just Take My Heart - 2010 Remastered Version,glam metal,hard rock,,0.508,0.362,0,-9.369,1,0.0349,0.483,0.0,0.0996,0.207,168.586,7mqqMOgnRE50GOJFPxRF8x,265307,4
+95,95,Amy Grant,1992,I Will Remember You,christian music,,,0.513,0.658,0,-6.432,1,0.0277,0.0329,9.3e-05,0.0805,0.336,177.625,76crWZqaiFzlTPGzNtT4w1,300560,4
+96,96,CeCe Peniston,1992,We Got A Love Thang,disco,diva house,hip house,0.669,0.644,0,-10.47,1,0.0302,0.000172,0.00585,0.356,0.764,120.012,1Z1BvDuDYOaQaQtoeCDSuA,328800,4
+97,97,Def Leppard,1992,Let's Get Rocked,album rock,hard rock,nwobhm,0.564,0.888,5,-6.763,1,0.0325,0.0109,6.68e-05,0.177,0.526,91.989,0LoH6lFQLNscy3RyljAewK,295957,4
+98,98,Das EFX,1992,They Want EFX,east coast hip hop,gangster rap,hardcore hip hop,0.755,0.459,5,-12.84,0,0.358,0.115,0.0,0.0851,0.597,98.454,3HCzj965m8Fz2E8wZkir6q,221400,4
+99,99,Bonnie Raitt,1992,I Can't Make You Love Me,country rock,electric blues,folk,0.588,0.149,7,-16.728,0,0.0319,0.846,9.65e-05,0.236,0.113,124.689,69uJi5QsBtqlYkGURTBli8,332960,4

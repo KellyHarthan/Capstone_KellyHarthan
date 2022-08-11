@@ -1,0 +1,100 @@
+,index,artist_name,year,track_name,primary_genre,sub_genre_1,sub_genre_2,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_uri,duration_ms,time_signature
+0,0,Olivia Newton-John,1982,Physical,adult standards,australian dance,bubblegum pop,0.829,0.737,4,-8.181,0,0.0441,0.13,6.25e-05,0.284,0.857,123.878,3FuL7jThtUAjneBm6puQNk,222400,4
+1,1,Survivor,1982,Eye of the Tiger,album rock,hard rock,rock,0.815,0.438,0,-14.522,0,0.0346,0.216,0.000466,0.0787,0.552,108.965,2HHtWyy5CgaQbC7XSoOb0e,243773,4
+2,2,Joan Jett & the Blackhearts,1982,I Love Rock 'N Roll,glam punk,rock,,0.535,0.716,4,-5.025,1,0.0431,0.326,0.0,0.659,0.901,94.379,2Cdvbe2G4hZsnhNMKyGrie,175173,4
+3,3,Paul McCartney,1982,Ebony And Ivory,album rock,beatlesque,classic rock,0.639,0.458,4,-15.138,1,0.0343,0.152,0.0,0.168,0.805,80.692,1h3bcnnIm72UnemGIfm0iZ,220773,4
+4,4,The J. Geils Band,1982,Centerfold,album rock,art rock,blues rock,0.653,0.677,0,-12.244,1,0.0396,0.249,0.0,0.403,0.888,114.37,1ynmMEK1fkyiZ6Z6F3ThEt,216533,4
+5,5,The Human League,1982,Don't You Want Me,art rock,new romantic,new wave,0.734,0.742,9,-8.021,0,0.0382,0.175,0.0,0.134,0.957,117.652,7zhtLp2V3lNXdllknAqbKk,240533,4
+6,6,John Mellencamp,1982,Jack & Diane,album rock,classic rock,country rock,0.811,0.41,9,-8.214,1,0.0391,0.0365,6.63e-06,0.0799,0.626,103.965,43btz2xjMKpcmjkuRsvxyg,254493,4
+7,7,John Mellencamp,1982,Hurts So Good,album rock,classic rock,country rock,0.785,0.737,9,-5.306,1,0.0363,0.042,0.000107,0.108,0.971,125.447,67eX1ovaHyVPUinMHeUtIM,218960,4
+8,8,Steve Miller Band,1982,Abracadabra,album rock,blues rock,classic rock,0.791,0.535,9,-13.261,0,0.0355,0.0749,1.96e-06,0.156,0.963,127.488,2E2ZVy2fxslpAUgbb4zu84,308373,4
+9,9,Chicago,1982,Hard to Say I'm Sorry - 2009 Remaster,adult standards,album rock,classic rock,0.537,0.417,4,-7.209,1,0.0273,0.695,1.86e-06,0.151,0.256,144.716,5nDSJO4909uNzMcZH3CggS,221827,4
+10,10,Soft Cell,1982,Tainted Love,new romantic,new wave,new wave pop,0.542,0.45,7,-9.931,0,0.0361,0.558,6.43e-06,0.579,0.626,144.437,58E1XVmZTODC67YNjneuXM,153840,4
+11,11,Vangelis,1982,Chariots Of Fire,cyberpunk,new age,synthesizer,0.48,0.378,1,-13.317,1,0.0328,0.0896,0.398,0.118,0.0616,136.379,3hBgVOpgET0AGtdwc5D8Qy,211209,4
+12,12,Quarterflash,1982,Harden My Heart,album rock,new wave pop,soft rock,0.531,0.43,11,-14.523,0,0.0578,0.0568,1.22e-06,0.0964,0.453,124.284,3CSLUIrI2KPMulHR5bh17O,232627,4
+13,13,TOTO,1982,Rosanna,album rock,classic rock,mellow gold,0.365,0.513,7,-13.034,0,0.0357,0.0208,0.000147,0.205,0.739,80.647,37BTh5g05cxBIRYMbw8g2T,331200,4
+14,14,Daryl Hall & John Oates,1982,I Can't Go for That (No Can Do),album rock,classic rock,mellow gold,0.889,0.441,0,-9.506,0,0.0379,0.0405,0.000788,0.038,0.963,110.565,41dDygR3r7e926oGUXfrLt,307307,4
+15,15,Tommy Tutone,1982,867-5309 / Jenny,album rock,new wave pop,,0.73,0.785,2,-7.201,1,0.0456,0.0418,0.00669,0.123,0.724,137.639,00MI0oGDVJYM1qWbyUOIhH,231080,4
+16,16,Bertie Higgins,1982,Key Largo,soft rock,,,0.503,0.659,0,-6.829,1,0.0356,0.443,0.0,0.153,0.33,101.668,3aGdlqp8i9lJAWG5nqfhUP,198947,4
+17,17,Melissa Manchester,1982,You Should Hear How She Talks About You,adult standards,bubblegum pop,mellow gold,0.797,0.678,4,-12.24,1,0.0514,0.133,0.0,0.119,0.882,132.934,4FDRce5rrUuAbsC5VKwSkz,255173,4
+18,18,Foreigner,1982,Waiting for a Girl like You,album rock,classic rock,hard rock,0.33,0.469,10,-9.286,0,0.0335,0.31,2.3e-06,0.0402,0.433,201.327,2OgVsp77En2nju8pnCieVU,292067,4
+19,19,Rick Springfield,1982,Don't Talk to Strangers,album rock,australian rock,classic rock,0.799,0.714,1,-9.472,0,0.0421,0.286,0.0,0.145,0.67,123.207,1syhTK7LlvpeWdZNsZARP0,180360,4
+20,20,Juice Newton,1982,The Sweetest Thing (I've Ever Known),classic country pop,country dawn,country rock,0.38,0.228,7,-14.373,1,0.0261,0.602,0.0,0.154,0.181,77.177,3EFgVWb1TAYP3CF17BB4fU,248133,4
+21,21,Willie Nelson,1982,Always on My Mind,classic country pop,country,country rock,0.531,0.316,2,-12.264,1,0.0269,0.781,0.00289,0.138,0.202,73.403,3mmn1eswXMsJec8POXQb7p,212720,4
+22,22,The Cars,1982,Shake It Up,album rock,art rock,classic rock,0.692,0.74,0,-7.466,1,0.0329,0.0723,8.83e-05,0.136,0.864,147.274,5OWokvF4QOqMDQ8ByQsm6V,215440,4
+23,23,Dazz Band,1982,Let It Whip,disco,electro,funk,0.82,0.838,9,-6.86,0,0.041,0.109,0.00228,0.0452,0.947,132.125,2UCgWpa2r4ytWueNItYbWE,281280,4
+24,24,The Go-Go's,1982,We Got The Beat,album rock,candy pop,girl group,0.587,0.994,2,-5.61,1,0.045,0.155,0.0734,0.0319,0.481,151.941,5kz9GDBTX846OXwqWoyKzF,153133,4
+25,25,Ray Parker Jr.,1982,The Other Woman,disco,,,0.909,0.544,9,-11.692,1,0.0529,0.139,0.00614,0.457,0.962,125.918,7ubq5fqmcPhfg1Q8s3HbbA,247960,4
+26,26,George Benson,1982,Turn Your Love Around,adult standards,disco,jazz funk,0.627,0.385,9,-13.655,0,0.0537,0.334,0.0,0.182,0.766,205.726,6a899bXlCuViXW2Qs8Rdqo,230107,4
+27,27,Air Supply,1982,Sweet Dreams,mellow gold,soft rock,,0.328,0.516,2,-7.845,0,0.0303,0.249,0.00208,0.486,0.17,128.557,2aQ9yUp14YVKsOKuCDnBJn,322427,4
+28,28,The Motels,1982,Only The Lonely - Remastered 1999,album rock,mellow gold,new romantic,0.649,0.313,8,-16.631,1,0.0339,0.0503,0.0017,0.0864,0.708,115.493,1BZMMt9H0TheQGWQy44KmO,196200,4
+29,29,Men At Work,1982,Who Can It Be Now?,album rock,australian rock,mellow gold,0.805,0.479,4,-14.734,1,0.0436,0.0627,0.000143,0.104,0.962,128.411,5rfJ2Bq2PEL8yBjZLzouEu,201293,4
+30,30,Fleetwood Mac,1982,Hold Me - 2016 Remaster,album rock,classic rock,mellow gold,0.699,0.741,3,-8.488,1,0.0329,0.337,0.108,0.065,0.864,125.698,2zYCip88nwoF96SC7WEjJm,225035,4
+31,31,The Alan Parsons Project,1982,Eye In The Sky,album rock,art rock,classic rock,0.823,0.417,2,-12.643,1,0.032,0.562,0.00098,0.0765,0.522,111.928,39qYD4J4BKvZMQgxfXl5bv,276280,4
+32,32,"Earth, Wind & Fire",1982,Let's Groove,disco,funk,jazz funk,0.877,0.557,11,-10.79,0,0.0723,0.0628,0.0023,0.145,0.88,125.543,4ZXxmmsp1Nd7ejbHs2BNBG,334867,4
+33,33,Journey,1982,Open Arms,album rock,classic rock,hard rock,0.405,0.21,2,-13.214,1,0.0279,0.584,0.0,0.139,0.174,100.577,2w4EpqGasrz9qdTwocx54t,202173,3
+34,34,Dan Fogelberg,1982,Leader of the Band,adult standards,classic rock,country rock,0.628,0.159,8,-14.363,1,0.0333,0.872,0.0,0.111,0.505,135.003,3O4s2m47MFhnGqmpkjoKYk,256400,4
+35,35,Stevie Nicks,1982,Leather and Lace - 2016 Remaster,album rock,heartland rock,mellow gold,0.49,0.432,3,-9.327,1,0.0298,0.639,0.0,0.104,0.367,153.753,49nuGcnaUcB9jXgcOGYEiH,225573,4
+36,36,Air Supply,1982,Even the Nights Are Better,mellow gold,soft rock,,0.434,0.507,5,-10.422,1,0.0358,0.565,0.0,0.161,0.236,115.309,09bRmFRViBORKQ2miwp04P,237107,4
+37,37,Charlene,1982,I've Never Been To Me,,,,0.593,0.348,10,-11.443,1,0.0335,0.84,3.42e-06,0.208,0.417,119.871,5D1ke8QuVinJEZJ0AZZtxD,240440,4
+38,38,Paul Davis,1982,'65 Love Affair,album rock,bubblegum pop,country rock,0.647,0.686,2,-4.247,0,0.0274,0.432,6.19e-06,0.133,0.952,155.697,5nBp8F6tekSrnFg8G2Pvug,219813,4
+39,39,Asia,1982,Heat Of The Moment,album rock,art rock,classic rock,0.297,0.846,1,-6.571,1,0.0482,0.191,1.37e-05,0.283,0.602,137.426,2IcvvNK6aZ1uMwTAz5zXJx,232333,4
+40,40,Little River Band,1982,Take It Easy On Me - Remastered,album rock,art rock,classic rock,0.424,0.575,9,-9.269,1,0.033,0.0178,3.38e-06,0.276,0.276,121.681,5p0Et9J14mQUaqZsNiFlsY,227080,4
+41,41,Buckner & Garcia,1982,Pac-Man Fever,novelty,,,0.802,0.831,10,-6.743,1,0.0627,0.485,0.000121,0.302,0.888,141.553,1jinux2Q5Afix30KCtZiuz,229042,4
+42,42,Stevie Wonder,1982,That Girl,funk,indie r&b,motown,0.796,0.69,6,-8.938,1,0.0466,0.109,1.93e-05,0.0613,0.898,106.972,41R8wVfgdViMGnjId2xDMp,313853,4
+43,43,Daryl Hall & John Oates,1982,Private Eyes,album rock,classic rock,mellow gold,0.823,0.778,2,-12.313,0,0.0475,0.331,0.0,0.0799,0.862,121.033,098DRq2EpYSun5kAj7NfWa,208173,4
+44,44,Lindsey Buckingham,1982,Trouble,album rock,art rock,classic rock,0.695,0.503,1,-12.91,1,0.0361,0.111,0.0134,0.0996,0.969,124.113,04ijIUVdT4Qy1SBWFUPROY,236533,4
+45,45,Roberta Flack,1982,Making Love,adult standards,classic soul,disco,0.446,0.104,5,-16.98,1,0.0307,0.865,0.00126,0.0895,0.0901,139.084,1UpKK7U9ow2K1G6qNw9wnW,224733,4
+46,46,Juice Newton,1982,Love's Been A Little Bit Hard On Me,classic country pop,country dawn,country rock,0.607,0.753,9,-10.721,1,0.0326,0.136,0.00856,0.0659,0.936,144.637,37zpChlZkoFuScXLoiu0WE,195640,4
+47,47,Rod Stewart,1982,Young Turks - 2008 Remaster,mellow gold,soft rock,,0.641,0.821,5,-8.783,0,0.0325,0.274,0.487,0.138,0.705,161.143,5n1amEDwVKucAGMqePk9yN,302413,4
+48,48,The J. Geils Band,1982,Freeze-Frame,album rock,art rock,blues rock,0.605,0.913,0,-4.984,1,0.0419,0.175,0.00952,0.385,0.93,186.124,4QiBSGoonOPoCcldn0DYCq,238133,4
+49,49,REO Speedwagon,1982,Keep the Fire Burnin',album rock,classic rock,hard rock,0.445,0.818,0,-9.797,1,0.0406,0.15,0.00509,0.313,0.777,104.531,07wMk0CZVZRMqhF66r40Z8,234893,4
+50,50,Huey Lewis & The News,1982,Do You Believe In Love,album rock,classic rock,mellow gold,0.564,0.838,11,-4.417,1,0.0328,0.0854,0.0,0.141,0.815,113.816,1Flq3q4sDw3EYqk8Z9agIe,207987,4
+51,51,Paul Davis,1982,Cool Night,album rock,bubblegum pop,country rock,0.572,0.523,2,-5.413,0,0.0256,0.634,0.0,0.181,0.631,107.791,0ECGe76uQAsgjXHE3uDkbk,217440,4
+52,52,38 Special,1982,Caught Up In You,album rock,classic rock,country rock,0.425,0.681,1,-8.604,0,0.0316,0.0229,0.000219,0.0543,0.933,131.011,3jYRpwbctfqB77uU7T7K3U,279333,4
+53,53,Diana Ross,1982,Why Do Fools Fall In Love,adult standards,disco,motown,0.651,0.647,4,-10.053,1,0.0562,0.302,6.63e-05,0.524,0.964,159.81,3btXFxLJ1e69bgieb33x6g,173427,4
+54,54,Alabama,1982,Love in the First Degree,country,country road,country rock,0.588,0.431,8,-11.881,1,0.0341,0.24,0.0,0.057,0.558,104.394,36TkU8oFYnabnDwP6n4p4R,198267,4
+55,55,Royal Philharmonic Orchestra conducted by Louis Clark,1982,Hooked On Classics (Parts 1 & 2),,,,0.738,0.455,2,-15.644,1,0.0514,0.0522,0.773,0.0727,0.607,130.399,0nqQwPNem175DbPnA3yCmJ,306133,4
+56,56,"Crosby, Stills & Nash",1982,Wasted on the Way,blues rock,classic rock,country rock,0.551,0.501,2,-13.87,1,0.0375,0.231,3.28e-06,0.179,0.811,153.851,42TFhl9RznJZi5Xcd2PZDb,172667,4
+57,57,Eddie Money,1982,Think I'm In Love,album rock,classic rock,country rock,0.482,0.96,3,-4.895,1,0.0441,0.022,0.000219,0.0561,0.598,151.737,2RvkPf7MIzhdh347w5sjTJ,189733,4
+58,58,Donna Summer,1982,Love Is In Control (Finger On The Trigger),disco,hi-nrg,new wave pop,0.838,0.623,7,-10.387,1,0.0436,0.362,0.0031,0.093,0.869,132.192,6W7mw61eqEnjcjfCp7GbJ5,260040,4
+59,59,Karla Bonoff,1982,Personally,mellow gold,soft rock,,0.736,0.419,11,-12.423,1,0.0324,0.731,4.67e-05,0.129,0.663,104.013,2H9DaLWHXqS7eSmouctbrj,216000,4
+60,60,Quincy Jones,1982,One Hundred Ways,disco,funk,quiet storm,0.621,0.245,8,-17.295,1,0.0495,0.805,8.89e-05,0.0706,0.375,90.063,0Ng9wyiQw09waMQxGNeqT9,259040,4
+61,61,Elton John,1982,Blue Eyes,glam rock,mellow gold,piano rock,0.239,0.161,7,-21.081,0,0.0324,0.437,0.000317,0.114,0.141,71.055,28gxmNEk6FvQsaj7RF6jCM,205173,4
+62,62,The Go-Go's,1982,Our Lips Are Sealed,album rock,candy pop,girl group,0.62,0.819,8,-8.789,1,0.05,0.0162,0.0,0.0412,0.964,131.223,78wTOLl1ANJtgOkOoNNZ06,165627,4
+63,63,Sheena Easton,1982,You Could Have Been With Me,adult standards,mellow gold,minneapolis sound,0.281,0.312,5,-11.098,1,0.0302,0.291,0.000961,0.258,0.202,63.321,3jcGgPrbEw2zwKP1eGdCGy,228853,4
+64,64,America,1982,You Can Do Magic,album rock,classic rock,country rock,0.859,0.568,4,-12.516,0,0.0387,0.29,0.0,0.31,0.936,129.72,5dXED6MP1v1qghkaniirb1,237467,4
+65,65,Daryl Hall & John Oates,1982,Did It In a Minute,album rock,classic rock,mellow gold,0.767,0.633,7,-10.06,1,0.0314,0.204,2.66e-06,0.198,0.921,132.253,6hHf43J8jIXM0q9DOZCYmp,218093,4
+66,66,A Flock Of Seagulls,1982,I Ran,new romantic,new wave,new wave pop,0.537,0.815,2,-6.208,1,0.0348,0.000418,0.807,0.194,0.691,145.424,10zlwR7kvVbD9OBkeZWr3L,219907,4
+67,67,Jackson Browne,1982,Somebody's Baby,album rock,classic rock,country rock,0.741,0.742,2,-7.822,1,0.0269,0.146,1.64e-05,0.106,0.889,116.951,4SlCb8n5Jw52astU7GWPyV,262733,4
+68,68,Commodores,1982,Oh No,adult standards,disco,funk,0.443,0.309,8,-12.358,1,0.0261,0.659,4.71e-05,0.352,0.485,171.712,5i4FU9RTVjuVA5v6jFUp61,181040,4
+69,69,Paul McCartney,1982,Take It Away,album rock,beatlesque,classic rock,0.619,0.61,2,-9.85,1,0.0413,0.00743,1.04e-05,0.0965,0.875,134.793,3Zl0tZ2K1LgnJTyEaI1M6N,243667,4
+70,70,Deniece Williams,1982,It's Gonna Take a Miracle,disco,funk,post-disco,0.567,0.458,7,-12.049,1,0.0257,0.85,0.000627,0.351,0.665,98.317,6AeOM7N0rK3tYOINY2k5qy,249640,3
+71,71,Kenny Rogers,1982,Love Will Turn You Around,adult standards,classic country pop,country,0.553,0.673,4,-7.749,1,0.0281,0.316,2.98e-06,0.0993,0.578,173.82,0gYuak91s15aIDwxB4pRM2,220960,4
+72,72,Journey,1982,Don't Stop Believin',album rock,classic rock,hard rock,0.491,0.802,4,-7.106,1,0.0392,0.25,0.0,0.387,0.472,119.25,77NNZQSqzLNqh2A9JhLRkg,248907,4
+73,73,Barbra Streisand,1982,Comin' In And Out Of Your Life,adult standards,disco,hollywood,0.325,0.374,1,-8.722,1,0.0354,0.864,1.98e-06,0.0743,0.188,140.028,7h8JzycDOWRSRfurjiCjGA,249507,4
+74,74,Laura Branigan,1982,Gloria (45 Version),disco,new romantic,new wave pop,0.777,0.585,9,-11.78,1,0.0294,0.0873,0.207,0.17,0.924,131.251,0locmm7BcpfpRGGXR7YsBW,291253,4
+75,75,Elton John,1982,Empty Garden (Hey Hey Johnny),glam rock,mellow gold,piano rock,0.662,0.329,4,-14.374,1,0.0293,0.0853,0.0,0.223,0.239,109.404,2pbmRBjiVO0afrPVReZiFb,310933,4
+76,76,Neil Diamond,1982,Yesterday's Songs,adult standards,brill building pop,classic rock,0.614,0.271,5,-18.872,1,0.0287,0.293,1.38e-06,0.182,0.353,96.347,0nNj8m5ho1lMQy8y5rmtVW,171467,4
+77,77,Joan Jett & the Blackhearts,1982,Crimson and Clover,glam punk,rock,,0.181,0.772,0,-5.201,1,0.0385,0.0601,0.00045,0.072,0.607,166.741,4do0Z0rHdFUV3RSMxMQsdq,197493,4
+78,78,The Police,1982,Every Little Thing She Does Is Magic,album rock,art rock,classic rock,0.558,0.768,2,-9.997,1,0.0343,0.121,0.0626,0.124,0.429,81.909,44aTAUBF0g6sMkMNE8I5kd,260573,4
+79,79,Air Supply,1982,Here I Am (Just When I Thought I Was Over You),mellow gold,soft rock,,0.344,0.466,0,-8.453,1,0.0255,0.534,1.61e-05,0.569,0.132,137.974,38mMrNPAJKXMBK2l9actEA,230400,4
+80,80,Michael McDonald,1982,I Keep Forgettin' (Every Time You're Near),mellow gold,quiet storm,soft rock,0.734,0.485,4,-13.865,0,0.0465,0.357,0.00019,0.0401,0.933,95.321,5GvWrvLIqoHroq7YvO260M,222280,4
+81,81,Kool & The Gang,1982,Get Down On It,disco,funk,post-disco,0.88,0.633,7,-6.331,1,0.061,0.219,3.87e-05,0.0609,0.97,110.864,4cdOa74e9tBGA6FaVT5mgc,212907,4
+82,82,Ronnie Milsap,1982,Any Day Now,classic country pop,country,country rock,0.688,0.438,5,-12.005,1,0.0231,0.0574,6.94e-06,0.106,0.605,102.662,0kapmJEBBZ1jy6LNhqtZj8,223827,4
+83,83,Olivia Newton-John,1982,Make A Move On Me,adult standards,australian dance,bubblegum pop,0.768,0.547,9,-13.055,1,0.0497,0.393,8.65e-05,0.116,0.605,121.97,1HKzbaJa69dMplZfb49TN1,197840,4
+84,84,Kool & The Gang,1982,Take My Heart,disco,funk,post-disco,0.673,0.657,11,-10.396,1,0.0666,0.277,0.0,0.346,0.917,87.557,0TQJdHkhAU45WV3ZjQ5xbF,147333,3
+85,85,Diana Ross,1982,"Mirror, Mirror - Radio Mix",adult standards,disco,motown,0.725,0.545,7,-12.042,0,0.0325,0.206,0.00139,0.173,0.958,103.406,2GEigdxii0cIc0nVRohyRm,245200,4
+86,86,The Go-Go's,1982,Vacation,album rock,candy pop,girl group,0.547,0.753,4,-10.834,1,0.0296,0.0023,0.00347,0.162,0.881,156.988,1vJOi8S2MSq3jZsni1gm4x,179027,4
+87,87,Van Halen,1982,(Oh) Pretty Woman,album rock,classic rock,hard rock,0.449,0.957,1,-2.989,1,0.0671,0.275,2.08e-06,0.295,0.591,127.971,2tIOS5Rm07vQbsaRjdKvPC,175307,4
+88,88,The Pointer Sisters,1982,Should I Do It,dance pop,disco,girl group,0.666,0.803,11,-4.636,0,0.0288,0.126,0.000176,0.609,0.75,130.443,4aloxog6eatkPa34BFmj8G,231600,4
+89,89,Billy Idol,1982,Hot In The City - 2001 Digital Remaster,album rock,classic rock,dance rock,0.614,0.885,5,-6.677,1,0.0265,0.000657,8.52e-05,0.139,0.676,111.393,0MHTpNtTcrdseMWAhh7Sdp,218067,4
+90,90,Kim Wilde,1982,Kids In America,disco,europop,new romantic,0.566,0.769,4,-4.973,1,0.0469,0.0597,0.0,0.579,0.324,159.651,0q4xWbV08szzUpGPhVsrcD,204480,4
+91,91,Little River Band,1982,Man On Your Mind - Remastered,album rock,art rock,classic rock,0.815,0.68,4,-9.73,1,0.0474,0.0921,0.000349,0.0741,0.961,112.863,4LzdgN6x9EHyE8MDjrq4lq,256840,4
+92,92,Michael Martin Murphey,1982,What's Forever For?,country,country rock,cowboy western,0.551,0.214,0,-16.631,0,0.0282,0.47,0.0,0.141,0.294,75.268,5j2yIrnbgDW51GM95ZjqDj,171907,4
+93,93,The Rolling Stones,1982,Waiting On A Friend,album rock,british invasion,classic rock,0.616,0.682,0,-8.507,1,0.0285,0.0241,0.0346,0.544,0.887,116.902,5AhkKqAdObA7yvXyGd6pQn,274080,4
+94,94,Stevie Wonder,1982,Do I Do - Single Version,funk,indie r&b,motown,0.713,0.862,11,-10.235,1,0.0519,0.0948,1.24e-05,0.33,0.894,113.268,5OUfoG39D9qGF6FcvX3Yp7,301800,4
+95,95,Loverboy,1982,Working for the Weekend,album rock,classic canadian rock,classic rock,0.515,0.766,7,-12.768,1,0.0343,0.0249,0.00103,0.455,0.774,146.911,35k31HZI4z9PbBOioaI4dZ,221000,4
+96,96,Christopher Cross,1982,Arthur's Theme (Best That You Can Do),adult standards,album rock,disco,0.526,0.515,9,-11.169,1,0.0389,0.169,0.000816,0.181,0.518,136.543,5fnOrhQ4KgT5irGCjIccGH,234493,4
+97,97,Kenny Rogers,1982,Through The Years - Single Version,adult standards,classic country pop,country,0.554,0.487,0,-7.604,1,0.0264,0.348,1.33e-06,0.213,0.258,131.127,5TSSjhWoGjWJfkfa6lziFJ,285027,4
+98,98,Stevie Nicks,1982,Edge of Seventeen - 2016 Remaster,album rock,heartland rock,mellow gold,0.591,0.804,0,-7.299,1,0.0454,0.327,5.98e-06,0.0818,0.658,111.457,7L3b6iaVhDVjfo52Hbvh9Z,329413,4
