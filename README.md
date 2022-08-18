@@ -1,23 +1,23 @@
-# Capstone_KellyHarthan
-Billboard top 100 analyzed
+#50 years of the Billboard HOT 100
+Kelly Harthan
 
 **Still need to revise and add links. Wanted to get this version pushed up now. Will be polished/ finished in the next hour or two.
 
-Motivation
-Data Sources
+###Motivation [Go to Motivation](#Motivation)
+###Data Sources
 Data Questions
 Technologies
 The Process
 The Dashboard
 
 
-Motivation
+##Motivation [Go to Motivation](#Motivation)
 I have loved music for as long as I can remember. Even before I could play or sing, I used to write poems and songs. I started playing music in my late teens and have continued down the road songwriting and telling stories. Music was what initially bought me to Nashville.
 
 The Billboard HOT 100 is one of the most popular and longest running music charts used today being on it’s 64th year. It is such a wealth of knowledge regarding the most popular tracks over the past six to seven decades.  Billboard alone can tell you a lot about the popular artists and music styles of the day. However, there was a golden opportunity in combining that history with Spotify’s ‘Audio Features’ to do a more thorough analysis of the musical elements of each of the tracks, With this combination we could get a more thorough understanding  the changes the actual music structure over time.
 
 Data Sources
--	Billboard
+[Billboard] (https://www.billboard.com/charts/hot-100/)
 -	Spotify
 o	Spotify for Developers
 o	Audio Features
@@ -64,4 +64,6 @@ After getting the complied lists, I needed to start pulling in the data. From he
 -	Clean, Prepare and Analyze
 
 Link to the Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiNjg0Yjk3ZTItOTQyYy00YTNkLWFmZTQtZWE0ZTQxNmE3N2FjIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
+[50 years of the Billboard HOT 100[ (https://app.powerbi.com/view?r=eyJrIjoiNjg0Yjk3ZTItOTQyYy00YTNkLWFmZTQtZWE0ZTQxNmE3N2FjIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+
+![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
