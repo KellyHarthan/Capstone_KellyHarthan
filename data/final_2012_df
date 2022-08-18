@@ -1,72 +1,72 @@
-,index,artist_name,year,track_name,primary_genre,sub_genre_1,sub_genre_2,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_uri,duration_ms,time_signature
-0,0,Gotye,2012,Somebody That I Used To Know,australian pop,,,0.865,0.521,0,-6.932,1,0.0371,0.548,0.000115,0.0989,0.748,129.059,1qDrWA6lyx8cLECdZE7TV7,244885,4
-1,1,Carly Rae Jepsen,2012,Call Me Maybe,canadian pop,dance pop,electropop,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,20I6sIOMTCkB6w7ryavxtO,193400,4
-2,2,fun.,2012,We Are Young (feat. Janelle Monáe),baroque pop,metropopolis,modern rock,0.378,0.638,10,-5.576,1,0.075,0.02,7.66e-05,0.0849,0.735,184.086,5rgy6ghBq1eRApCkeUdJXf,250627,4
-3,3,Maroon 5,2012,Payphone,pop,,,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,1XGmzt0PVuFgQYYnV2It7A,231173,4
-4,4,Ellie Goulding,2012,Lights - Single Version,dance pop,edm,electropop,0.68,0.799,8,-5.805,0,0.0347,0.0323,0.0459,0.123,0.744,120.031,2QwG0flKv1wq9fyvfsMD9C,210634,4
-5,5,The Wanted,2012,Glad You Came,boy band,dance pop,pop,0.562,0.857,7,-3.926,0,0.0801,0.0383,0.0,0.11,0.539,126.883,6nHqns54LRqDNjeqKDF3v8,197936,4
-6,6,Kelly Clarkson,2012,Stronger (What Doesn't Kill You),dance pop,neo mellow,pop,0.562,0.939,0,-4.282,1,0.0475,0.046,0.0,0.112,0.684,116.044,1nInOsHbtotAmEOQhtvnzP,221947,4
-7,7,Rihanna,2012,We Found Love,barbadian pop,dance pop,pop,0.734,0.766,1,-4.485,1,0.0383,0.025,0.00138,0.108,0.6,127.986,5uImkHXfTLkNYwemtGH7kB,215227,4
-8,8,Nicki Minaj,2012,Starships,dance pop,hip pop,pop,0.747,0.716,11,-2.457,0,0.075,0.135,0.0,0.251,0.751,125.008,2EBCVPNAG46nbgs6jXPGvv,210627,4
-9,9,One Direction,2012,What Makes You Beautiful,boy band,pop,post-teen pop,0.726,0.787,4,-2.494,1,0.0737,0.009,0.0,0.0596,0.888,124.99,4cluDES4hQEUhmXj6TXkSo,199987,4
-10,10,Flo Rida,2012,Wild Ones (feat. Sia),dance pop,miami hip hop,pop,0.608,0.86,5,-5.324,0,0.0554,0.0991,0.0,0.262,0.437,127.075,1NpW5kyvO4XrNJ3rnfcNy3,232947,4
-11,11,Adele,2012,Set Fire to the Rain,british soul,pop,pop soul,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.66e-06,0.112,0.445,107.995,5PKWUDfQFtc5qqo8cs1gQp,242974,4
-12,12,LMFAO,2012,Sexy And I Know It,dance pop,pop,pop rap,0.707,0.861,7,-4.225,1,0.316,0.1,0.0,0.191,0.795,130.021,70Vdd1gx5tn84jkAU31ASv,199480,4
-13,13,fun.,2012,Some Nights,baroque pop,metropopolis,modern rock,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938,67WTwafOMgegV6ABnBQxcE,277040,4
-14,14,Katy Perry,2012,Wide Awake,dance pop,pop,post-teen pop,0.514,0.683,5,-5.099,1,0.0367,0.0749,2.64e-06,0.392,0.575,159.814,5JLv62qFIS1DR3zGEcApRt,220947,4
-15,15,Flo Rida,2012,Good Feeling,dance pop,miami hip hop,pop,0.706,0.89,1,-4.444,0,0.0688,0.0588,0.00286,0.306,0.684,128.011,2LEF1A8DOZ9wRYikWgVlZ8,248133,4
-16,16,Flo Rida,2012,Whistle,dance pop,miami hip hop,pop,0.747,0.937,0,-5.746,1,0.0453,0.0208,0.0,0.29,0.739,103.976,3bC1ahPIYt1btJzSSEyyrF,224653,4
-17,17,Maroon 5,2012,One More Night,pop,,,0.716,0.821,5,-3.435,0,0.0314,0.0558,0.0,0.0844,0.618,92.997,6cpk00i5TxCqSeqNi2HuIe,219547,4
-18,18,Train,2012,Drive By,dance pop,neo mellow,pop,0.765,0.837,1,-3.113,0,0.032,0.00107,1.06e-05,0.0801,0.721,122.028,7zWj09xkFgA9tcV6YhfU6q,195973,4
-19,19,Rihanna,2012,Where Have You Been,barbadian pop,dance pop,pop,0.719,0.847,0,-6.34,0,0.0916,0.00201,0.0204,0.223,0.444,127.963,1tjY4H0X706ZH03SXa1DFh,242680,4
-20,20,Neon Trees,2012,Everybody Talks,modern alternative rock,modern rock,pop rock,0.471,0.924,8,-3.906,1,0.0586,0.00301,0.0,0.313,0.725,154.961,2iUmqdfGZcHIhS3b9E9EWq,177280,4
-21,21,Drake,2012,Take Care,canadian hip hop,canadian pop,hip hop,0.629,0.515,0,-10.358,0,0.265,0.0267,1.22e-05,0.0888,0.299,121.845,124NFj84ppZ5pAxTuVQYCQ,277387,4
-22,22,David Guetta,2012,Titanium (feat. Sia),big room,dance pop,edm,0.604,0.787,0,-3.674,0,0.103,0.0679,0.15,0.127,0.301,126.062,0TDLuuLlV54CkRRUOahJb4,245040,4
-23,23,Jason Mraz,2012,I Won't Give Up,acoustic pop,neo mellow,pop,0.483,0.303,4,-10.058,1,0.0429,0.694,0.0,0.115,0.139,133.406,5ivF4eQBqJiVL5IAE9jRyl,240166,3
-24,24,Bruno Mars,2012,It Will Rain,dance pop,pop,,0.576,0.835,2,-6.826,1,0.0486,0.337,0.0,0.082,0.476,150.017,0M3HkE321xpCbCYqVKzr1q,257720,4
-25,25,Justin Bieber,2012,Boyfriend,canadian pop,pop,,0.719,0.535,10,-6.069,0,0.0641,0.0314,0.0017,0.141,0.276,96.982,07dYGGSrzPeg6a3KZjWX65,171333,4
-26,26,LMFAO,2012,Party Rock Anthem,dance pop,pop,pop rap,0.751,0.736,5,-4.168,0,0.156,0.0206,0.0,0.265,0.352,130.014,7mitXLIMCflkhZiD34uEQI,262147,4
-27,27,Alex Clare,2012,Too Close,modern alternative rock,,,0.588,0.694,11,-4.278,0,0.0387,0.00948,0.0,0.113,0.271,126.027,4VySpxhRGy32u5zPCprzDn,256613,4
-28,28,Katy Perry,2012,Part Of Me,dance pop,pop,post-teen pop,0.678,0.918,5,-4.63,1,0.0355,0.000417,0.0,0.0744,0.769,130.028,1nZzRJbFvCEct3uzu04ZoL,216160,4
-29,29,Snoop Dogg,2012,"Young, Wild & Free (feat. Bruno Mars)",g funk,gangster rap,hip hop,0.715,0.655,0,-6.425,1,0.137,0.0525,0.0,0.115,0.531,95.078,5HQVUIKwCEXpe7JIHyY734,207333,4
-30,30,Justin Bieber,2012,As Long As You Love Me,canadian pop,pop,,0.579,0.871,0,-3.385,0,0.109,0.0679,0.0,0.353,0.601,139.841,4rvtlpAeDuOn4baUJPCEhy,229467,4
-31,31,David Guetta,2012,Turn Me On (feat. Nicki Minaj),big room,dance pop,edm,0.704,0.793,8,-2.266,1,0.0591,0.0488,0.0,0.575,0.412,127.96,6T27IN7Ai94BeDv6PPCmoC,199680,4
-32,32,Maroon 5,2012,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",pop,,,0.72,0.747,11,-4.472,0,0.0463,0.0131,0.0,0.331,0.621,128.014,33d10LAl3HwvH2IJCOxfgy,201560,4
-33,33,P!nk,2012,Blow Me (One Last Kiss),dance pop,pop,,0.597,0.919,7,-2.954,1,0.0439,0.000145,0.0,0.282,0.729,113.991,4k80K0b6KZ2QjAYkXON7q6,255587,4
-34,34,Owl City,2012,Good Time,indietronica,pop rock,,0.554,0.878,3,-4.271,1,0.134,0.0216,5.76e-06,0.362,0.682,126.045,5w6TVvv71F8px5cObg2xnx,205933,4
-35,35,Demi Lovato,2012,Give Your Heart A Break,dance pop,pop,post-teen pop,0.651,0.688,6,-3.097,1,0.0475,0.251,0.0,0.136,0.583,123.009,3YC0Pq7V472TbM1zFzUcOh,205347,4
-36,36,JAY-Z,2012,Ni**as In Paris,east coast hip hop,hip hop,rap,0.789,0.858,1,-5.542,1,0.311,0.127,0.0,0.349,0.775,140.022,4Li2WHPkuyCdtmokzW2007,219333,4
-37,37,Katy Perry,2012,The One That Got Away,dance pop,pop,post-teen pop,0.687,0.792,1,-4.023,0,0.0353,0.000802,0.0,0.2,0.864,133.962,3oL3XRtkP1WVbMxf7dtTdu,227333,4
-38,38,Calvin Harris,2012,Feel So Close - Radio Edit,dance pop,edm,electro house,0.707,0.924,7,-2.842,1,0.031,0.000972,0.00703,0.204,0.919,127.937,1gihuPhrLraKYrJMAEONyc,206413,4
-39,39,Adele,2012,Someone Like You,british soul,pop,pop soul,0.554,0.321,9,-8.251,1,0.028,0.893,0.0,0.0996,0.288,135.047,6QPKYGnAW9QozVz2dSWqRg,285240,4
-40,40,Usher,2012,Scream,atl hip hop,contemporary r&b,dance pop,0.616,0.862,7,-5.18,0,0.0973,0.00117,0.0,0.179,0.569,127.992,5sAlmL7Qp9N9BJTADkwEt9,234693,4
-41,41,Jessie J,2012,Domino,dance pop,pop,pop rap,0.758,0.557,7,-4.568,1,0.034,0.0117,0.0,0.0418,0.781,126.986,2fQxE0jVrjNMT9oJAXtSJR,231840,4
-42,42,Pitbull,2012,International Love (feat. Chris Brown),dance pop,latin,miami hip hop,0.67,0.855,0,-3.035,0,0.0499,0.0124,0.0,0.335,0.648,120.05,62zFEHfAYl5kdHYOivj4BC,227280,4
-43,43,Phillip Phillips,2012,Home,folk-pop,neo mellow,pop rock,0.607,0.818,0,-6.04,1,0.0298,0.0262,1.28e-05,0.136,0.382,121.03,0B4vVGxblizAtGWvaoVIiC,210173,4
-44,44,David Guetta,2012,Without You (feat. Usher),big room,dance pop,edm,0.608,0.614,2,-3.727,1,0.0285,0.227,4.06e-06,0.157,0.402,127.884,3UN6cIn3VIyg0z1LCuFSum,208133,4
-45,45,Gym Class Heroes,2012,Ass Back Home (feat. Neon Hitch),dance pop,pop rap,,0.716,0.838,10,-4.289,1,0.0513,0.134,0.0,0.148,0.646,130.034,3bfqkspKABT4pPicm6wC9F,222213,4
-46,46,Cher Lloyd,2012,Want U Back,dance pop,electropop,pop,0.696,0.893,9,-2.963,1,0.076,0.0662,0.0,0.473,0.573,97.954,5InWRmnfgjVwQWoXHNBATu,214013,4
-47,47,Chris Brown,2012,Don't Wake Me Up,dance pop,pop,pop rap,0.602,0.691,7,-5.197,0,0.051,0.0548,0.0,0.144,0.206,127.967,3tXUKdqkv76ugWTrlDHs7g,222307,4
-48,48,Karmin,2012,Brokenhearted,dance pop,electropop,post-teen pop,0.765,0.765,1,-2.732,0,0.0585,0.00765,3.82e-06,0.0527,0.886,120.001,4urcG6Nfubqsuqy3juMjBi,227147,4
-49,49,Gym Class Heroes,2012,Stereo Hearts (feat. Adam Levine),dance pop,pop rap,,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,0qOnSQQF0yzuPWsXrQ9paz,210960,4
-50,50,Pitbull,2012,"Back in Time - featured in ""Men In Black 3""",dance pop,latin,miami hip hop,0.731,0.915,0,-4.453,1,0.043,0.00191,1.16e-06,0.324,0.789,127.086,2U2ONBrf1HJCDxQlynpD6J,205680,4
-51,51,Adele,2012,Rumour Has It,british soul,pop,pop soul,0.612,0.748,0,-5.014,1,0.0445,0.617,0.0,0.167,0.574,120.052,50yHVBbU6M4iIfqBI1bxWx,223267,4
-52,52,Calvin Harris,2012,Let's Go (feat. Ne-Yo),dance pop,edm,electro house,0.71,0.882,4,-2.932,0,0.0595,0.00777,0.00771,0.294,0.875,128.016,4wkQmYpAaMe41Rc3sYZ7Vz,232800,4
-53,53,The Lumineers,2012,Ho Hey,folk-pop,stomp and holler,,0.685,0.474,0,-9.105,1,0.0313,0.779,1.23e-06,0.149,0.36,79.991,1jdNcAD8Ir58RlsdGjJJdx,161227,4
-54,54,Coldplay,2012,Paradise,permanent wave,pop,,0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,6nek1Nin9q48AVZcWs9e9D,278719,4
-55,55,Adele,2012,Rolling in the Deep,british soul,pop,pop soul,0.73,0.77,8,-5.114,1,0.0298,0.138,0.0,0.0473,0.507,104.948,1eq1wUnLVLg4pdEfx9kajC,228093,4
-56,56,Ne-Yo,2012,Let Me Love You (Until You Learn To Love Yourself),dance pop,pop,r&b,0.658,0.677,5,-6.628,1,0.0393,0.248,0.0,0.368,0.248,124.91,4kte3OcW800TPvOVgrLLj8,251627,4
-57,57,Nicki Minaj,2012,Pound The Alarm,dance pop,hip pop,pop,0.736,0.848,1,-3.635,0,0.068,0.041,4.96e-06,0.0316,0.624,124.987,0jaFadjn9PwHr8ZcqhZmAH,205640,4
-58,58,Rihanna,2012,Birthday Cake,barbadian pop,dance pop,pop,0.702,0.826,3,-6.498,1,0.0529,0.32,0.000227,0.355,0.329,80.014,77kF7rF7ikC5OcZHVXN76X,78200,4
-59,59,B.o.B,2012,So Good,atl hip hop,dance pop,hip hop,0.66,0.9,7,-5.02,1,0.14,0.0403,0.0,0.219,0.591,85.51,28GUjBGqZVcAV4PHSYzkj2,213253,4
-60,60,Train,2012,50 Ways to Say Goodbye,dance pop,neo mellow,pop,0.591,0.935,6,-2.664,1,0.0478,0.000284,0.000278,0.142,0.736,140.043,0bQXIksOCU5MUqcddOan3K,247947,4
-61,61,Selena Gomez & The Scene,2012,Love You Like A Love Song,dance pop,pop,pop rap,0.858,0.677,1,-3.842,0,0.0465,0.0752,0.0,0.0718,0.925,117.005,3veFQzlEOTpcGGIbYPKdYq,188067,4
-62,62,Chris Brown,2012,Turn Up the Music,dance pop,pop,pop rap,0.594,0.841,1,-5.792,1,0.102,0.000238,2.22e-06,0.156,0.643,129.925,3hFPJunq7YhBLwmbRnXMfT,227973,4
-63,63,Kesha,2012,Die Young,dance pop,electropop,pop,0.711,0.7,1,-4.805,0,0.046,0.00498,0.000125,0.215,0.801,128.001,6mnjcTmK8TewHfyOp3fC9C,211920,4
-64,64,T-Pain,2012,5 O'Clock (feat. Lily Allen & Wiz Khalifa),dance pop,hip hop,pop,0.555,0.742,7,-5.495,0,0.22,0.0697,0.0,0.102,0.352,83.85,2Rea6PxenESVsJfEaGBGsD,281280,4
-65,65,Christina Perri,2012,A Thousand Years,dance pop,neo mellow,pop,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,6lanRgr6wXibZr8KgzXxBl,285120,3
-66,66,Rihanna,2012,You Da One,barbadian pop,dance pop,pop,0.702,0.715,5,-5.377,0,0.0425,0.503,2.44e-05,0.126,0.863,127.05,5DBfBBTNQH20XbNqp2XZJE,200013,4
-67,67,Havana Brown,2012,We Run The Night,australian dance,australian pop,australian talent show,0.717,0.836,9,-4.646,0,0.0395,0.0804,0.000495,0.0856,0.612,126.998,1HNqRyGSw1uIRu6VNPqQwF,216218,4
-68,68,Imagine Dragons,2012,It's Time,modern rock,rock,,0.657,0.885,2,-4.695,1,0.0344,0.0168,0.0,0.147,0.869,105.011,3xqF04FdMK7gpIPG3SPFpY,237987,4
-69,69,Rihanna,2012,Diamonds,barbadian pop,dance pop,pop,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972,6O20JhBJPePEkBdrB5sqRx,225147,4
-70,70,Linkin Park,2012,BURN IT DOWN,alternative metal,nu metal,post-grunge,0.585,0.972,9,-4.45,0,0.0534,0.0143,0.0,0.0707,0.585,110.006,7oVEtyuv9NBmnytsCIsY5I,230253,4
+,place,artist,year,track_name,primary_genre,sub_genre_1,sub_genre_2,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_uri,duration_ms,time_signature,key_a,M_m,alph_key
+0,1,Gotye,2012,Somebody That I Used To Know,australian pop,,,0.865,0.521,0,-6.932,1,0.0371,0.548,0.000115,0.0989,0.748,129.059,1qDrWA6lyx8cLECdZE7TV7,244885,4,C,Major,CMajor
+1,2,Carly Rae Jepsen,2012,Call Me Maybe,canadian pop,dance pop,electropop,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,20I6sIOMTCkB6w7ryavxtO,193400,4,G,Major,GMajor
+2,3,fun.,2012,We Are Young (feat. Janelle Monáe),baroque pop,metropopolis,modern rock,0.378,0.638,10,-5.576,1,0.075,0.02,7.66e-05,0.0849,0.735,184.086,5rgy6ghBq1eRApCkeUdJXf,250627,4,A#,Major,A#Major
+3,4,Maroon 5,2012,Payphone,pop,,,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,1XGmzt0PVuFgQYYnV2It7A,231173,4,E,Major,EMajor
+4,5,Ellie Goulding,2012,Lights - Single Version,dance pop,edm,electropop,0.68,0.799,8,-5.805,0,0.0347,0.0323,0.0459,0.123,0.744,120.031,2QwG0flKv1wq9fyvfsMD9C,210634,4,G#,minor,G#minor
+5,6,The Wanted,2012,Glad You Came,boy band,dance pop,pop,0.562,0.857,7,-3.926,0,0.0801,0.0383,0.0,0.11,0.539,126.883,6nHqns54LRqDNjeqKDF3v8,197936,4,G,minor,Gminor
+6,7,Kelly Clarkson,2012,Stronger (What Doesn't Kill You),dance pop,neo mellow,pop,0.562,0.939,0,-4.282,1,0.0475,0.046,0.0,0.112,0.684,116.044,1nInOsHbtotAmEOQhtvnzP,221947,4,C,Major,CMajor
+7,8,Rihanna,2012,We Found Love,barbadian pop,dance pop,pop,0.734,0.766,1,-4.485,1,0.0383,0.025,0.00138,0.108,0.6,127.986,5uImkHXfTLkNYwemtGH7kB,215227,4,C#,Major,C#Major
+8,9,Nicki Minaj,2012,Starships,dance pop,hip pop,pop,0.747,0.716,11,-2.457,0,0.075,0.135,0.0,0.251,0.751,125.008,2EBCVPNAG46nbgs6jXPGvv,210627,4,B,minor,Bminor
+9,10,One Direction,2012,What Makes You Beautiful,boy band,pop,post-teen pop,0.726,0.787,4,-2.494,1,0.0737,0.009,0.0,0.0596,0.888,124.99,4cluDES4hQEUhmXj6TXkSo,199987,4,E,Major,EMajor
+10,11,Flo Rida,2012,Wild Ones (feat. Sia),dance pop,miami hip hop,pop,0.608,0.86,5,-5.324,0,0.0554,0.0991,0.0,0.262,0.437,127.075,1NpW5kyvO4XrNJ3rnfcNy3,232947,4,F,minor,Fminor
+11,12,Adele,2012,Set Fire to the Rain,british soul,pop,pop soul,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.66e-06,0.112,0.445,107.995,5PKWUDfQFtc5qqo8cs1gQp,242974,4,D,minor,Dminor
+12,13,LMFAO,2012,Sexy And I Know It,dance pop,pop,pop rap,0.707,0.861,7,-4.225,1,0.316,0.1,0.0,0.191,0.795,130.021,70Vdd1gx5tn84jkAU31ASv,199480,4,G,Major,GMajor
+13,14,fun.,2012,Some Nights,baroque pop,metropopolis,modern rock,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938,67WTwafOMgegV6ABnBQxcE,277040,4,C,Major,CMajor
+14,15,Katy Perry,2012,Wide Awake,dance pop,pop,post-teen pop,0.514,0.683,5,-5.099,1,0.0367,0.0749,2.64e-06,0.392,0.575,159.814,5JLv62qFIS1DR3zGEcApRt,220947,4,F,Major,FMajor
+15,16,Flo Rida,2012,Good Feeling,dance pop,miami hip hop,pop,0.706,0.89,1,-4.444,0,0.0688,0.0588,0.00286,0.306,0.684,128.011,2LEF1A8DOZ9wRYikWgVlZ8,248133,4,C#,minor,C#minor
+16,17,Flo Rida,2012,Whistle,dance pop,miami hip hop,pop,0.747,0.937,0,-5.746,1,0.0453,0.0208,0.0,0.29,0.739,103.976,3bC1ahPIYt1btJzSSEyyrF,224653,4,C,Major,CMajor
+17,18,Maroon 5,2012,One More Night,pop,,,0.716,0.821,5,-3.435,0,0.0314,0.0558,0.0,0.0844,0.618,92.997,6cpk00i5TxCqSeqNi2HuIe,219547,4,F,minor,Fminor
+18,19,Train,2012,Drive By,dance pop,neo mellow,pop,0.765,0.837,1,-3.113,0,0.032,0.00107,1.06e-05,0.0801,0.721,122.028,7zWj09xkFgA9tcV6YhfU6q,195973,4,C#,minor,C#minor
+19,20,Rihanna,2012,Where Have You Been,barbadian pop,dance pop,pop,0.719,0.847,0,-6.34,0,0.0916,0.00201,0.0204,0.223,0.444,127.963,1tjY4H0X706ZH03SXa1DFh,242680,4,C,minor,Cminor
+20,21,Neon Trees,2012,Everybody Talks,modern alternative rock,modern rock,pop rock,0.471,0.924,8,-3.906,1,0.0586,0.00301,0.0,0.313,0.725,154.961,2iUmqdfGZcHIhS3b9E9EWq,177280,4,G#,Major,G#Major
+21,22,Drake,2012,Take Care,canadian hip hop,canadian pop,hip hop,0.629,0.515,0,-10.358,0,0.265,0.0267,1.22e-05,0.0888,0.299,121.845,124NFj84ppZ5pAxTuVQYCQ,277387,4,C,minor,Cminor
+22,23,David Guetta,2012,Titanium (feat. Sia),big room,dance pop,edm,0.604,0.787,0,-3.674,0,0.103,0.0679,0.15,0.127,0.301,126.062,0TDLuuLlV54CkRRUOahJb4,245040,4,C,minor,Cminor
+23,24,Jason Mraz,2012,I Won't Give Up,acoustic pop,neo mellow,pop,0.483,0.303,4,-10.058,1,0.0429,0.694,0.0,0.115,0.139,133.406,5ivF4eQBqJiVL5IAE9jRyl,240166,3,E,Major,EMajor
+24,25,Bruno Mars,2012,It Will Rain,dance pop,pop,,0.576,0.835,2,-6.826,1,0.0486,0.337,0.0,0.082,0.476,150.017,0M3HkE321xpCbCYqVKzr1q,257720,4,D,Major,DMajor
+25,26,Justin Bieber,2012,Boyfriend,canadian pop,pop,,0.719,0.535,10,-6.069,0,0.0641,0.0314,0.0017,0.141,0.276,96.982,07dYGGSrzPeg6a3KZjWX65,171333,4,A#,minor,A#minor
+26,27,LMFAO,2012,Party Rock Anthem,dance pop,pop,pop rap,0.751,0.736,5,-4.168,0,0.156,0.0206,0.0,0.265,0.352,130.014,7mitXLIMCflkhZiD34uEQI,262147,4,F,minor,Fminor
+27,28,Alex Clare,2012,Too Close,modern alternative rock,,,0.588,0.694,11,-4.278,0,0.0387,0.00948,0.0,0.113,0.271,126.027,4VySpxhRGy32u5zPCprzDn,256613,4,B,minor,Bminor
+28,29,Katy Perry,2012,Part Of Me,dance pop,pop,post-teen pop,0.678,0.918,5,-4.63,1,0.0355,0.000417,0.0,0.0744,0.769,130.028,1nZzRJbFvCEct3uzu04ZoL,216160,4,F,Major,FMajor
+29,30,Snoop Dogg,2012,"Young, Wild & Free (feat. Bruno Mars)",g funk,gangster rap,hip hop,0.715,0.655,0,-6.425,1,0.137,0.0525,0.0,0.115,0.531,95.078,5HQVUIKwCEXpe7JIHyY734,207333,4,C,Major,CMajor
+30,31,Justin Bieber,2012,As Long As You Love Me,canadian pop,pop,,0.579,0.871,0,-3.385,0,0.109,0.0679,0.0,0.353,0.601,139.841,4rvtlpAeDuOn4baUJPCEhy,229467,4,C,minor,Cminor
+31,32,David Guetta,2012,Turn Me On (feat. Nicki Minaj),big room,dance pop,edm,0.704,0.793,8,-2.266,1,0.0591,0.0488,0.0,0.575,0.412,127.96,6T27IN7Ai94BeDv6PPCmoC,199680,4,G#,Major,G#Major
+32,33,Maroon 5,2012,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",pop,,,0.72,0.747,11,-4.472,0,0.0463,0.0131,0.0,0.331,0.621,128.014,33d10LAl3HwvH2IJCOxfgy,201560,4,B,minor,Bminor
+33,34,P!nk,2012,Blow Me (One Last Kiss),dance pop,pop,,0.597,0.919,7,-2.954,1,0.0439,0.000145,0.0,0.282,0.729,113.991,4k80K0b6KZ2QjAYkXON7q6,255587,4,G,Major,GMajor
+34,35,Owl City,2012,Good Time,indietronica,pop rock,,0.554,0.878,3,-4.271,1,0.134,0.0216,5.76e-06,0.362,0.682,126.045,5w6TVvv71F8px5cObg2xnx,205933,4,D#,Major,D#Major
+35,36,Demi Lovato,2012,Give Your Heart A Break,dance pop,pop,post-teen pop,0.651,0.688,6,-3.097,1,0.0475,0.251,0.0,0.136,0.583,123.009,3YC0Pq7V472TbM1zFzUcOh,205347,4,F#,Major,F#Major
+36,37,JAY-Z,2012,Ni**as In Paris,east coast hip hop,hip hop,rap,0.789,0.858,1,-5.542,1,0.311,0.127,0.0,0.349,0.775,140.022,4Li2WHPkuyCdtmokzW2007,219333,4,C#,Major,C#Major
+37,38,Katy Perry,2012,The One That Got Away,dance pop,pop,post-teen pop,0.687,0.792,1,-4.023,0,0.0353,0.000802,0.0,0.2,0.864,133.962,3oL3XRtkP1WVbMxf7dtTdu,227333,4,C#,minor,C#minor
+38,39,Calvin Harris,2012,Feel So Close - Radio Edit,dance pop,edm,electro house,0.707,0.924,7,-2.842,1,0.031,0.000972,0.00703,0.204,0.919,127.937,1gihuPhrLraKYrJMAEONyc,206413,4,G,Major,GMajor
+39,40,Adele,2012,Someone Like You,british soul,pop,pop soul,0.554,0.321,9,-8.251,1,0.028,0.893,0.0,0.0996,0.288,135.047,6QPKYGnAW9QozVz2dSWqRg,285240,4,A,Major,AMajor
+40,41,Usher,2012,Scream,atl hip hop,contemporary r&b,dance pop,0.616,0.862,7,-5.18,0,0.0973,0.00117,0.0,0.179,0.569,127.992,5sAlmL7Qp9N9BJTADkwEt9,234693,4,G,minor,Gminor
+41,42,Jessie J,2012,Domino,dance pop,pop,pop rap,0.758,0.557,7,-4.568,1,0.034,0.0117,0.0,0.0418,0.781,126.986,2fQxE0jVrjNMT9oJAXtSJR,231840,4,G,Major,GMajor
+42,43,Pitbull,2012,International Love (feat. Chris Brown),dance pop,latin,miami hip hop,0.67,0.855,0,-3.035,0,0.0499,0.0124,0.0,0.335,0.648,120.05,62zFEHfAYl5kdHYOivj4BC,227280,4,C,minor,Cminor
+43,44,Phillip Phillips,2012,Home,folk-pop,neo mellow,pop rock,0.607,0.818,0,-6.04,1,0.0298,0.0262,1.28e-05,0.136,0.382,121.03,0B4vVGxblizAtGWvaoVIiC,210173,4,C,Major,CMajor
+44,45,David Guetta,2012,Without You (feat. Usher),big room,dance pop,edm,0.608,0.614,2,-3.727,1,0.0285,0.227,4.06e-06,0.157,0.402,127.884,3UN6cIn3VIyg0z1LCuFSum,208133,4,D,Major,DMajor
+45,46,Gym Class Heroes,2012,Ass Back Home (feat. Neon Hitch),dance pop,pop rap,,0.716,0.838,10,-4.289,1,0.0513,0.134,0.0,0.148,0.646,130.034,3bfqkspKABT4pPicm6wC9F,222213,4,A#,Major,A#Major
+46,47,Cher Lloyd,2012,Want U Back,dance pop,electropop,pop,0.696,0.893,9,-2.963,1,0.076,0.0662,0.0,0.473,0.573,97.954,5InWRmnfgjVwQWoXHNBATu,214013,4,A,Major,AMajor
+47,48,Chris Brown,2012,Don't Wake Me Up,dance pop,pop,pop rap,0.602,0.691,7,-5.197,0,0.051,0.0548,0.0,0.144,0.206,127.967,3tXUKdqkv76ugWTrlDHs7g,222307,4,G,minor,Gminor
+48,49,Karmin,2012,Brokenhearted,dance pop,electropop,post-teen pop,0.765,0.765,1,-2.732,0,0.0585,0.00765,3.82e-06,0.0527,0.886,120.001,4urcG6Nfubqsuqy3juMjBi,227147,4,C#,minor,C#minor
+49,50,Gym Class Heroes,2012,Stereo Hearts (feat. Adam Levine),dance pop,pop rap,,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,0qOnSQQF0yzuPWsXrQ9paz,210960,4,A,Major,AMajor
+50,51,Pitbull,2012,"Back in Time - featured in ""Men In Black 3""",dance pop,latin,miami hip hop,0.731,0.915,0,-4.453,1,0.043,0.00191,1.16e-06,0.324,0.789,127.086,2U2ONBrf1HJCDxQlynpD6J,205680,4,C,Major,CMajor
+51,52,Adele,2012,Rumour Has It,british soul,pop,pop soul,0.612,0.748,0,-5.014,1,0.0445,0.617,0.0,0.167,0.574,120.052,50yHVBbU6M4iIfqBI1bxWx,223267,4,C,Major,CMajor
+52,53,Calvin Harris,2012,Let's Go (feat. Ne-Yo),dance pop,edm,electro house,0.71,0.882,4,-2.932,0,0.0595,0.00777,0.00771,0.294,0.875,128.016,4wkQmYpAaMe41Rc3sYZ7Vz,232800,4,E,minor,Eminor
+53,54,The Lumineers,2012,Ho Hey,folk-pop,stomp and holler,,0.685,0.474,0,-9.105,1,0.0313,0.779,1.23e-06,0.149,0.36,79.991,1jdNcAD8Ir58RlsdGjJJdx,161227,4,C,Major,CMajor
+54,55,Coldplay,2012,Paradise,permanent wave,pop,,0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,6nek1Nin9q48AVZcWs9e9D,278719,4,F,Major,FMajor
+55,56,Adele,2012,Rolling in the Deep,british soul,pop,pop soul,0.73,0.77,8,-5.114,1,0.0298,0.138,0.0,0.0473,0.507,104.948,1eq1wUnLVLg4pdEfx9kajC,228093,4,G#,Major,G#Major
+56,57,Ne-Yo,2012,Let Me Love You (Until You Learn To Love Yourself),dance pop,pop,r&b,0.658,0.677,5,-6.628,1,0.0393,0.248,0.0,0.368,0.248,124.91,4kte3OcW800TPvOVgrLLj8,251627,4,F,Major,FMajor
+57,58,Nicki Minaj,2012,Pound The Alarm,dance pop,hip pop,pop,0.736,0.848,1,-3.635,0,0.068,0.041,4.96e-06,0.0316,0.624,124.987,0jaFadjn9PwHr8ZcqhZmAH,205640,4,C#,minor,C#minor
+58,59,Rihanna,2012,Birthday Cake,barbadian pop,dance pop,pop,0.702,0.826,3,-6.498,1,0.0529,0.32,0.000227,0.355,0.329,80.014,77kF7rF7ikC5OcZHVXN76X,78200,4,D#,Major,D#Major
+59,60,B.o.B,2012,So Good,atl hip hop,dance pop,hip hop,0.66,0.9,7,-5.02,1,0.14,0.0403,0.0,0.219,0.591,85.51,28GUjBGqZVcAV4PHSYzkj2,213253,4,G,Major,GMajor
+60,61,Train,2012,50 Ways to Say Goodbye,dance pop,neo mellow,pop,0.591,0.935,6,-2.664,1,0.0478,0.000284,0.000278,0.142,0.736,140.043,0bQXIksOCU5MUqcddOan3K,247947,4,F#,Major,F#Major
+61,62,Selena Gomez & The Scene,2012,Love You Like A Love Song,dance pop,pop,post-teen pop,0.858,0.677,1,-3.842,0,0.0465,0.0752,0.0,0.0718,0.925,117.005,3veFQzlEOTpcGGIbYPKdYq,188067,4,C#,minor,C#minor
+62,63,Chris Brown,2012,Turn Up the Music,dance pop,pop,pop rap,0.594,0.841,1,-5.792,1,0.102,0.000238,2.22e-06,0.156,0.643,129.925,3hFPJunq7YhBLwmbRnXMfT,227973,4,C#,Major,C#Major
+63,64,Kesha,2012,Die Young,dance pop,electropop,pop,0.711,0.7,1,-4.805,0,0.046,0.00498,0.000125,0.215,0.801,128.001,6mnjcTmK8TewHfyOp3fC9C,211920,4,C#,minor,C#minor
+64,65,T-Pain,2012,5 O'Clock (feat. Lily Allen & Wiz Khalifa),dance pop,hip hop,pop,0.555,0.742,7,-5.495,0,0.22,0.0697,0.0,0.102,0.352,83.85,2Rea6PxenESVsJfEaGBGsD,281280,4,G,minor,Gminor
+65,66,Christina Perri,2012,A Thousand Years,dance pop,neo mellow,pop,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,6lanRgr6wXibZr8KgzXxBl,285120,3,A#,Major,A#Major
+66,67,Rihanna,2012,You Da One,barbadian pop,dance pop,pop,0.702,0.715,5,-5.377,0,0.0425,0.503,2.44e-05,0.126,0.863,127.05,5DBfBBTNQH20XbNqp2XZJE,200013,4,F,minor,Fminor
+67,68,Havana Brown,2012,We Run The Night,australian dance,australian pop,australian talent show,0.717,0.836,9,-4.646,0,0.0395,0.0804,0.000495,0.0856,0.612,126.998,1HNqRyGSw1uIRu6VNPqQwF,216218,4,A,minor,Aminor
+68,69,Imagine Dragons,2012,It's Time,modern rock,rock,,0.657,0.885,2,-4.695,1,0.0344,0.0168,0.0,0.147,0.869,105.011,3xqF04FdMK7gpIPG3SPFpY,237987,4,D,Major,DMajor
+69,70,Rihanna,2012,Diamonds,barbadian pop,dance pop,pop,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972,6O20JhBJPePEkBdrB5sqRx,225147,4,B,minor,Bminor
+70,71,Linkin Park,2012,BURN IT DOWN,alternative metal,nu metal,post-grunge,0.585,0.972,9,-4.45,0,0.0534,0.0143,0.0,0.0707,0.585,110.006,7oVEtyuv9NBmnytsCIsY5I,230253,4,A,minor,Aminor

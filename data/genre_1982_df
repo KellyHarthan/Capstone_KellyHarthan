@@ -1,16 +1,16 @@
 ,index,year,primary_genre,p_gen_count,pg_count,sub_genre_1,sg1_count,s1_count,sub_genre_2,sg2_count,s2_count
-0,0,1982,album rock,45,16,classic rock,20,34,classic rock,15,25
-1,1,1982,adult standards,16,16,art rock,9,34,country rock,15,25
-2,2,1982,disco,10,16,disco,6,34,mellow gold,10,25
-3,3,1982,mellow gold,6,16,soft rock,5,34,hard rock,5,25
-4,4,1982,classic country pop,4,16,funk,5,34,new wave pop,4,25
-5,5,1982,country,2,16,mellow gold,4,34,girl group,4,25
-6,6,1982,funk,2,16,bubblegum pop,3,34,motown,4,25
-7,7,1982,glam punk,2,16,candy pop,3,34,post-disco,3,25
-8,8,1982,glam rock,2,16,country dawn,2,34,blues rock,2,25
-9,9,1982,new romantic,2,16,rock,2,34,soft rock,2,25
-10,10,1982,art rock,1,16,new wave pop,2,34,piano rock,2,25
-11,11,1982,blues rock,1,16,new wave,2,34,new romantic,2,25
-12,12,1982,cyberpunk,1,16,new romantic,2,34,jazz funk,2,25
-13,13,1982,dance pop,1,16,indie r&b,2,34,bubblegum pop,2,25
-14,14,1982,novelty,1,16,heartland rock,2,34,funk,2,25
+0,0,1982,album rock,45,17,classic rock,19,33,classic rock,16,23
+1,1,1982,adult standards,16,17,art rock,10,33,country rock,13,23
+2,2,1982,disco,8,17,funk,5,33,mellow gold,11,23
+3,3,1982,mellow gold,6,17,soft rock,5,33,girl group,4,23
+4,4,1982,classic country pop,4,17,disco,5,33,hard rock,4,23
+5,5,1982,new romantic,3,17,mellow gold,4,33,jazz funk,3,23
+6,6,1982,country,2,17,bubblegum pop,3,33,post-disco,3,23
+7,7,1982,funk,2,17,candy pop,3,33,new wave pop,3,23
+8,8,1982,glam punk,2,17,new wave pop,3,33,soft rock,3,23
+9,9,1982,glam rock,2,17,country dawn,2,33,disco,3,23
+10,10,1982,british invasion,1,17,heartland rock,2,33,funk,2,23
+11,11,1982,cyberpunk,1,17,new romantic,2,33,folk rock,2,23
+12,12,1982,dance pop,1,17,new wave,2,33,motown,2,23
+13,13,1982,art rock,1,17,album rock,2,33,new wave,2,23
+14,14,1982,europop,1,17,country,2,33,piano rock,2,23

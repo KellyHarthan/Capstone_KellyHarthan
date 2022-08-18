@@ -1,7 +1,7 @@
 ,index,year,primary_genre,p_gen_count,pg_count,sub_genre_1,sg1_count,s1_count,sub_genre_2,sg2_count,s2_count
 0,0,2012,dance pop,33,21,pop,21.0,20.0,pop,19.0,16.0
-1,1,2012,barbadian pop,5,21,dance pop,11.0,20.0,pop rap,6.0,16.0
-2,2,2012,british soul,4,21,neo mellow,6.0,20.0,post-teen pop,6.0,16.0
+1,1,2012,barbadian pop,5,21,dance pop,11.0,20.0,post-teen pop,7.0,16.0
+2,2,2012,british soul,4,21,neo mellow,6.0,20.0,pop rap,5.0,16.0
 3,3,2012,pop,3,21,edm,3.0,20.0,pop soul,4.0,16.0
 4,4,2012,big room,3,21,electropop,3.0,20.0,edm,3.0,16.0
 5,5,2012,canadian pop,3,21,miami hip hop,3.0,20.0,hip hop,3.0,16.0

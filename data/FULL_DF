@@ -1,0 +1,560 @@
+,index,artist_name,year,track_name,primary_genre,sub_genre_1,sub_genre_2,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_uri,duration_ms,time_signature,key_a,M_m,alph_key
+0,0,Roberta Flack,1972,The First Time Ever I Saw Your Face,adult standards,classic soul,disco,0.311,0.0264,0,-21.644,1,0.037,0.731,0.00205,0.156,0.139,120.653,0SxFyA4FqmEQqZVuAlg8lf,260666,4,C,Major,CMajor
+1,1,Gilbert O'Sullivan,1972,Alone Again (Naturally),adult standards,brill building pop,bubblegum pop,0.558,0.464,8,-8.488,0,0.0354,0.583,0.000133,0.159,0.558,171.762,6vuEG9sZtC4W2zT64f7zLF,217729,4,G#,minor,G#minor
+2,2,Don McLean,1972,American Pie,adult standards,classic rock,folk,0.531,0.481,4,-11.709,0,0.06,0.699,0.0,0.0842,0.491,138.45,1fDsrQ23eTAVFElUMaf38X,516893,4,E,minor,Eminor
+3,3,Harry Nilsson,1972,Without You,art rock,brill building pop,classic rock,0.381,0.186,4,-15.477,1,0.029,0.613,2.75e-06,0.0694,0.142,65.058,6MrILERJLA3Jcq0E9poZsp,201000,4,E,Major,EMajor
+4,4,Sammy Davis Jr.,1972,The Candy Man,adult standards,easy listening,lounge,0.634,0.56,0,-10.883,1,0.037,0.681,0.0,0.367,0.88,131.641,5X3XrHlCFVGqNKpGp85xVC,188227,4,C,Major,CMajor
+5,5,Joe Tex,1972,I GOTCHA,northern soul,southern soul,,0.84,0.856,8,-11.277,1,0.328,0.182,0.000297,0.306,0.763,93.41,3t5caUWBhKDgy1ypsxRcg4,148813,4,G#,Major,G#Major
+6,6,Bill Withers,1972,Lean on Me,funk,quiet storm,soul,0.619,0.22,0,-13.843,1,0.0672,0.782,1.19e-05,0.124,0.426,75.143,3M8FzayQWtkvOhqMn2V4T2,258835,4,C,Major,CMajor
+7,7,Mac Davis,1972,Baby Don't Get Hooked on Me,bubblegum pop,classic country pop,country rock,0.495,0.307,9,-18.168,1,0.0403,0.26,5.21e-05,0.103,0.802,80.97,4z51Gf7Ppt9Lmu5zmnUIz9,183933,4,A,Major,AMajor
+8,8,Melanie,1972,Brand New Key,classic uk pop,folk,folk rock,0.703,0.292,1,-10.924,1,0.036,0.805,3.76e-06,0.08,0.855,84.032,7da5B9d2oVV16YSzXVxmrR,147040,4,C#,Major,C#Major
+9,9,Al Green,1972,Let's Stay Together,classic soul,funk,memphis soul,0.756,0.401,7,-10.702,0,0.0526,0.582,0.011,0.0541,0.514,101.954,63xdwScd1Ai1GigAwQxE8y,199396,4,G,minor,Gminor
+10,10,Looking Glass,1972,Brandy (You're a Fine Girl),soft rock,sunshine pop,,0.716,0.625,1,-11.369,0,0.0601,0.396,1.97e-05,0.134,0.826,125.276,2BY7ALEWdloFHgQZG6VMLA,186827,4,C#,minor,C#minor
+11,11,The Chi-Lites,1972,Oh Girl,chicago soul,classic soul,disco,0.418,0.402,10,-12.942,1,0.0288,0.226,0.0,0.103,0.601,133.683,0cFlXjTxFdMGGPfLVpt3Wv,216280,4,A#,Major,A#Major
+12,12,Gallery,1972,Nice to Be with You - Rerecorded Version,bubblegum pop,soft rock,,0.756,0.496,9,-12.353,1,0.0308,0.11,4.24e-06,0.0666,0.835,123.076,5H5rp5wyCNFEHdLvU8tDcz,168027,4,A,Major,AMajor
+13,13,Chuck Berry,1972,My Ding-A-Ling,blues rock,classic rock,rock,0.767,0.517,4,-9.908,1,0.195,0.791,0.000186,0.078,0.846,144.322,2L8mIvM1OwkJyGb3WwDFT3,223573,4,E,Major,EMajor
+14,14,Luther Ingram,1972,(If Loving You Is Wrong) I Don't Want to Be Right,classic soul,memphis soul,southern soul,0.502,0.451,4,-7.423,0,0.0438,0.283,0.0,0.154,0.531,140.474,54K7o2yNOMZYCtEDnfD6wI,216800,4,E,minor,Eminor
+15,15,Neil Young,1972,Heart of Gold - 2009 Remaster,canadian singer-songwriter,classic canadian rock,classic rock,0.541,0.459,4,-10.433,0,0.0297,0.189,0.0274,0.099,0.803,171.165,1Q1b8eVkUPGlpSArl8JAVw,187013,4,E,minor,Eminor
+16,16,The Stylistics,1972,"Betcha By Golly, Wow",adult standards,classic soul,disco,0.347,0.53,3,-7.949,1,0.0293,0.522,0.0,0.298,0.492,140.899,6TrZdWmmsJTLjkka3tBZwB,198920,4,D#,Major,D#Major
+17,17,The Staple Singers,1972,I'll Take You There,chicago soul,classic soul,funk,0.846,0.595,0,-8.372,1,0.0439,0.0904,1.96e-06,0.063,0.78,101.632,5YLnfy7R2kueN0BRPkjiEG,196827,4,C,Major,CMajor
+18,18,Michael Jackson,1972,Ben - Single Version,pop,r&b,soul,0.435,0.161,5,-10.84,1,0.0298,0.911,0.000214,0.113,0.291,136.166,0ZFqB9g2FujbmMSrjqsL3j,167387,4,F,Major,FMajor
+19,19,Robert John,1972,The Lion Sleeps Tonight,bubblegum pop,soft rock,,0.604,0.377,5,-12.179,1,0.0358,0.651,2.37e-06,0.103,0.9,128.523,79fwgYi0nxAn2Zda7sHlmC,153707,4,F,Major,FMajor
+20,20,Billy Preston,1972,Outa-Space,classic soul,funk,psychedelic soul,0.715,0.827,1,-8.555,1,0.0369,0.14,0.176,0.243,0.901,116.213,17KFO56mkVEKR0v8qOPlkU,250867,4,C#,Major,C#Major
+21,21,War,1972,Slippin' Into Darkness,classic soul,funk,quiet storm,0.6,0.623,4,-8.87,0,0.0782,0.125,0.00876,0.145,0.664,90.601,7IPKqsNoJAkIINb007DxWw,225840,4,E,minor,Eminor
+22,22,The Hollies,1972,Long Cool Woman (In a Black Dress) - 1999 Remaster,album rock,brill building pop,british invasion,0.757,0.868,9,-9.326,1,0.062,0.411,0.00221,0.355,0.815,138.923,5UwbnHhjnbinJH8TefuQfN,199200,4,A,Major,AMajor
+23,23,Mouth & MacNeal,1972,How Do You Do?,classic uk pop,nederpop,,0.486,0.562,2,-8.382,1,0.0377,0.607,4.12e-06,0.668,0.711,96.12,3DijXDOWwsrg43D0Se345d,244133,4,D,Major,DMajor
+24,24,Neil Diamond,1972,Song Sung Blue - Single Version,adult standards,brill building pop,classic rock,0.556,0.327,0,-15.612,1,0.0311,0.467,1.32e-05,0.318,0.327,108.913,4FZ8wtTaOAbYvyChBt4GEQ,195160,4,C,Major,CMajor
+25,25,America,1972,A Horse with No Name,album rock,art rock,classic rock,0.654,0.506,11,-17.18,0,0.0535,0.686,0.0155,0.155,0.831,123.179,54eZmuggBFJbV7k248bTTt,252240,4,B,minor,Bminor
+26,26,Hot Butter,1972,Popcorn,early synthpop,moog,,0.784,0.626,11,-14.617,0,0.0572,0.0425,0.703,0.0645,0.952,136.886,6Z5wWOqBfk4G3bP1KF2Vbj,151440,4,B,minor,Bminor
+27,27,The Main Ingredient,1972,Everybody Plays the Fool,classic soul,disco,funk,0.485,0.641,3,-8.752,1,0.0418,0.704,9.92e-05,0.159,0.855,168.645,3DkqEHCCqlkknDfksHWWu0,202253,4,D#,Major,D#Major
+28,28,Climax,1972,Precious and Few,bubblegum pop,,,0.203,0.401,9,-12.341,1,0.0339,0.434,0.0,0.1,0.17,201.467,7uuM0HwvCG20e5ttu6ugmP,164653,4,A,Major,AMajor
+29,29,The 5th Dimension,1972,(Last Night) I Didn't Get To Sleep At All,adult standards,brill building pop,bubblegum pop,0.671,0.497,5,-12.53,0,0.0289,0.484,0.0027,0.0893,0.564,105.117,6HH6fmHF2YssfVkRmzcjf0,192600,4,F,minor,Fminor
+30,30,The Moody Blues,1972,Nights In White Satin - Single Version / Mono,album rock,art rock,blues rock,0.195,0.483,4,-4.991,0,0.03,0.465,0.497,0.0686,0.173,84.71,6L5BZEcZmD6RBJnimzlyKr,269107,4,E,minor,Eminor
+31,31,Raspberries,1972,Go All The Way,beatlesque,bubblegum pop,jangle pop,0.305,0.849,9,-4.892,1,0.0999,0.548,0.000134,0.0995,0.555,134.287,75GQIYnRaBg7ndHxhfYuQy,205347,4,A,Major,AMajor
+32,32,Cornelius Brothers & Sister Rose,1972,Too Late To Turn Back Now,classic soul,,,0.516,0.73,7,-7.136,1,0.0494,0.344,0.0,0.425,0.907,115.126,2OyaNAq8BcGstyzueloqpE,198693,4,G,Major,GMajor
+33,33,The O'Jays,1972,Back Stabbers,classic soul,disco,funk,0.751,0.714,10,-11.614,1,0.0374,0.317,0.0,0.639,0.935,124.379,0KpMY3D2G8253VTZbDBUmA,186093,4,A#,Major,A#Major
+34,34,The Osmonds,1972,Down By The Lazy River,bubblegum pop,,,0.6,0.909,1,-5.154,0,0.0742,0.433,0.0,0.337,0.94,141.678,49ZAeWd40u4py51DpjEY8p,163093,4,C#,minor,C#minor
+35,35,Jonathan Edwards,1972,Sunshine (Go Away Today),country rock,folk rock,mellow gold,0.705,0.359,10,-15.388,1,0.0649,0.335,0.0,0.0968,0.837,125.31,3Xd39NB1rifow2RDNVgSFp,138733,4,A#,Major,A#Major
+36,36,Mel & Tim,1972,Starting All Over Again,chicago soul,classic soul,memphis soul,0.622,0.305,11,-12.204,1,0.0358,0.687,0.0789,0.126,0.489,137.777,6Vo8rpayHpm3dmuoluEzTQ,230027,4,B,Major,BMajor
+37,37,Badfinger,1972,Day After Day - Remastered 2010,album rock,art rock,beatlesque,0.399,0.686,5,-7.112,1,0.0311,0.109,0.000874,0.112,0.377,101.806,2XKW8CH8nRZH9cF2DNjBHN,191053,4,F,Major,FMajor
+38,38,Elton John,1972,"Rocket Man (I Think It's Going To Be A Long, Long Time)",glam rock,mellow gold,piano rock,0.601,0.532,10,-9.119,1,0.0286,0.432,6.25e-06,0.0925,0.341,136.571,3gdewACMIVMEWVbyb8O9sY,281613,4,A#,Major,A#Major
+39,39,Michael Jackson,1972,Rockin' Robin,pop,r&b,soul,0.622,0.721,10,-8.224,1,0.0983,0.24,7.88e-05,0.271,0.968,173.395,63gcHyuhAC8G2C0bVQUOJI,154840,4,A#,Major,A#Major
+40,40,Daniel Boone,1972,Beautiful Sunday,bubblegum pop,classic uk pop,,0.676,0.463,9,-13.155,1,0.0306,0.309,0.0,0.288,0.91,121.923,6DqNZJ4hhBYd8qj9WbpSTJ,182133,4,A,Major,AMajor
+41,41,Dennis Coffey & The Detroit Guitar Band,1972,Scorpio,,,,0.696,0.631,11,-15.944,0,0.0821,0.404,0.89,0.148,0.641,118.966,1P8lIrb4yLlg1nzAjhhcfi,260843,4,B,minor,Bminor
+42,42,Yusuf / Cat Stevens,1972,Morning Has Broken,british folk,classic rock,folk,0.424,0.321,7,-13.162,1,0.0312,0.622,0.0196,0.0903,0.405,133.126,3BqqF8suAIzW8655yJfcvh,200000,3,G,Major,GMajor
+43,43,Arlo Guthrie,1972,The City of New Orleans,classic rock,country rock,folk,0.616,0.577,1,-8.834,1,0.0407,0.535,0.0,0.0808,0.592,145.863,0P6TTXbSLGrSoTNMz5kvB7,274507,4,C#,Major,C#Major
+44,44,Ricky Nelson,1972,Garden Party,adult standards,brill building pop,bubblegum pop,0.774,0.247,2,-21.657,1,0.0779,0.786,0.0186,0.116,0.803,143.955,7J5tyfg3OYVNR97KH66ovw,229800,4,D,Major,DMajor
+45,45,Johnny Nash,1972,I Can See Clearly Now - Edit,brill building pop,bubblegum pop,,0.681,0.373,2,-13.2,1,0.0568,0.633,0.00113,0.0751,0.623,123.423,0DcrhZ12WcCqruCs8ibXSf,164733,4,D,Major,DMajor
+46,46,Elvis Presley,1972,Burning Love,rock-and-roll,rockabilly,,0.66,0.748,2,-11.206,1,0.0284,0.0993,0.00585,0.283,0.972,143.549,7zMUCLm1TN9o9JlLISztxO,170293,4,D,Major,DMajor
+47,47,Betty Wright,1972,Clean up Woman,classic soul,funk,quiet storm,0.865,0.652,5,-9.046,1,0.143,0.566,0.000919,0.0833,0.829,90.081,6uqTETWok9npbL4c9cuLVh,169533,4,F,Major,FMajor
+48,48,Argent,1972,Hold Your Head Up,art rock,blues rock,classic rock,0.502,0.488,7,-12.265,1,0.0261,0.3,0.128,0.319,0.74,89.279,3vfIv3pvYlLOa0wKIEuqFn,377560,4,G,Major,GMajor
+49,49,The Chakachas,1972,Jungle Fever,latin funk,,,0.648,0.49,0,-15.252,1,0.0905,0.521,0.21,0.193,0.622,98.835,53d3lGEb9rQLuc0wS8jBFx,263013,4,C,Major,CMajor
+50,50,Bread,1972,Everything I Own,adult standards,folk rock,mellow gold,0.365,0.338,2,-13.406,1,0.0322,0.735,0.0,0.104,0.446,79.241,52VIdyKqp1pJRSyUQaxKUA,187000,4,D,Major,DMajor
+51,51,The Dramatics,1972,In The Rain,classic soul,disco,funk,0.421,0.514,8,-9.52,0,0.049,0.591,8.97e-05,0.337,0.564,145.653,6aKFAhG7hCy71wLDMKjP5G,209213,4,G#,minor,G#minor
+52,52,Al Green,1972,Look What You Done for Me,classic soul,funk,memphis soul,0.604,0.568,10,-8.555,1,0.0447,0.371,3.18e-06,0.182,0.818,95.672,0ZhwlFI7I69yaXphO7t5R8,185823,4,A#,Major,A#Major
+53,53,Donna Fargo,1972,The Happiest Girl In The Whole U.S.A.,classic country pop,,,0.597,0.426,7,-10.04,1,0.0261,0.749,0.0,0.63,0.559,97.889,7mN6CJxlqQc5t63Ifj9ieQ,150400,3,G,Major,GMajor
+54,54,T. Rex,1972,Bang a Gong (Get It On) - 2003 Remaster,album rock,art rock,classic rock,0.729,0.818,2,-9.992,1,0.0732,0.157,0.284,0.195,0.906,125.814,6FsQrRpBLgsrFeAeiQqytm,267000,4,D,Major,DMajor
+55,55,Paul Simon,1972,Mother and Child Reunion,classic rock,folk,folk rock,0.712,0.632,9,-7.704,1,0.0334,0.112,0.0,0.0648,0.764,119.931,5vZ1BKMSLgrxxPYGMR904n,187400,4,A,Major,AMajor
+56,56,Roberta Flack,1972,Where Is the Love,adult standards,classic soul,disco,0.558,0.439,8,-13.443,1,0.0281,0.369,1.78e-05,0.161,0.605,114.969,7l07ak5IWpISBsrUtwj4O4,166400,4,G#,Major,G#Major
+57,57,Al Green,1972,I'm Still in Love with You,classic soul,funk,memphis soul,0.712,0.393,0,-9.538,1,0.0287,0.158,0.000588,0.0908,0.791,97.918,2GEDd9qtGXU7IvGgqTF6Uj,191636,4,C,Major,CMajor
+58,58,Derek & The Dominos,1972,Layla,album rock,art rock,blues,0.404,0.902,1,-3.88,1,0.0665,0.577,0.297,0.287,0.497,115.669,2kkvB3RNRzwjFdGhaUA0tz,423840,4,C#,Major,C#Major
+59,59,Aretha Franklin,1972,Day Dreaming,classic soul,jazz blues,memphis soul,0.463,0.273,0,-15.364,0,0.074,0.907,0.000367,0.101,0.293,146.426,7L4G39PVgMfaeHRyi1ML7y,239960,4,C,minor,Cminor
+60,60,Cher,1972,The Way Of Love,dance pop,hollywood,new wave pop,0.319,0.321,9,-11.911,1,0.0289,0.304,0.0,0.144,0.252,106.762,1q1oeOO8LQJH0qWI549cqN,152493,3,A,Major,AMajor
+61,61,Three Dog Night,1972,Black And White,album rock,art rock,blues rock,0.66,0.53,11,-13.686,1,0.029,0.406,0.00186,0.343,0.924,109.058,6LQsrJmTt1JKPUbivcZln9,231093,4,B,Major,BMajor
+62,62,Dr. Hook,1972,Sylvia's Mother,adult standards,bubblegum pop,classic rock,0.303,0.47,9,-12.715,1,0.0512,0.692,0.0,0.339,0.563,168.104,4hLk7Bjz1XJWNDiqovvgBW,228333,4,A,Major,AMajor
+63,63,Carpenters,1972,Hurting Each Other,adult standards,folk rock,mellow gold,0.341,0.325,4,-9.421,1,0.038,0.765,0.0,0.3,0.292,93.265,4wGKFjv7PUEZJsRk79wNKu,168533,3,E,Major,EMajor
+64,64,Harry Nilsson,1972,Coconut,art rock,brill building pop,classic rock,0.653,0.494,5,-14.79,1,0.102,0.389,1.46e-06,0.0677,0.905,137.463,4o5GyaeGMgDsrclBsL3au7,231733,4,F,Major,FMajor
+65,65,Donny Osmond,1972,Puppy Love,,,,0.414,0.681,1,-3.992,1,0.036,0.612,7.98e-06,0.248,0.538,102.338,7HWH4kGaHR3ZwKNFPT4dSW,184973,3,C#,Major,C#Major
+66,66,Jim Croce,1972,You Don't Mess Around with Jim,album rock,classic rock,country rock,0.705,0.581,11,-11.379,0,0.0455,0.607,1.52e-05,0.117,0.967,163.24,5yrsBzgHkfu2idkl2ILQis,184640,4,B,minor,Bminor
+67,67,Commander Cody and His Lost Planet Airmen,1972,Hot Rod Lincoln,country rock,,,0.696,0.791,4,-13.056,1,0.22,0.296,0.0,0.318,0.965,130.246,2sZjmnS1BSoc1svOu5P8LM,164933,4,E,Major,EMajor
+68,68,Sonny & Cher,1972,A Cowboy's Work Is Never Done,adult standards,brill building pop,bubblegum pop,0.61,0.315,8,-14.12,1,0.0342,0.517,4.42e-06,0.361,0.58,135.521,3X1a60iOm7XAJ1ZT1w2TVq,194733,4,G#,Major,G#Major
+69,69,Apollo 100,1972,Joy,,,,0.487,0.696,7,-12.899,1,0.0411,0.29,0.921,0.187,0.825,128.15,5xwmLfRd5kLb6XohkIqNV2,170283,4,G,Major,GMajor
+70,70,Carly Simon,1972,Anticipation,adult standards,brill building pop,classic rock,0.61,0.297,2,-14.956,1,0.0304,0.838,9.16e-06,0.107,0.543,99.963,0rLRrCTqWVMgv1DpMBSezw,201707,4,D,Major,DMajor
+71,71,Three Dog Night,1972,Never Been To Spain - Single Version,album rock,art rock,blues rock,0.517,0.502,4,-15.014,1,0.0275,0.58,0.00157,0.352,0.727,88.762,61OQuSzsom6geFCA18JwO6,226067,4,E,Major,EMajor
+72,72,Charley Pride,1972,Kiss an Angel Good Mornin',classic country pop,country,country rock,0.665,0.512,4,-10.704,1,0.03,0.581,0.0,0.371,0.87,130.578,37GWhu8R61gTStMvVQfDuE,123467,4,E,Major,EMajor
+73,73,Alice Cooper,1972,School's Out,album rock,classic rock,detroit rock,0.294,0.745,5,-9.138,1,0.0461,0.05,0.125,0.676,0.347,134.364,5Z8EDau8uNcP1E8JvmfkZe,210107,4,F,Major,FMajor
+74,74,Chicago,1972,Saturday in the Park - 2002 Remaster,adult standards,album rock,classic rock,0.67,0.763,7,-6.864,1,0.0341,0.155,0.0,0.0799,0.61,114.398,4OJFkrRQqol4FsPesF8eu4,235667,4,G,Major,GMajor
+75,75,Joe Simon,1972,Drowning In the Sea of Love,classic soul,philly soul,soul,0.603,0.448,9,-10.552,0,0.0927,0.388,0.0172,0.103,0.522,119.715,0ccQoLBxhOTg6PYUIoSix9,203107,4,A,minor,Aminor
+76,76,Bill Withers,1972,Use Me,funk,quiet storm,soul,0.758,0.586,11,-13.461,0,0.056,0.033,0.0028,0.0743,0.947,154.629,4gRA0i5sxx3jAhHaVjPnUN,228327,4,B,minor,Bminor
+77,77,Sly & The Family Stone,1972,Family Affair - Single Version,classic rock,classic soul,funk,0.819,0.605,2,-13.83,0,0.132,0.669,0.0163,0.199,0.797,108.892,2GVEs1sn5Q1jB1976vQoAX,185533,4,D,minor,Dminor
+78,78,The Jimmy Castor Bunch,1972,Troglodyte (Cave Man),funk,rare groove,,0.797,0.653,5,-14.226,1,0.0722,0.0527,0.0043,0.0801,0.861,133.294,08L6jFH2p1NfDXX4suPvp2,217896,4,F,Major,FMajor
+79,79,Redbone,1972,The Witch Queen of New Orleans,native american,native american contemporary,,0.613,0.817,0,-4.957,1,0.0858,0.0338,1.96e-06,0.083,0.62,119.926,5M3lcfDNGB4S0iDoP9ItcV,165093,4,C,Major,CMajor
+80,80,Curtis Mayfield,1972,Freddie's Dead,chicago soul,classic soul,funk,0.523,0.803,1,-6.321,0,0.0791,0.107,0.000409,0.154,0.921,91.469,2ouFIPC3O1HNBcVTw1d9AN,329467,4,C#,minor,C#minor
+81,81,Joe Simon,1972,Power of Love,classic soul,philly soul,soul,0.828,0.674,0,-7.216,1,0.0499,0.244,0.0,0.455,0.969,110.722,7H7zHJSHSSlyEBU0EAxmFK,174636,4,C,Major,CMajor
+82,82,Jerry Butler,1972,Ain't Understanding Mellow,beach music,brill building pop,chicago soul,0.449,0.456,4,-10.674,0,0.0278,0.506,8.34e-05,0.15,0.69,140.316,5ehrJB4xFea5kph6jVoWtS,260333,4,E,minor,Eminor
+83,83,Harry Chapin,1972,Taxi,classic rock,country rock,folk,0.61,0.363,4,-12.576,0,0.0322,0.679,2.83e-05,0.18,0.462,118.509,7qnxmC6qdYkjcoCJCeD8Jx,402840,4,E,minor,Eminor
+84,84,Beverly Bremers,1972,Don't Say You Don't Remember,,,,0.503,0.476,0,-9.577,1,0.0307,0.103,0.0,0.138,0.402,117.031,2yb8jAFj1cOj3CBI66jN78,204507,3,C,Major,CMajor
+85,85,Bobby Vinton,1972,Sealed with a Kiss,adult standards,brill building pop,bubblegum pop,0.414,0.317,5,-12.9,0,0.026,0.678,2.56e-05,0.213,0.673,86.111,26mlDJoh5bQiC7efK7xq9z,169067,4,F,minor,Fminor
+86,86,Todd Rundgren,1972,I Saw the Light,album rock,art rock,classic rock,0.583,0.833,0,-8.29,1,0.0343,0.0531,5.57e-05,0.16,0.81,119.884,0B1zVsLqmV9ibIFdNS5tGs,182800,4,C,Major,CMajor
+87,87,Sailcat,1972,Motorcycle Mama,,,,0.687,0.154,4,-24.336,1,0.0649,0.936,0.44,0.089,0.733,121.293,1TkgnYlGsO7nva2PF97tVM,126573,4,E,Major,EMajor
+88,88,Robin Lamont,1972,"Day by Day (From ""Godspell"")",,,,0.241,0.638,2,-6.626,0,0.0668,0.305,0.0,0.192,0.558,148.755,5nRxhDKDgtTti6aZXB3jVl,204507,4,D,minor,Dminor
+89,89,Yes,1972,Roundabout - 2008 Remaster,album rock,art rock,classic rock,0.411,0.845,4,-6.821,0,0.0835,0.117,0.0146,0.0763,0.391,132.876,7lPjS6Yd4lRk4BsboDsm1H,515960,4,E,minor,Eminor
+90,90,Jackson Browne,1972,Doctor My Eyes,album rock,classic rock,country rock,0.48,0.626,5,-8.406,1,0.0294,0.266,5.7e-05,0.0857,0.542,75.63,3QcuZo6WLcFkqqLmDs0d95,199907,4,F,Major,FMajor
+91,91,The New Seekers,1972,I'd Like to Teach the World to Sing (In Perfect Harmony),brill building pop,bubblegum pop,classic uk pop,0.466,0.476,11,-9.289,1,0.031,0.749,0.0,0.22,0.856,133.731,0hbC2CAJidLslKqJ39Lxh4,145467,4,B,Major,BMajor
+92,92,Don McLean,1972,Vincent,adult standards,classic rock,folk,0.419,0.085,7,-19.387,1,0.0362,0.908,5.33e-06,0.34,0.458,91.509,0VNzEY1G4GLqcNx5qaaTl6,243493,3,G,Major,GMajor
+93,93,The Detroit Emeralds,1972,Baby Let Me Take You (In My Arms),classic soul,rhythm and blues,,0.564,0.495,6,-9.129,0,0.0463,0.227,0.000113,0.0685,0.5,81.58,2zE47i0dZKBoSIFJGhtpG9,230360,4,F#,minor,F#minor
+94,94,Rick Springfield,1972,Speak To The Sky,album rock,australian rock,classic rock,0.583,0.659,9,-9.427,1,0.0308,0.584,8.95e-06,0.125,0.788,96.106,3U7WGQgdrFM9SWbVkPQSPn,162987,4,A,Major,AMajor
+95,95,Love Unlimited,1972,Walkin' In The Rain With The One I Love,classic soul,disco,,0.424,0.594,10,-9.652,1,0.0551,0.341,0.000282,0.413,0.59,137.535,4Ev3gucC4JAUbHJrHpY70w,287933,4,A#,Major,A#Major
+96,96,James Brown,1972,Get On The Good Foot,funk,soul,,0.899,0.764,7,-8.204,1,0.137,0.0384,0.0,0.0354,0.747,108.445,7eoNNyyusSxTQeCtWMWdr0,214933,4,G,Major,GMajor
+97,97,The Isley Brothers,1972,Pop That Thang,classic soul,disco,funk,0.717,0.655,11,-5.818,0,0.125,0.274,0.0,0.11,0.877,158.636,4jsiIeVm7ZcCJRpq8opfMa,172760,4,B,minor,Bminor
+98,0,Olivia Newton-John,1982,Physical,adult standards,australian dance,disco,0.829,0.737,4,-8.181,0,0.0441,0.13,6.25e-05,0.284,0.857,123.878,3FuL7jThtUAjneBm6puQNk,222400,4,E,minor,Eminor
+99,1,Survivor,1982,Eye of the Tiger,album rock,hard rock,rock,0.815,0.438,0,-14.522,0,0.0346,0.216,0.000466,0.0787,0.552,108.965,2HHtWyy5CgaQbC7XSoOb0e,243773,4,C,minor,Cminor
+100,2,Joan Jett & the Blackhearts,1982,I Love Rock 'N Roll,glam punk,rock,,0.535,0.716,4,-5.025,1,0.0431,0.326,0.0,0.659,0.901,94.379,2Cdvbe2G4hZsnhNMKyGrie,175173,4,E,Major,EMajor
+101,3,Paul McCartney,1982,Ebony And Ivory,album rock,beatlesque,classic rock,0.639,0.458,4,-15.138,1,0.0343,0.152,0.0,0.168,0.805,80.692,1h3bcnnIm72UnemGIfm0iZ,220773,4,E,Major,EMajor
+102,4,The J. Geils Band,1982,Centerfold,album rock,art rock,blues rock,0.653,0.677,0,-12.244,1,0.0396,0.249,0.0,0.403,0.888,114.37,1ynmMEK1fkyiZ6Z6F3ThEt,216533,4,C,Major,CMajor
+103,5,The Human League,1982,Don't You Want Me,art rock,new romantic,new wave,0.734,0.742,9,-8.021,0,0.0382,0.175,0.0,0.134,0.957,117.652,7zhtLp2V3lNXdllknAqbKk,240533,4,A,minor,Aminor
+104,6,John Mellencamp,1982,Jack & Diane,album rock,classic rock,country rock,0.811,0.41,9,-8.214,1,0.0391,0.0365,6.63e-06,0.0799,0.626,103.965,43btz2xjMKpcmjkuRsvxyg,254493,4,A,Major,AMajor
+105,7,John Mellencamp,1982,Hurts So Good,album rock,classic rock,country rock,0.785,0.737,9,-5.306,1,0.0363,0.042,0.000107,0.108,0.971,125.447,67eX1ovaHyVPUinMHeUtIM,218960,4,A,Major,AMajor
+106,8,Steve Miller Band,1982,Abracadabra,album rock,blues rock,classic rock,0.791,0.535,9,-13.261,0,0.0355,0.0749,1.96e-06,0.156,0.963,127.488,2E2ZVy2fxslpAUgbb4zu84,308373,4,A,minor,Aminor
+107,9,Chicago,1982,Hard to Say I'm Sorry - 2009 Remaster,adult standards,album rock,classic rock,0.537,0.417,4,-7.209,1,0.0273,0.695,1.86e-06,0.151,0.256,144.716,5nDSJO4909uNzMcZH3CggS,221827,4,E,Major,EMajor
+108,10,Soft Cell,1982,Tainted Love,new romantic,new wave,new wave pop,0.542,0.45,7,-9.931,0,0.0361,0.558,6.43e-06,0.579,0.626,144.437,58E1XVmZTODC67YNjneuXM,153840,4,G,minor,Gminor
+109,11,Vangelis,1982,Chariots Of Fire,cyberpunk,synthesizer,,0.48,0.378,1,-13.317,1,0.0328,0.0896,0.398,0.118,0.0616,136.379,3hBgVOpgET0AGtdwc5D8Qy,211209,4,C#,Major,C#Major
+110,12,Quarterflash,1982,Harden My Heart,album rock,new wave pop,soft rock,0.531,0.43,11,-14.523,0,0.0578,0.0568,1.22e-06,0.0964,0.453,124.284,3CSLUIrI2KPMulHR5bh17O,232627,4,B,minor,Bminor
+111,13,TOTO,1982,Rosanna,album rock,classic rock,mellow gold,0.365,0.513,7,-13.034,0,0.0357,0.0208,0.000147,0.205,0.739,80.647,37BTh5g05cxBIRYMbw8g2T,331200,4,G,minor,Gminor
+112,14,Daryl Hall & John Oates,1982,I Can't Go for That (No Can Do),album rock,classic rock,mellow gold,0.889,0.441,0,-9.506,0,0.0379,0.0405,0.000788,0.038,0.963,110.565,41dDygR3r7e926oGUXfrLt,307307,4,C,minor,Cminor
+113,15,Tommy Tutone,1982,867-5309 / Jenny,album rock,new wave pop,,0.73,0.785,2,-7.201,1,0.0456,0.0418,0.00669,0.123,0.724,137.639,00MI0oGDVJYM1qWbyUOIhH,231080,4,D,Major,DMajor
+114,16,Bertie Higgins,1982,Key Largo,soft rock,,,0.503,0.659,0,-6.829,1,0.0356,0.443,0.0,0.153,0.33,101.668,3aGdlqp8i9lJAWG5nqfhUP,198947,4,C,Major,CMajor
+115,17,Melissa Manchester,1982,You Should Hear How She Talks About You,adult standards,bubblegum pop,mellow gold,0.797,0.678,4,-12.24,1,0.0514,0.133,0.0,0.119,0.882,132.934,4FDRce5rrUuAbsC5VKwSkz,255173,4,E,Major,EMajor
+116,18,Foreigner,1982,Waiting for a Girl like You,album rock,classic rock,hard rock,0.33,0.469,10,-9.286,0,0.0335,0.31,2.3e-06,0.0402,0.433,201.327,2OgVsp77En2nju8pnCieVU,292067,4,A#,minor,A#minor
+117,19,Rick Springfield,1982,Don't Talk to Strangers,album rock,australian rock,classic rock,0.799,0.714,1,-9.472,0,0.0421,0.286,0.0,0.145,0.67,123.207,1syhTK7LlvpeWdZNsZARP0,180360,4,C#,minor,C#minor
+118,20,Juice Newton,1982,The Sweetest Thing (I've Ever Known),classic country pop,country dawn,country rock,0.38,0.228,7,-14.373,1,0.0261,0.602,0.0,0.154,0.181,77.177,3EFgVWb1TAYP3CF17BB4fU,248133,4,G,Major,GMajor
+119,21,Willie Nelson,1982,Always on My Mind,classic country pop,country,country rock,0.531,0.316,2,-12.264,1,0.0269,0.781,0.00289,0.138,0.202,73.403,3mmn1eswXMsJec8POXQb7p,212720,4,D,Major,DMajor
+120,22,The Cars,1982,Shake It Up,album rock,art rock,classic rock,0.692,0.74,0,-7.466,1,0.0329,0.0723,8.83e-05,0.136,0.864,147.274,5OWokvF4QOqMDQ8ByQsm6V,215440,4,C,Major,CMajor
+121,23,Dazz Band,1982,Let It Whip,disco,electro,funk,0.82,0.838,9,-6.86,0,0.041,0.109,0.00228,0.0452,0.947,132.125,2UCgWpa2r4ytWueNItYbWE,281280,4,A,minor,Aminor
+122,24,The Go-Go's,1982,We Got The Beat,album rock,candy pop,girl group,0.587,0.994,2,-5.61,1,0.045,0.155,0.0734,0.0319,0.481,151.941,5kz9GDBTX846OXwqWoyKzF,153133,4,D,Major,DMajor
+123,25,Ray Parker Jr.,1982,The Other Woman,disco,,,0.909,0.544,9,-11.692,1,0.0529,0.139,0.00614,0.457,0.962,125.918,7ubq5fqmcPhfg1Q8s3HbbA,247960,4,A,Major,AMajor
+124,26,George Benson,1982,Turn Your Love Around,adult standards,disco,jazz funk,0.627,0.385,9,-13.655,0,0.0537,0.334,0.0,0.182,0.766,205.726,6a899bXlCuViXW2Qs8Rdqo,230107,4,A,minor,Aminor
+125,27,Air Supply,1982,Sweet Dreams,mellow gold,soft rock,,0.328,0.516,2,-7.845,0,0.0303,0.249,0.00208,0.486,0.17,128.557,2aQ9yUp14YVKsOKuCDnBJn,322427,4,D,minor,Dminor
+126,28,The Motels,1982,Only The Lonely - Remastered 1999,album rock,mellow gold,new romantic,0.649,0.313,8,-16.631,1,0.0339,0.0503,0.0017,0.0864,0.708,115.493,1BZMMt9H0TheQGWQy44KmO,196200,4,G#,Major,G#Major
+127,29,Men At Work,1982,Who Can It Be Now?,album rock,australian rock,mellow gold,0.805,0.479,4,-14.734,1,0.0436,0.0627,0.000143,0.104,0.962,128.411,5rfJ2Bq2PEL8yBjZLzouEu,201293,4,E,Major,EMajor
+128,30,Fleetwood Mac,1982,Hold Me - 2016 Remaster,album rock,classic rock,mellow gold,0.699,0.741,3,-8.488,1,0.0329,0.337,0.108,0.065,0.864,125.698,2zYCip88nwoF96SC7WEjJm,225035,4,D#,Major,D#Major
+129,31,The Alan Parsons Project,1982,Eye In The Sky,album rock,art rock,classic rock,0.823,0.417,2,-12.643,1,0.032,0.562,0.00098,0.0765,0.522,111.928,39qYD4J4BKvZMQgxfXl5bv,276280,4,D,Major,DMajor
+130,32,"Earth, Wind & Fire",1982,Let's Groove,disco,funk,jazz funk,0.877,0.557,11,-10.79,0,0.0723,0.0628,0.0023,0.145,0.88,125.543,4ZXxmmsp1Nd7ejbHs2BNBG,334867,4,B,minor,Bminor
+131,33,Journey,1982,Open Arms,album rock,classic rock,hard rock,0.405,0.21,2,-13.214,1,0.0279,0.584,0.0,0.139,0.174,100.577,2w4EpqGasrz9qdTwocx54t,202173,3,D,Major,DMajor
+132,34,Dan Fogelberg,1982,Leader of the Band,adult standards,classic rock,country rock,0.628,0.159,8,-14.363,1,0.0333,0.872,0.0,0.111,0.505,135.003,3O4s2m47MFhnGqmpkjoKYk,256400,4,G#,Major,G#Major
+133,35,Stevie Nicks,1982,Leather and Lace - 2016 Remaster,album rock,heartland rock,mellow gold,0.49,0.432,3,-9.327,1,0.0298,0.639,0.0,0.104,0.367,153.753,49nuGcnaUcB9jXgcOGYEiH,225573,4,D#,Major,D#Major
+134,36,Air Supply,1982,Even the Nights Are Better,mellow gold,soft rock,,0.434,0.507,5,-10.422,1,0.0358,0.565,0.0,0.161,0.236,115.309,09bRmFRViBORKQ2miwp04P,237107,4,F,Major,FMajor
+135,37,Charlene,1982,I've Never Been To Me,,,,0.593,0.348,10,-11.443,1,0.0335,0.84,3.42e-06,0.208,0.417,119.871,5D1ke8QuVinJEZJ0AZZtxD,240440,4,A#,Major,A#Major
+136,38,Paul Davis,1982,'65 Love Affair,album rock,bubblegum pop,country rock,0.647,0.686,2,-4.247,0,0.0274,0.432,6.19e-06,0.133,0.952,155.697,5nBp8F6tekSrnFg8G2Pvug,219813,4,D,minor,Dminor
+137,39,Asia,1982,Heat Of The Moment,album rock,art rock,classic rock,0.297,0.846,1,-6.571,1,0.0482,0.191,1.37e-05,0.283,0.602,137.426,2IcvvNK6aZ1uMwTAz5zXJx,232333,4,C#,Major,C#Major
+138,40,Little River Band,1982,Take It Easy On Me - Remastered,album rock,art rock,classic rock,0.424,0.575,9,-9.269,1,0.033,0.0178,3.38e-06,0.276,0.276,121.681,5p0Et9J14mQUaqZsNiFlsY,227080,4,A,Major,AMajor
+139,41,Buckner & Garcia,1982,Pac-Man Fever,novelty,,,0.802,0.831,10,-6.743,1,0.0627,0.485,0.000121,0.302,0.888,141.553,1jinux2Q5Afix30KCtZiuz,229042,4,A#,Major,A#Major
+140,42,Stevie Wonder,1982,That Girl,funk,motown,quiet storm,0.796,0.69,6,-8.938,1,0.0466,0.109,1.93e-05,0.0613,0.898,106.972,41R8wVfgdViMGnjId2xDMp,313853,4,F#,Major,F#Major
+141,43,Daryl Hall & John Oates,1982,Private Eyes,album rock,classic rock,mellow gold,0.823,0.778,2,-12.313,0,0.0475,0.331,0.0,0.0799,0.862,121.033,098DRq2EpYSun5kAj7NfWa,208173,4,D,minor,Dminor
+142,44,Lindsey Buckingham,1982,Trouble,album rock,art rock,classic rock,0.695,0.503,1,-12.91,1,0.0361,0.111,0.0134,0.0996,0.969,124.113,04ijIUVdT4Qy1SBWFUPROY,236533,4,C#,Major,C#Major
+143,45,Roberta Flack,1982,Making Love,adult standards,classic soul,disco,0.446,0.104,5,-16.98,1,0.0307,0.865,0.00126,0.0895,0.0901,139.084,1UpKK7U9ow2K1G6qNw9wnW,224733,4,F,Major,FMajor
+144,46,Juice Newton,1982,Love's Been A Little Bit Hard On Me,classic country pop,country dawn,country rock,0.607,0.753,9,-10.721,1,0.0326,0.136,0.00856,0.0659,0.936,144.637,37zpChlZkoFuScXLoiu0WE,195640,4,A,Major,AMajor
+145,47,Rod Stewart,1982,Young Turks - 2008 Remaster,mellow gold,soft rock,,0.641,0.821,5,-8.783,0,0.0325,0.274,0.487,0.138,0.705,161.143,5n1amEDwVKucAGMqePk9yN,302413,4,F,minor,Fminor
+146,48,The J. Geils Band,1982,Freeze-Frame,album rock,art rock,blues rock,0.605,0.913,0,-4.984,1,0.0419,0.175,0.00952,0.385,0.93,186.124,4QiBSGoonOPoCcldn0DYCq,238133,4,C,Major,CMajor
+147,49,REO Speedwagon,1982,Keep the Fire Burnin',album rock,classic rock,folk rock,0.445,0.818,0,-9.797,1,0.0406,0.15,0.00509,0.313,0.777,104.531,07wMk0CZVZRMqhF66r40Z8,234893,4,C,Major,CMajor
+148,50,Huey Lewis & The News,1982,Do You Believe In Love,album rock,classic rock,mellow gold,0.564,0.838,11,-4.417,1,0.0328,0.0854,0.0,0.141,0.815,113.816,1Flq3q4sDw3EYqk8Z9agIe,207987,4,B,Major,BMajor
+149,51,Paul Davis,1982,Cool Night,album rock,bubblegum pop,country rock,0.572,0.523,2,-5.413,0,0.0256,0.634,0.0,0.181,0.631,107.791,0ECGe76uQAsgjXHE3uDkbk,217440,4,D,minor,Dminor
+150,52,38 Special,1982,Caught Up In You,album rock,classic rock,country rock,0.425,0.681,1,-8.604,0,0.0316,0.0229,0.000219,0.0543,0.933,131.011,3jYRpwbctfqB77uU7T7K3U,279333,4,C#,minor,C#minor
+151,53,Diana Ross,1982,Why Do Fools Fall In Love,adult standards,disco,motown,0.651,0.647,4,-10.053,1,0.0562,0.302,6.63e-05,0.524,0.964,159.81,3btXFxLJ1e69bgieb33x6g,173427,4,E,Major,EMajor
+152,54,Alabama,1982,Love in the First Degree,country,country road,country rock,0.588,0.431,8,-11.881,1,0.0341,0.24,0.0,0.057,0.558,104.394,36TkU8oFYnabnDwP6n4p4R,198267,4,G#,Major,G#Major
+153,55,Royal Philharmonic Orchestra conducted by Louis Clark,1982,Hooked On Classics (Parts 1 & 2),,,,0.738,0.455,2,-15.644,1,0.0514,0.0522,0.773,0.0727,0.607,130.399,0nqQwPNem175DbPnA3yCmJ,306133,4,D,Major,DMajor
+154,56,"Crosby, Stills & Nash",1982,Wasted on the Way,album rock,blues rock,classic rock,0.551,0.501,2,-13.87,1,0.0375,0.231,3.28e-06,0.179,0.811,153.851,42TFhl9RznJZi5Xcd2PZDb,172667,4,D,Major,DMajor
+155,57,Eddie Money,1982,Think I'm In Love,album rock,classic rock,country rock,0.482,0.96,3,-4.895,1,0.0441,0.022,0.000219,0.0561,0.598,151.737,2RvkPf7MIzhdh347w5sjTJ,189733,4,D#,Major,D#Major
+156,58,Donna Summer,1982,Love Is In Control (Finger On The Trigger),disco,hi-nrg,new wave pop,0.838,0.623,7,-10.387,1,0.0436,0.362,0.0031,0.093,0.869,132.192,6W7mw61eqEnjcjfCp7GbJ5,260040,4,G,Major,GMajor
+157,59,Karla Bonoff,1982,Personally,mellow gold,soft rock,,0.736,0.419,11,-12.423,1,0.0324,0.731,4.67e-05,0.129,0.663,104.013,2H9DaLWHXqS7eSmouctbrj,216000,4,B,Major,BMajor
+158,60,Quincy Jones,1982,One Hundred Ways,disco,funk,jazz funk,0.621,0.245,8,-17.295,1,0.0495,0.805,8.89e-05,0.0706,0.375,90.063,0Ng9wyiQw09waMQxGNeqT9,259040,4,G#,Major,G#Major
+159,61,Elton John,1982,Blue Eyes,glam rock,mellow gold,piano rock,0.239,0.161,7,-21.081,0,0.0324,0.437,0.000317,0.114,0.141,71.055,28gxmNEk6FvQsaj7RF6jCM,205173,4,G,minor,Gminor
+160,62,The Go-Go's,1982,Our Lips Are Sealed,album rock,candy pop,girl group,0.62,0.819,8,-8.789,1,0.05,0.0162,0.0,0.0412,0.964,131.223,78wTOLl1ANJtgOkOoNNZ06,165627,4,G#,Major,G#Major
+161,63,Sheena Easton,1982,You Could Have Been With Me,adult standards,mellow gold,minneapolis sound,0.281,0.312,5,-11.098,1,0.0302,0.291,0.000961,0.258,0.202,63.321,3jcGgPrbEw2zwKP1eGdCGy,228853,4,F,Major,FMajor
+162,64,America,1982,You Can Do Magic,album rock,art rock,classic rock,0.859,0.568,4,-12.516,0,0.0387,0.29,0.0,0.31,0.936,129.72,5dXED6MP1v1qghkaniirb1,237467,4,E,minor,Eminor
+163,65,Daryl Hall & John Oates,1982,Did It In a Minute,album rock,classic rock,mellow gold,0.767,0.633,7,-10.06,1,0.0314,0.204,2.66e-06,0.198,0.921,132.253,6hHf43J8jIXM0q9DOZCYmp,218093,4,G,Major,GMajor
+164,66,A Flock Of Seagulls,1982,I Ran,new romantic,new wave,new wave pop,0.537,0.815,2,-6.208,1,0.0348,0.000418,0.807,0.194,0.691,145.424,10zlwR7kvVbD9OBkeZWr3L,219907,4,D,Major,DMajor
+165,67,Jackson Browne,1982,Somebody's Baby,album rock,classic rock,country rock,0.741,0.742,2,-7.822,1,0.0269,0.146,1.64e-05,0.106,0.889,116.951,4SlCb8n5Jw52astU7GWPyV,262733,4,D,Major,DMajor
+166,68,Commodores,1982,Oh No,adult standards,disco,funk,0.443,0.309,8,-12.358,1,0.0261,0.659,4.71e-05,0.352,0.485,171.712,5i4FU9RTVjuVA5v6jFUp61,181040,4,G#,Major,G#Major
+167,69,Paul McCartney,1982,Take It Away,album rock,beatlesque,classic rock,0.619,0.61,2,-9.85,1,0.0413,0.00743,1.04e-05,0.0965,0.875,134.793,3Zl0tZ2K1LgnJTyEaI1M6N,243667,4,D,Major,DMajor
+168,70,Deniece Williams,1982,It's Gonna Take a Miracle,disco,funk,post-disco,0.567,0.458,7,-12.049,1,0.0257,0.85,0.000627,0.351,0.665,98.317,6AeOM7N0rK3tYOINY2k5qy,249640,3,G,Major,GMajor
+169,71,Kenny Rogers,1982,Love Will Turn You Around,adult standards,classic country pop,country,0.553,0.673,4,-7.749,1,0.0281,0.316,2.98e-06,0.0993,0.578,173.82,0gYuak91s15aIDwxB4pRM2,220960,4,E,Major,EMajor
+170,72,Journey,1982,Don't Stop Believin',album rock,classic rock,hard rock,0.491,0.802,4,-7.106,1,0.0392,0.25,0.0,0.387,0.472,119.25,77NNZQSqzLNqh2A9JhLRkg,248907,4,E,Major,EMajor
+171,73,Barbra Streisand,1982,Comin' In And Out Of Your Life,adult standards,hollywood,mellow gold,0.325,0.374,1,-8.722,1,0.0354,0.864,1.98e-06,0.0743,0.188,140.028,7h8JzycDOWRSRfurjiCjGA,249507,4,C#,Major,C#Major
+172,74,Laura Branigan,1982,Gloria (45 Version),new romantic,new wave pop,soft rock,0.777,0.585,9,-11.78,1,0.0294,0.0873,0.207,0.17,0.924,131.251,0locmm7BcpfpRGGXR7YsBW,291253,4,A,Major,AMajor
+173,75,Elton John,1982,Empty Garden (Hey Hey Johnny),glam rock,mellow gold,piano rock,0.662,0.329,4,-14.374,1,0.0293,0.0853,0.0,0.223,0.239,109.404,2pbmRBjiVO0afrPVReZiFb,310933,4,E,Major,EMajor
+174,76,Neil Diamond,1982,Yesterday's Songs,adult standards,brill building pop,classic rock,0.614,0.271,5,-18.872,1,0.0287,0.293,1.38e-06,0.182,0.353,96.347,0nNj8m5ho1lMQy8y5rmtVW,171467,4,F,Major,FMajor
+175,77,Joan Jett & the Blackhearts,1982,Crimson and Clover,glam punk,rock,,0.181,0.772,0,-5.201,1,0.0385,0.0601,0.00045,0.072,0.607,166.741,4do0Z0rHdFUV3RSMxMQsdq,197493,4,C,Major,CMajor
+176,78,The Police,1982,Every Little Thing She Does Is Magic,album rock,art rock,classic rock,0.558,0.768,2,-9.997,1,0.0343,0.121,0.0626,0.124,0.429,81.909,44aTAUBF0g6sMkMNE8I5kd,260573,4,D,Major,DMajor
+177,79,Air Supply,1982,Here I Am (Just When I Thought I Was Over You),mellow gold,soft rock,,0.344,0.466,0,-8.453,1,0.0255,0.534,1.61e-05,0.569,0.132,137.974,38mMrNPAJKXMBK2l9actEA,230400,4,C,Major,CMajor
+178,80,Michael McDonald,1982,I Keep Forgettin' (Every Time You're Near),mellow gold,quiet storm,soft rock,0.734,0.485,4,-13.865,0,0.0465,0.357,0.00019,0.0401,0.933,95.321,5GvWrvLIqoHroq7YvO260M,222280,4,E,minor,Eminor
+179,81,Kool & The Gang,1982,Get Down On It,disco,funk,post-disco,0.88,0.633,7,-6.331,1,0.061,0.219,3.87e-05,0.0609,0.97,110.864,4cdOa74e9tBGA6FaVT5mgc,212907,4,G,Major,GMajor
+180,82,Ronnie Milsap,1982,Any Day Now,classic country pop,country,country rock,0.688,0.438,5,-12.005,1,0.0231,0.0574,6.94e-06,0.106,0.605,102.662,0kapmJEBBZ1jy6LNhqtZj8,223827,4,F,Major,FMajor
+181,83,Olivia Newton-John,1982,Make A Move On Me,adult standards,australian dance,disco,0.768,0.547,9,-13.055,1,0.0497,0.393,8.65e-05,0.116,0.605,121.97,1HKzbaJa69dMplZfb49TN1,197840,4,A,Major,AMajor
+182,84,Kool & The Gang,1982,Take My Heart,disco,funk,post-disco,0.673,0.657,11,-10.396,1,0.0666,0.277,0.0,0.346,0.917,87.557,0TQJdHkhAU45WV3ZjQ5xbF,147333,3,B,Major,BMajor
+183,85,Diana Ross,1982,"Mirror, Mirror - Radio Mix",adult standards,disco,motown,0.725,0.545,7,-12.042,0,0.0325,0.206,0.00139,0.173,0.958,103.406,2GEigdxii0cIc0nVRohyRm,245200,4,G,minor,Gminor
+184,86,The Go-Go's,1982,Vacation,album rock,candy pop,girl group,0.547,0.753,4,-10.834,1,0.0296,0.0023,0.00347,0.162,0.881,156.988,1vJOi8S2MSq3jZsni1gm4x,179027,4,E,Major,EMajor
+185,87,Van Halen,1982,(Oh) Pretty Woman,album rock,classic rock,hard rock,0.449,0.957,1,-2.989,1,0.0671,0.275,2.08e-06,0.295,0.591,127.971,2tIOS5Rm07vQbsaRjdKvPC,175307,4,C#,Major,C#Major
+186,88,The Pointer Sisters,1982,Should I Do It,dance pop,disco,girl group,0.666,0.803,11,-4.636,0,0.0288,0.126,0.000176,0.609,0.75,130.443,4aloxog6eatkPa34BFmj8G,231600,4,B,minor,Bminor
+187,89,Billy Idol,1982,Hot In The City - 2001 Digital Remaster,album rock,classic rock,dance rock,0.614,0.885,5,-6.677,1,0.0265,0.000657,8.52e-05,0.139,0.676,111.393,0MHTpNtTcrdseMWAhh7Sdp,218067,4,F,Major,FMajor
+188,90,Kim Wilde,1982,Kids In America,europop,new romantic,new wave,0.566,0.769,4,-4.973,1,0.0469,0.0597,0.0,0.579,0.324,159.651,0q4xWbV08szzUpGPhVsrcD,204480,4,E,Major,EMajor
+189,91,Little River Band,1982,Man On Your Mind - Remastered,album rock,art rock,classic rock,0.815,0.68,4,-9.73,1,0.0474,0.0921,0.000349,0.0741,0.961,112.863,4LzdgN6x9EHyE8MDjrq4lq,256840,4,E,Major,EMajor
+190,92,Michael Martin Murphey,1982,What's Forever For?,country,country rock,cowboy western,0.551,0.214,0,-16.631,0,0.0282,0.47,0.0,0.141,0.294,75.268,5j2yIrnbgDW51GM95ZjqDj,171907,4,C,minor,Cminor
+191,93,The Rolling Stones,1982,Waiting On A Friend,british invasion,classic rock,rock,0.616,0.682,0,-8.507,1,0.0285,0.0241,0.0346,0.544,0.887,116.902,5AhkKqAdObA7yvXyGd6pQn,274080,4,C,Major,CMajor
+192,94,Stevie Wonder,1982,Do I Do - Single Version,funk,motown,quiet storm,0.713,0.862,11,-10.235,1,0.0519,0.0948,1.24e-05,0.33,0.894,113.268,5OUfoG39D9qGF6FcvX3Yp7,301800,4,B,Major,BMajor
+193,95,Loverboy,1982,Working for the Weekend,album rock,classic canadian rock,classic rock,0.515,0.766,7,-12.768,1,0.0343,0.0249,0.00103,0.455,0.774,146.911,35k31HZI4z9PbBOioaI4dZ,221000,4,G,Major,GMajor
+194,96,Christopher Cross,1982,Arthur's Theme (Best That You Can Do),adult standards,album rock,folk rock,0.526,0.515,9,-11.169,1,0.0389,0.169,0.000816,0.181,0.518,136.543,5fnOrhQ4KgT5irGCjIccGH,234493,4,A,Major,AMajor
+195,97,Kenny Rogers,1982,Through The Years - Single Version,adult standards,classic country pop,country,0.554,0.487,0,-7.604,1,0.0264,0.348,1.33e-06,0.213,0.258,131.127,5TSSjhWoGjWJfkfa6lziFJ,285027,4,C,Major,CMajor
+196,98,Stevie Nicks,1982,Edge of Seventeen - 2016 Remaster,album rock,heartland rock,mellow gold,0.591,0.804,0,-7.299,1,0.0454,0.327,5.98e-06,0.0818,0.658,111.457,7L3b6iaVhDVjfo52Hbvh9Z,329413,4,C,Major,CMajor
+197,0,Boyz II Men,1992,End Of The Road,boy band,contemporary r&b,new jack swing,0.561,0.579,5,-6.022,0,0.0243,0.0343,0.0,0.0673,0.55,74.822,3ZxhEGcEmCuwyBzwqCa7oW,349135,3,F,minor,Fminor
+198,1,Sir Mix-A-Lot,1992,Baby Got Back,gangster rap,hip hop,hip house,0.933,0.664,1,-11.281,1,0.311,0.00471,0.0,0.0908,0.616,128.467,7MCNnnmwm7TXMh7xyNGohi,262827,4,C#,Major,C#Major
+199,2,Kris Kross,1992,Jump,gangster rap,hip hop,old school atlanta hip hop,0.749,0.745,2,-10.625,1,0.164,0.000501,0.00403,0.333,0.481,101.972,27AHAtAirQapVldIm4c9ZX,195107,4,D,Major,DMajor
+200,3,Vanessa Williams,1992,Save The Best For Last,adult standards,contemporary r&b,new wave pop,0.531,0.297,3,-12.742,1,0.0266,0.648,0.0,0.2,0.225,95.972,0oKtaLvAcLN1ayWxU3jub6,219147,4,D#,Major,D#Major
+201,4,TLC,1992,Baby-Baby-Baby,atl hip hop,contemporary r&b,dance pop,0.679,0.597,11,-8.601,0,0.0439,0.0913,0.000673,0.0487,0.9,184.174,1zTuB57LYZa7xu7KUH8kF0,315040,4,B,minor,Bminor
+202,5,Eric Clapton,1992,Tears in Heaven,album rock,blues rock,classic rock,0.498,0.242,9,-12.238,1,0.0257,0.835,0.536,0.133,0.312,153.744,7utRJ4BeYx85khzP3lKoBX,271760,4,A,Major,AMajor
+203,6,En Vogue,1992,My Lovin' (You're Never Gonna Get It),contemporary r&b,dance pop,girl group,0.767,0.839,8,-5.519,1,0.0613,0.0318,9.31e-06,0.111,0.461,98.055,3R97rNX7JnmshCWBwOSFet,281613,4,G#,Major,G#Major
+204,7,Red Hot Chili Peppers,1992,Under the Bridge,alternative rock,funk metal,funk rock,0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581,3d9DChrdc6BOeFsbrZ3Is0,264307,4,E,Major,EMajor
+205,8,Color Me Badd,1992,All 4 Love,boy band,contemporary r&b,new jack swing,0.807,0.75,2,-8.29,1,0.0315,0.0346,0.000179,0.149,0.797,106.389,4XmsMIMjvDIFEjeY3ycMzW,211493,4,D,Major,DMajor
+206,9,Jon Secada,1992,Just Another Day,mellow gold,new wave pop,soft rock,0.717,0.642,1,-10.727,1,0.0287,0.0194,0.000249,0.043,0.732,105.894,5AoBNJQDXXEnIJGjJjZu3y,327427,4,C#,Major,C#Major
+207,10,Shanice,1992,I Love Your Smile,contemporary r&b,hip pop,new jack swing,0.722,0.842,5,-8.745,0,0.126,0.00955,8.45e-06,0.178,0.751,93.954,69mFxANpGyq9s69LqH3d9G,257973,4,F,minor,Fminor
+208,11,Mr. Big,1992,To Be With You - 2010 Remastered Version,glam metal,hard rock,,0.688,0.375,4,-9.601,1,0.0535,0.286,0.0,0.133,0.45,83.635,3Mmt6Xk0H6VR92PEp6x3hP,210480,4,E,Major,EMajor
+209,12,Right Said Fred,1992,I'm Too Sexy,eurodance,europop,hip house,0.683,0.739,11,-12.831,0,0.0495,4.91e-05,0.0122,0.293,0.836,122.113,2WElktskrNJEwgpp5Vouxk,170467,4,B,minor,Bminor
+210,13,Michael Jackson,1992,Black or White - Single Version,pop,r&b,soul,0.741,0.894,4,-3.826,1,0.0496,0.0814,0.0527,0.089,0.96,114.879,2Cy7QY8HPLk925AyNAt6OG,202853,4,E,Major,EMajor
+211,14,Billy Ray Cyrus,1992,Achy Breaky Heart,country,country rock,,0.79,0.563,9,-10.247,1,0.0305,0.0564,1.44e-06,0.12,0.966,121.772,3DoblTreF2YRCXnwROcAbS,203373,4,A,Major,AMajor
+212,15,Mariah Carey,1992,"I'll Be There (feat. Trey Lorenz) - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",dance pop,pop,r&b,0.404,0.498,5,-9.855,1,0.0338,0.687,0.0,0.725,0.284,81.951,2exGHTlYAUQ5UX4e7Uqc79,282373,4,F,Major,FMajor
+213,16,Guns N' Roses,1992,November Rain,glam metal,hard rock,rock,0.197,0.629,11,-9.291,1,0.03,0.0165,0.279,0.125,0.221,79.495,53968oKecrFxkErocab2Al,537507,4,B,Major,BMajor
+214,17,Tom Cochrane,1992,Life Is A Highway,album rock,canadian singer-songwriter,classic canadian rock,0.683,0.751,5,-10.184,1,0.0346,0.0681,8.36e-06,0.248,0.841,103.036,0hKF8N8aflF1uDzEEnPr2j,266560,4,F,Major,FMajor
+215,18,Michael Jackson,1992,Remember the Time,pop,r&b,soul,0.831,0.921,5,-2.383,0,0.0582,0.153,0.00224,0.305,0.795,108.002,4jnFqNWeJCeCRHc4HCdxfd,239227,4,F,minor,Fminor
+216,19,CeCe Peniston,1992,Finally,disco,diva house,hip house,0.761,0.718,11,-10.279,0,0.0366,0.00459,5.95e-06,0.0333,0.876,120.12,2WpCr1ls4bjL54NAcN5DAA,249067,4,B,minor,Bminor
+217,20,Madonna,1992,This Used to Be My Playground,dance pop,pop,,0.499,0.308,7,-11.692,0,0.0264,0.754,0.000943,0.124,0.0706,75.91,637V2ymBt4Ljlbz4EmRys8,310267,4,G,minor,Gminor
+218,21,Patty Smyth,1992,Sometimes Love Just Ain't Enough,new wave pop,,,0.561,0.442,10,-10.687,1,0.0243,0.329,0.0,0.24,0.267,82.996,3CUV8wsoTTKznGpEovrnZw,267600,4,A#,Major,A#Major
+219,22,Mariah Carey,1992,Can't Let Go,dance pop,pop,r&b,0.478,0.533,10,-11.048,1,0.0404,0.591,0.00704,0.139,0.181,162.369,0ikbcCJIJaY9sKEivAXJ4I,266560,4,A#,Major,A#Major
+220,23,House Of Pain,1992,Jump Around,gangster rap,hardcore hip hop,hip hop,0.854,0.71,4,-6.32,0,0.0793,0.0113,8.72e-05,0.166,0.818,106.894,2oTDOIAdsxPTE7yAp4YOcv,214947,4,E,minor,Eminor
+221,24,Prince,1992,Diamonds and Pearls,funk,funk rock,minneapolis sound,0.549,0.547,7,-10.119,1,0.0328,0.0532,0.321,0.0655,0.288,81.05,4mfyehYgUP2V8jsjW9UzYj,285267,4,G,Major,GMajor
+222,25,George Michael,1992,Don't Let the Sun Go Down on Me,soft rock,,,0.433,0.551,0,-8.096,1,0.0289,0.501,1.77e-06,0.473,0.253,136.467,0q90594hk25yo0xZmBTqCd,346960,4,C,Major,CMajor
+223,26,Atlantic Starr,1992,Masterpiece,contemporary r&b,disco,funk,0.642,0.448,5,-10.417,0,0.0259,0.492,1.68e-05,0.0646,0.285,137.832,2sm3HfTCt3O6R6qUc5f6xb,295347,4,F,minor,Fminor
+224,27,Céline Dion,1992,If You Asked Me To,canadian pop,dance pop,,0.46,0.437,7,-10.587,1,0.0304,0.128,0.0,0.025,0.227,172.382,6vubJBI43jIr557lvNbzlH,234360,4,G,Major,GMajor
+225,28,En Vogue,1992,Giving Him Something He Can Feel,contemporary r&b,dance pop,girl group,0.496,0.298,9,-10.175,0,0.0405,0.306,1.72e-06,0.0875,0.705,203.824,4htbAEZWr53J08x3dUv00W,235707,3,A,minor,Aminor
+226,29,Joe Public,1992,Live and Learn,contemporary r&b,new jack swing,,0.746,0.905,11,-8.221,0,0.0817,0.0783,0.0,0.105,0.653,106.628,4nAerUqEeGCmVFsnpMTBAP,257907,4,B,minor,Bminor
+227,30,Jodeci,1992,Come & Talk To Me,contemporary r&b,hip hop,hip pop,0.609,0.57,7,-14.773,1,0.0912,0.223,0.0,0.366,0.84,172.095,63uR29DnkNPUiorL30cHnj,276267,4,G,Major,GMajor
+228,31,Nirvana,1992,Smells Like Teen Spirit,alternative rock,grunge,permanent wave,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,1f3yAtsJtY87CTmM8RLnxf,301920,4,C#,Major,C#Major
+229,32,Bobby Brown,1992,Humpin' Around,contemporary r&b,funk,hip hop,0.71,0.797,1,-7.152,1,0.0401,0.00202,0.127,0.0395,0.613,110.214,52t5L70Ap9iHYSbIJ0jZFM,378360,4,C#,Major,C#Major
+230,33,Sophie B. Hawkins,1992,Damn I Wish I Was Your Lover,lilith,new wave pop,pop rock,0.546,0.781,11,-9.439,0,0.0506,0.22,1.51e-05,0.363,0.539,95.032,7kmfQ2QHwGqRCxVHDv5mzo,323267,4,B,minor,Bminor
+231,34,Tevin Campbell,1992,Tell Me What You Want Me to Do,contemporary r&b,hip pop,neo soul,0.609,0.551,6,-7.93,1,0.0291,0.0233,0.0,0.234,0.512,127.956,0IhHkW1fnUSMEcLSHmKhrJ,256040,4,F#,Major,F#Major
+232,35,TLC,1992,Ain't 2 Proud 2 Beg,atl hip hop,contemporary r&b,dance pop,0.674,0.707,10,-10.799,0,0.0343,0.00265,0.00213,0.352,0.712,104.855,5kVSEpbyuLIVuPM1i2KivC,336560,4,A#,minor,A#minor
+233,36,Boyz II Men,1992,It's So Hard To Say Goodbye To Yesterday,boy band,contemporary r&b,new jack swing,0.3,0.225,4,-11.079,1,0.0264,0.915,0.0,0.159,0.294,87.698,7DgjLTqVb8OCtWaqYozFB9,168530,4,E,Major,EMajor
+234,37,Technotronic,1992,Move This (Shake That Body),eurodance,europop,hip house,0.782,0.96,10,-4.047,1,0.0347,0.0637,0.0,0.0788,0.979,120.682,0PAGmTNpVASXq2tegMxSOs,296986,4,A#,Major,A#Major
+235,38,Queen,1992,Bohemian Rhapsody - Remastered 2011,classic rock,glam rock,rock,0.414,0.404,0,-9.928,0,0.0499,0.271,0.0,0.3,0.224,71.105,1AhDOtG9vPSOmsWgNW0BEY,354320,4,C,minor,Cminor
+236,39,Arrested Development,1992,Tennessee - Remastered,atl hip hop,conscious hip hop,hip hop,0.815,0.851,1,-3.667,0,0.178,0.0284,0.0,0.343,0.674,99.915,5K8qwhQQSAj9ebIvlNJY8q,272707,4,C#,minor,C#minor
+237,40,Janet Jackson,1992,The Best Things In Life Are Free,dance pop,hip pop,r&b,0.719,0.918,7,-5.173,1,0.0532,0.0592,0.000112,0.169,0.636,120.376,3E5wSWxUUUfIbZfYtL0h1A,276573,4,G,Major,GMajor
+238,41,Mariah Carey,1992,Make It Happen,dance pop,pop,r&b,0.811,0.531,2,-8.537,0,0.0355,0.00657,0.0285,0.0801,0.752,107.853,5UVcgBRW78CCcKCopEGAST,307000,4,D,minor,Dminor
+239,42,Elton John,1992,The One,glam rock,mellow gold,piano rock,0.421,0.646,10,-7.86,1,0.0278,0.0353,0.0016,0.166,0.284,76.144,3YpkVhRNeKVaSXUaG2TKs9,351387,4,A#,Major,A#Major
+240,43,P.M. Dawn,1992,Set Adrift on Memory Bliss (Re-Recorded),contemporary r&b,,,0.795,0.705,5,-8.552,0,0.0715,0.00118,0.00658,0.136,0.482,100.025,3rcNGUOJ0mPOUcAFUlEyT3,235800,4,F,minor,Fminor
+241,44,Shakespears Sister,1992,Stay,candy pop,new wave pop,,0.506,0.597,8,-7.336,1,0.0371,0.526,0.000278,0.065,0.163,96.603,7u44eEBhSbO7J5DWIApQIg,227360,4,G#,Major,G#Major
+242,45,MC Hammer,1992,2 Legit 2 Quit,hip hop,hip house,rap,0.853,0.884,1,-6.771,1,0.0836,0.0394,6.83e-06,0.0313,0.668,124.542,4ZnKSrukEcPuMxGrcZEEh1,333624,4,C#,Major,C#Major
+243,46,K.W.S.,1992,Please Don't Go,,,,0.725,0.954,8,-7.234,1,0.0375,0.0437,0.0857,0.132,0.594,120.248,41DTJjf2ZT7dTuZOKBNKbb,373600,4,G#,Major,G#Major
+244,47,Mint Condition,1992,Breakin' My Heart (Pretty Brown Eyes),contemporary r&b,funk,hip pop,0.657,0.565,7,-8.823,0,0.0436,0.103,1.22e-06,0.0479,0.588,137.142,0v6Pti6FvAHik2wBRIcelI,356788,4,G,minor,Gminor
+245,48,The Cover Girls,1992,Wishing on a Star,freestyle,,,0.696,0.829,5,-9.0,0,0.046,0.212,0.00542,0.136,0.686,97.086,2PeP9g0AZq7KoLoeN9n9QY,240707,4,F,minor,Fminor
+246,49,Hi-Five,1992,She's Playing Hard To Get,boy band,contemporary r&b,hip pop,0.525,0.811,1,-6.148,1,0.0602,0.00847,0.0,0.266,0.751,199.977,3xRbymJj98leHL7K8Y94WS,276573,4,C#,Major,C#Major
+247,50,P.M. Dawn,1992,I'd Die Without You,contemporary r&b,,,0.543,0.266,1,-18.813,1,0.0443,0.256,0.00093,0.0993,0.343,79.992,6FBlxkA9VKafooUNAi4W3p,250693,4,C#,Major,C#Major
+248,51,Amy Grant,1992,Good For Me,christian music,,,0.594,0.883,5,-4.279,1,0.0451,0.329,8.33e-05,0.276,0.863,89.997,2GwDKcTJlvoRDaJXkA7ULJ,239493,4,F,Major,FMajor
+249,52,Toad The Wet Sprocket,1992,All I Want,alternative rock,neo mellow,pop rock,0.6,0.811,5,-7.693,1,0.0788,0.0558,6.82e-06,0.109,0.622,124.303,2GHYJ0dhVds3PODKnTdiGE,196116,4,F,Major,FMajor
+250,53,Michael Bolton,1992,When a Man Loves a Woman,adult standards,mellow gold,soft rock,0.476,0.363,1,-10.706,1,0.0296,0.2,0.0,0.055,0.243,164.555,3ascnOSOR5MX901ylGuhcl,231067,3,C#,Major,C#Major
+251,54,Genesis,1992,I Can't Dance - Remastered 2007,album rock,art rock,classic rock,0.916,0.523,3,-9.733,1,0.0521,0.432,1.13e-05,0.0488,0.88,107.564,7safX55XidhznxK5eDdDm5,241360,4,D#,Major,D#Major
+252,55,Richard Marx,1992,Hazard,album rock,mellow gold,new wave pop,0.674,0.546,7,-11.461,0,0.0262,0.176,0.0045,0.0672,0.63,124.846,6aILdORvFPD0mO7y5q8O1t,316733,4,G,minor,Gminor
+253,56,U2,1992,Mysterious Ways,irish rock,permanent wave,rock,0.674,0.667,8,-8.004,1,0.0295,0.00176,0.00561,0.105,0.718,99.79,7FOZKzyMlqKMOua5aehMUa,243587,4,G#,Major,G#Major
+254,57,George Michael,1992,Too Funky - Single Edit,soft rock,,,0.66,0.893,1,-8.324,1,0.0758,0.0211,0.305,0.718,0.757,98.262,4KjPPpRbthW8dSNdisR2Wi,224933,4,C#,Major,C#Major
+255,58,The Heights,1992,How Do You Talk To An Angel?,,,,0.404,0.51,9,-11.353,1,0.0321,0.281,6.32e-06,0.0789,0.526,80.643,2QVHmiFTjFsHyxONRdbkcq,227267,4,A,Major,AMajor
+256,59,U2,1992,One,irish rock,permanent wave,rock,0.511,0.536,0,-8.661,1,0.0302,0.256,0.00265,0.122,0.357,90.358,3PKtemUKxiDBvBo7tpQ8bG,276187,4,C,Major,CMajor
+257,60,CeCe Peniston,1992,Keep On Walkin',disco,diva house,hip house,0.766,0.712,6,-12.111,1,0.0427,0.00291,0.0201,0.226,0.655,104.974,5Rg4i5SEzUXAiztaIwG3Qd,270838,4,F#,Major,F#Major
+258,61,Genesis,1992,Hold On My Heart - Remastered 2007,album rock,art rock,classic rock,0.458,0.363,5,-12.521,0,0.0301,0.607,0.0144,0.0744,0.27,172.047,4zRl3lAyZOVcJgHwZTpH17,278000,4,F,minor,Fminor
+259,62,Karyn White,1992,The Way I Feel About You,contemporary r&b,minneapolis sound,new jack swing,0.673,0.888,1,-7.056,1,0.0364,0.261,0.000134,0.234,0.801,110.772,5LLRxnEQAbnQNzLK0mAC2R,275467,4,C#,Major,C#Major
+260,63,Céline Dion,1992,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",canadian pop,dance pop,,0.463,0.4,6,-9.999,0,0.0308,0.643,2.46e-05,0.131,0.121,77.314,7B3UAPLYAbwXVgbHSKEaTw,249240,4,F#,minor,F#minor
+261,64,Kris Kross,1992,Warm It Up,gangster rap,hip hop,old school atlanta hip hop,0.865,0.778,1,-10.05,1,0.249,0.0411,0.0,0.303,0.763,103.008,4Gv46S98aguDKuKTrbRBus,248333,4,C#,Major,C#Major
+262,65,Michael Jackson,1992,In the Closet,pop,r&b,soul,0.877,0.781,11,-3.775,0,0.0691,0.117,0.000746,0.149,0.606,110.494,5Fy40smNxk0j5OpFMtvfaU,390573,4,B,minor,Bminor
+263,66,Arrested Development,1992,People Everyday,atl hip hop,conscious hip hop,hip hop,0.839,0.508,1,-12.359,1,0.219,0.0126,3.06e-05,0.0928,0.874,80.014,6JvodgYcsthsORxPsEYUoe,206893,4,C#,Major,C#Major
+264,67,Genesis,1992,No Son Of Mine,album rock,art rock,classic rock,0.678,0.71,4,-4.443,0,0.0305,0.456,4.14e-05,0.0535,0.308,104.011,2nHajACLqGsbctpe3Rafh3,395653,4,E,minor,Eminor
+265,68,Marky Mark And The Funky Bunch,1992,Wildside,,,,0.767,0.356,8,-15.502,0,0.106,0.166,0.309,0.101,0.271,105.404,2U25Ne3teRZLF1wsRnjcfW,307267,4,G#,minor,G#minor
+266,69,Bryan Adams,1992,Do I Have To Say The Words?,canadian pop,canadian singer-songwriter,classic canadian rock,0.5,0.594,7,-9.38,1,0.0283,0.0845,2.91e-06,0.143,0.447,128.081,6z47lCY4NaxMzhGuh7mnEK,371200,4,G,Major,GMajor
+267,70,The Cure,1992,Friday I'm In Love,new wave,permanent wave,rock,0.526,0.763,0,-12.663,0,0.0341,0.00126,6.75e-05,0.359,0.514,136.205,20CNpCKq1oTdvekXaboyeq,215160,4,C,minor,Cminor
+268,71,Ugly Kid Joe,1992,Everything About You,funk metal,funk rock,glam metal,0.516,0.783,1,-7.895,1,0.0646,0.0117,1.08e-06,0.142,0.775,122.603,0l37J5l4eJfIdd7cea1Cl5,260507,4,C#,Major,C#Major
+269,72,Paula Abdul,1992,Blowing Kisses In The Wind,dance pop,new wave pop,soft rock,0.524,0.544,6,-9.059,0,0.0337,0.574,0.0,0.236,0.261,147.674,1uhsVQi7IADIxZXN1xJnk5,281840,4,F#,minor,F#minor
+270,73,Bryan Adams,1992,Thought I'd Died And Gone To Heaven,canadian pop,canadian singer-songwriter,classic canadian rock,0.439,0.746,4,-8.159,1,0.03,0.0569,0.0,0.097,0.568,174.403,0LJKGUTtdzcLW9ZcUxkRXR,348467,4,E,Major,EMajor
+271,74,SNAP!,1992,"Rhythm Is A Dancer - 7"" Edit",diva house,eurodance,europop,0.794,0.756,9,-11.331,0,0.0343,0.251,0.000611,0.122,0.759,124.25,5iEDwEp82uLN3X6llJdqen,225867,4,A,minor,Aminor
+272,75,MC Hammer,1992,Addams Groove,hip hop,hip house,rap,0.912,0.582,11,-9.408,0,0.271,0.0333,0.0,0.0572,0.842,119.996,46jqxETXUwgLRsoMGuwFLa,239040,4,B,minor,Bminor
+273,76,Michael Bolton,1992,Missing You Now (feat. Kenny G),adult standards,mellow gold,soft rock,0.618,0.644,7,-7.343,1,0.0269,0.115,0.0,0.136,0.318,95.012,28jxOSSr6Ou0nOwO9yyrlZ,273560,4,G,Major,GMajor
+274,77,N2DEEP,1992,Back to the Hotel,chicano rap,gangster rap,hyphy,0.7,0.476,9,-9.195,1,0.0512,0.000166,0.000791,0.0823,0.323,201.77,2TVWQ8xDTLvjimMSqW3F96,304360,4,A,Major,AMajor
+275,78,Kathy Troccoli,1992,Everything Changes,,,,0.749,0.874,6,-3.981,1,0.0332,0.0853,2.66e-06,0.0414,0.78,117.776,7rJXvz9zXQr9YYdYzeXe7U,262200,4,F#,Major,F#Major
+276,79,Def Leppard,1992,Have You Ever Needed Someone So Bad,album rock,hard rock,nwobhm,0.497,0.726,4,-8.335,1,0.0272,0.0489,8.99e-06,0.049,0.735,136.792,0nf9RjoFTcOzTIXtmzhRuH,324027,4,E,Major,EMajor
+277,80,Richard Marx,1992,Take This Heart,album rock,mellow gold,new wave pop,0.612,0.694,0,-8.277,1,0.026,0.00142,0.0012,0.0749,0.551,115.53,1aHCn2d62m0Gghu0nLeaw3,250667,4,C,Major,CMajor
+278,81,Firehouse,1992,When I Look Into Your Eyes,album rock,glam metal,hard rock,0.396,0.612,6,-8.039,1,0.0277,0.00288,4.71e-05,0.233,0.241,146.759,1yJWqYYDQge60nZKdLyiZU,239867,4,F#,Major,F#Major
+279,82,Jade,1992,I Wanna Love You,contemporary r&b,girl group,neurofunk,0.731,0.707,0,-9.79,0,0.0769,0.0596,0.00654,0.264,0.838,200.306,2BDRHFw5170t2kRHD3uEMU,271400,4,C,minor,Cminor
+280,83,Boyz II Men,1992,Uhh Ahh,boy band,contemporary r&b,new jack swing,0.722,0.661,2,-8.236,1,0.0844,0.151,0.0,0.233,0.643,126.007,3F2We6fYbrFOsmPrJrFUE6,228763,4,D,Major,DMajor
+281,84,Mary J. Blige,1992,Real Love,dance pop,hip pop,neo soul,0.76,0.793,0,-5.528,1,0.0791,0.106,0.000433,0.0517,0.833,95.056,22sTMbJk27SLWMtsdYLt4u,269973,4,C,Major,CMajor
+282,85,The KLF,1992,Justified & Ancient,acid house,ambient house,big beat,0.628,0.953,10,-4.989,0,0.0626,0.00276,0.0132,0.427,0.515,111.134,7E81YAfHOaSlnevLjKMghT,228372,4,A#,minor,A#minor
+283,86,Color Me Badd,1992,Slow Motion,boy band,contemporary r&b,new jack swing,0.783,0.885,6,-7.747,0,0.0648,0.00525,0.752,0.0435,0.941,92.042,03GzYByXsXHcoEAxjsWv9G,265667,4,F#,minor,F#minor
+284,87,TLC,1992,What About Your Friends,atl hip hop,contemporary r&b,dance pop,0.744,0.851,10,-10.108,0,0.049,0.0267,0.00738,0.0989,0.626,105.882,63PIgPkDf3rswlU4ZWCYAM,293600,4,A#,minor,A#minor
+285,88,Color Me Badd,1992,Thinkin' Back,boy band,contemporary r&b,new jack swing,0.587,0.326,6,-11.204,0,0.0242,0.21,1e-05,0.133,0.271,90.821,5OI4XbIHmAGDNnmP01sD82,322533,4,F#,minor,F#minor
+286,89,Charles & Eddie,1992,Would I Lie To You?,neo soul,,,0.547,0.538,11,-11.39,0,0.0567,0.473,0.0,0.0369,0.718,202.409,21MLFi0ISlqDBp7DQHPi7p,279600,4,B,minor,Bminor
+287,90,Amy Grant,1992,That's What Love Is For,christian music,,,0.544,0.699,9,-4.148,1,0.0341,0.258,0.0,0.144,0.293,141.844,367dmPOxuMP8FsrZHenNnq,257293,4,A,Major,AMajor
+288,91,Richard Marx,1992,Keep Coming Back,album rock,mellow gold,new wave pop,0.72,0.478,9,-11.074,1,0.0239,0.115,2.27e-05,0.104,0.672,97.073,0GMFC1osUTm2qKycgHdwWD,409360,4,A,Major,AMajor
+289,92,En Vogue,1992,Free Your Mind,contemporary r&b,dance pop,girl group,0.765,0.831,7,-6.522,1,0.0565,0.0894,0.0,0.393,0.809,100.026,2vG1yrWSMiL6egg6w4e9ma,293106,4,G,Major,GMajor
+290,93,Keith Sweat,1992,Keep It Comin',contemporary r&b,hip pop,neo soul,0.667,0.899,11,-7.084,0,0.0809,0.0371,4.12e-06,0.541,0.738,101.477,5DcIkTnThkzh1fTnF6juFx,246373,4,B,minor,Bminor
+291,94,Mr. Big,1992,Just Take My Heart - 2010 Remastered Version,glam metal,hard rock,,0.508,0.362,0,-9.369,1,0.0349,0.483,0.0,0.0996,0.207,168.586,7mqqMOgnRE50GOJFPxRF8x,265307,4,C,Major,CMajor
+292,95,Amy Grant,1992,I Will Remember You,christian music,,,0.513,0.658,0,-6.432,1,0.0277,0.0329,9.3e-05,0.0805,0.336,177.625,76crWZqaiFzlTPGzNtT4w1,300560,4,C,Major,CMajor
+293,96,CeCe Peniston,1992,We Got A Love Thang,disco,diva house,hip house,0.669,0.644,0,-10.47,1,0.0302,0.000172,0.00585,0.356,0.764,120.012,1Z1BvDuDYOaQaQtoeCDSuA,328800,4,C,Major,CMajor
+294,97,Def Leppard,1992,Let's Get Rocked,album rock,hard rock,nwobhm,0.564,0.888,5,-6.763,1,0.0325,0.0109,6.68e-05,0.177,0.526,91.989,0LoH6lFQLNscy3RyljAewK,295957,4,F,Major,FMajor
+295,98,Das EFX,1992,They Want EFX,east coast hip hop,gangster rap,hardcore hip hop,0.755,0.459,5,-12.84,0,0.358,0.115,0.0,0.0851,0.597,98.454,3HCzj965m8Fz2E8wZkir6q,221400,4,F,minor,Fminor
+296,99,Bonnie Raitt,1992,I Can't Make You Love Me,country rock,electric blues,folk,0.588,0.149,7,-16.728,0,0.0319,0.846,9.65e-05,0.236,0.113,124.689,69uJi5QsBtqlYkGURTBli8,332960,4,G,minor,Gminor
+297,0,Nickelback,2002,How You Remind Me,alternative metal,canadian rock,nu metal,0.545,0.777,10,-4.986,1,0.0265,0.000866,0.0,0.096,0.558,85.974,56NRHWyi7rKiiUgh72u0oO,222800,4,A#,Major,A#Major
+298,1,Ashanti,2002,Foolish - Mainstream Edit,dance pop,hip hop,hip pop,0.644,0.574,0,-9.137,1,0.0682,0.379,0.0,0.129,0.752,90.213,3NT4deyIUzzqL63rNHgYNM,207200,4,C,Major,CMajor
+299,2,Nelly,2002,Hot In Herre,dance pop,gangster rap,hip hop,0.966,0.763,2,-4.495,1,0.145,0.243,0.0,0.0637,0.916,107.05,51FEdPwVSWCFspiWtt8gjJ,228533,4,D,Major,DMajor
+300,3,The Calling,2002,Wherever You Will Go,neo mellow,pop rock,,0.551,0.696,2,-6.192,1,0.0265,0.0392,0.0,0.127,0.354,112.024,37qI0mchgzUSeUhPiwUWPY,209360,4,D,Major,DMajor
+301,4,Vanessa Carlton,2002,A Thousand Miles,lilith,neo mellow,piano rock,0.512,0.712,11,-7.475,1,0.0322,0.375,0.0,0.142,0.352,94.888,2JFEZO2ZxzffY0wd9MYEu3,238240,4,B,Major,BMajor
+302,5,Linkin Park,2002,In the End,alternative metal,nu metal,post-grunge,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143,60a0Rd6pjrkxjPbaKzXjfq,216880,4,D#,minor,D#minor
+303,6,Usher,2002,U Got It Bad,atl hip hop,contemporary r&b,dance pop,0.816,0.5,1,-4.551,1,0.03,0.0227,1.53e-06,0.0733,0.649,124.037,7J41dYQolQJEtj3UmKLu5r,247840,4,C#,Major,C#Major
+304,7,Puddle Of Mudd,2002,Blurry,alternative metal,alternative rock,modern rock,0.433,0.933,3,-4.505,0,0.0496,0.009,0.0,0.143,0.501,157.478,45E1IBsdnZ4LqIDRORyjti,304600,4,D#,minor,D#minor
+305,8,Avril Lavigne,2002,Complicated,canadian pop,candy pop,dance pop,0.585,0.776,5,-5.898,1,0.0459,0.0572,7.74e-06,0.3,0.427,77.987,5o4cq6gKFAbR1V7wITwB7n,244507,4,F,Major,FMajor
+306,9,Jimmy Eat World,2002,The Middle,alternative rock,emo,modern power pop,0.634,0.886,2,-3.466,1,0.0517,0.0291,0.0,0.342,0.922,161.933,5kD9T7GForh8LnRz5ClbL8,168253,4,D,Major,DMajor
+307,10,Usher,2002,U Don't Have to Call,atl hip hop,contemporary r&b,dance pop,0.793,0.568,1,-4.958,1,0.0459,0.0478,3.57e-05,0.0304,0.806,100.005,5PCJldueshnwqQVjS16543,269400,4,C#,Major,C#Major
+308,11,Mary J. Blige,2002,Family Affair,dance pop,hip pop,neo soul,0.914,0.551,8,-3.879,0,0.0455,0.133,2.61e-05,0.0841,0.967,92.889,5q4I6I0ytvTKuYe1Fquxnx,265867,4,G#,minor,G#minor
+309,12,Creed,2002,My Sacrifice,alternative metal,nu metal,pop rock,0.314,0.87,2,-6.037,1,0.0479,9.64e-05,1.32e-06,0.108,0.269,146.284,0I4j0zbGVEHp1aUNeAacrO,295800,4,D,Major,DMajor
+310,13,Eminem,2002,Without Me,detroit hip hop,hip hop,rap,0.919,0.657,7,-2.823,1,0.0907,0.00293,0.0,0.356,0.659,112.23,5pBvNeOAJ54zgd5lEOmM3b,291213,4,G,Major,GMajor
+311,14,Enrique Iglesias,2002,Hero,dance pop,latin,latin pop,0.569,0.624,7,-6.181,1,0.0386,0.154,3.84e-05,0.103,0.161,151.977,2wvNUDkOu4Y5Ywi1Ju9lct,264213,4,G,Major,GMajor
+312,15,Michelle Branch,2002,All You Wanted,candy pop,dance pop,lilith,0.499,0.72,8,-9.101,1,0.0286,0.00466,0.00303,0.122,0.652,96.103,0kr6d8wHDQPlzuET33NVn6,217680,4,G#,Major,G#Major
+313,16,P!nk,2002,Get the Party Started,dance pop,pop,,0.799,0.903,11,-3.366,0,0.0449,0.00106,0.0,0.166,0.963,128.926,1lkC6oC7SbwgnEBEC05r64,192227,4,B,minor,Bminor
+314,17,Default,2002,Wasting My Time,alternative metal,canadian rock,nu metal,0.449,0.776,2,-5.594,1,0.0322,0.00171,0.0,0.0698,0.198,148.11,5dpAN1mjFPL38kh9kWsCiw,269307,4,D,Major,DMajor
+315,18,Creed,2002,One Last Breath,alternative metal,nu metal,pop rock,0.376,0.72,2,-5.748,1,0.0351,0.0102,0.00171,0.209,0.166,130.656,39xlKIt3AQlvCwLWhSurQB,239373,4,D,Major,DMajor
+316,19,Shakira,2002,"Whenever, Wherever",colombian pop,dance pop,latin,0.793,0.831,1,-4.861,0,0.0405,0.264,7.03e-06,0.207,0.865,107.645,0RJWhctsc1G1Hg3Ov2th7x,197027,4,C#,minor,C#minor
+317,20,Sheryl Crow,2002,Soak Up The Sun,lilith,mellow gold,new wave pop,0.711,0.715,4,-5.774,1,0.0426,0.0478,0.0,0.143,0.761,120.002,7F1BUnd7mjogQZHZ2FcME1,291413,4,E,Major,EMajor
+318,21,P!nk,2002,Don't Let Me Get Me - Radio Edit,dance pop,pop,,0.595,0.884,8,-3.792,1,0.0937,0.00137,0.0,0.0748,0.549,98.476,0aWVhnjyPm8xxBqNBCsHHw,211480,4,G#,Major,G#Major
+319,22,Kelly Clarkson,2002,A Moment Like This,dance pop,neo mellow,pop,0.414,0.574,8,-3.884,1,0.0304,0.167,0.0,0.115,0.155,71.796,6Far9mixuLOSu0Y5ectjfA,228267,4,G#,Major,G#Major
+320,23,Ashanti,2002,Happy,dance pop,hip hop,hip pop,0.727,0.515,2,-6.553,0,0.0289,0.24,3.65e-06,0.13,0.696,89.488,2Nu0P68oruhup6YcAi8On3,262227,4,D,minor,Dminor
+321,24,John Mayer,2002,No Such Thing - Demo Version,neo mellow,singer-songwriter,,0.642,0.411,9,-9.484,1,0.0283,0.785,0.00384,0.103,0.494,129.146,3ttEQBpVcb0Im3RovYPl3K,229467,4,A,Major,AMajor
+322,25,P!nk,2002,Just Like a Pill,dance pop,pop,,0.67,0.813,9,-3.509,1,0.0276,7.81e-05,0.0,0.0774,0.24,102.051,7uz2Rk1sow6wLj3PCXfDeb,237480,4,A,Major,AMajor
+323,26,Kylie Minogue,2002,Can't Get You out of My Head,australian dance,australian pop,dance pop,0.766,0.563,9,-7.516,0,0.0339,0.0263,0.683,0.115,0.964,126.007,7MoKXLQeI0Bh2QodCjDO4K,230640,4,A,minor,Aminor
+324,27,Five For Fighting,2002,Superman (It's Not Easy),acoustic pop,neo mellow,piano rock,0.518,0.474,0,-8.34,1,0.0287,0.322,0.0,0.1,0.164,106.512,5RbjZdW8vLZQJpRAZwNIdX,221173,4,C,Major,CMajor
+325,28,Eminem,2002,Cleanin' Out My Closet,detroit hip hop,hip hop,rap,0.905,0.767,9,-4.798,0,0.189,0.0772,0.0,0.12,0.871,147.983,7wFmQutRb7XUDo2mlftXa2,298960,4,A,minor,Aminor
+326,29,Smooth Jazz All Stars,2002,Halfcrazy,,,,0.771,0.302,2,-14.589,1,0.0323,0.822,0.856,0.114,0.26,102.014,6BnLVX9hRn1ToxyQ2RwGXv,234933,3,D,Major,DMajor
+327,30,Mr. Cheeks,2002,"Lights, Camera, Action!",hip pop,,,0.802,0.959,1,-6.062,1,0.111,0.122,0.0,0.321,0.843,105.506,0MVMYjIk1N3nO8omHZRaOd,264640,4,C#,Major,C#Major
+328,31,Big Tymers,2002,Still Fly,crunk,dirty south rap,gangster rap,0.675,0.607,11,-3.538,1,0.161,0.0302,8.67e-06,0.339,0.56,177.928,3R9qiUjvIuLYm1KWzh6E0L,335613,4,B,Major,BMajor
+329,32,Alicia Keys,2002,A Woman's Worth,hip pop,neo soul,pop,0.652,0.41,4,-8.323,0,0.158,0.333,0.0,0.064,0.495,75.09,1NRorokmYEtr1koWybvaE4,303333,4,E,minor,Eminor
+330,33,Craig David,2002,7 Days,british soul,dance pop,pop rap,0.622,0.823,4,-7.545,0,0.0512,0.216,0.0,0.0966,0.862,166.019,6dN429DyfNQkDQJwBUFWrJ,235213,4,E,minor,Eminor
+331,34,Missy Elliott,2002,Work It,dance pop,hip hop,hip pop,0.884,0.677,1,-5.603,1,0.283,0.0778,0.0,0.0732,0.584,101.868,3jagJCUbdqhDSPuxP8cAqF,263227,4,C#,Major,C#Major
+332,35,Enrique Iglesias,2002,Escape,dance pop,latin,latin pop,0.777,0.855,11,-5.323,1,0.0294,0.0212,0.000619,0.0949,0.896,125.975,0Y33wASIhTQpT54DIs5sF9,207720,4,B,Major,BMajor
+333,36,Aaliyah,2002,More Than a Woman,contemporary r&b,dance pop,hip pop,0.644,0.637,1,-5.927,0,0.0914,0.0755,0.000587,0.32,0.79,86.99,1v3pDQtNGDVTwFQ75IVKC2,232464,4,C#,minor,C#minor
+334,37,No Doubt,2002,Hella Good,alternative rock,dance pop,dance rock,0.777,0.673,8,-3.953,1,0.0351,0.0162,0.00892,0.0869,0.821,115.133,64NrL8pIXLdpFyHQ92DX5l,242253,4,G#,Major,G#Major
+335,38,Faith Evans,2002,I Love You,contemporary r&b,hip hop,hip pop,0.489,0.757,11,-4.062,0,0.0926,0.00981,0.0,0.234,0.567,168.004,6gsmFgUiSTuinJlScwFODv,267160,4,B,minor,Bminor
+336,39,Daniel Bedingfield,2002,Gotta Get Thru This - D'N'D Radio Edit,dance pop,europop,,0.831,0.708,7,-7.265,0,0.0651,0.0769,5.3e-05,0.0864,0.919,133.585,267sk93o3IxlZzYnfTfKuZ,162400,4,G,minor,Gminor
+337,40,Eminem,2002,Lose Yourself - Soundtrack Version,detroit hip hop,hip hop,rap,0.69,0.747,2,-4.583,1,0.264,0.0094,0.000709,0.355,0.0701,171.367,0j5X6DrzkgY64Mm8NQp5mi,326640,4,D,Major,DMajor
+338,41,Michael Jackson,2002,Butterflies,pop,r&b,soul,0.708,0.655,8,-2.69,1,0.0883,0.0583,2.1e-06,0.11,0.545,89.99,5ADSOampCIetIqVvg4sawk,279160,4,G#,Major,G#Major
+339,42,Brandy,2002,What About Us?,contemporary r&b,dance pop,hip hop,0.686,0.698,5,-2.942,0,0.223,0.263,0.0,0.39,0.748,93.118,5L10F9RikmCvAVOsNmFslE,253200,4,F,minor,Fminor
+340,43,Shakira,2002,Underneath Your Clothes,colombian pop,dance pop,latin,0.624,0.592,8,-5.279,1,0.036,0.653,0.0,0.106,0.398,165.54,6biR1gMwcN71SDt3Eh4eEu,224427,4,G#,Major,G#Major
+341,44,Ginuwine,2002,Differences,contemporary r&b,dance pop,gangster rap,0.561,0.542,6,-6.132,1,0.0605,0.347,0.0,0.274,0.408,62.802,4qZ73jhiSZIfH9QfAZWIwo,265787,4,F#,Major,F#Major
+342,45,LL COOL J,2002,Luv U Better,east coast hip hop,golden age hip hop,hardcore hip hop,0.635,0.747,6,-6.446,1,0.276,0.264,0.0,0.133,0.749,95.231,4Wy0raF0R98yNz18GR9ho0,280227,4,F#,Major,F#Major
+343,46,Sean Paul,2002,Gimme the Light,dance pop,dancehall,pop,0.779,0.747,2,-6.494,1,0.0445,0.0276,0.0,0.0831,0.898,107.206,7FnfygSSspSVpitq0ZctYQ,226027,4,D,Major,DMajor
+344,47,*NSYNC,2002,Gone,boy band,dance pop,post-teen pop,0.686,0.406,11,-7.942,0,0.0573,0.401,0.0,0.243,0.516,113.916,1C0wnugsGFwt2RRkitpUmK,291480,4,B,minor,Bminor
+345,48,Ludacris,2002,Rollout (My Business),atl hip hop,dance pop,dirty south rap,0.921,0.668,7,-8.73,1,0.235,0.094,0.0,0.592,0.892,131.059,5xkaSuEOfZvHIEI6uwtS1T,296587,4,G,Major,GMajor
+346,49,The Goo Goo Dolls,2002,Here Is Gone,neo mellow,permanent wave,pop rock,0.351,0.74,1,-3.432,1,0.0318,0.000502,0.00144,0.107,0.218,102.124,7p1PhtGLjq0ISncRXBHqXY,238333,4,C#,Major,C#Major
+347,50,Mary J. Blige,2002,Family Affair,dance pop,hip pop,neo soul,0.914,0.551,8,-3.879,0,0.0455,0.133,2.61e-05,0.0841,0.967,92.889,5q4I6I0ytvTKuYe1Fquxnx,265867,4,G#,minor,G#minor
+348,51,Dirty Vegas,2002,Days Go By - Radio Edit,big beat,,,0.763,0.645,0,-10.608,1,0.0455,0.118,0.00283,0.306,0.593,126.967,3U6kC4Ko4VT1ZvEKjEZsC1,222800,4,C,Major,CMajor
+349,52,Ashanti,2002,Baby,dance pop,hip hop,hip pop,0.567,0.58,4,-5.759,0,0.221,0.00832,5.37e-06,0.0342,0.459,157.597,3iJRy19QMmYIr3mtGY7Hml,265707,4,E,minor,Eminor
+350,53,Kenny Chesney,2002,The Good Stuff,contemporary country,country,country road,0.586,0.675,7,-7.819,1,0.0776,0.26,0.0,0.144,0.473,143.92,1EKiQ1InQXuodp4M1idrng,199587,4,G,Major,GMajor
+351,54,Steve Holy,2002,Good Morning Beautiful,contemporary country,country,country road,0.565,0.5,7,-8.822,1,0.031,0.452,0.0,0.137,0.242,70.984,6XHSxHlbphfjn0Xjrv3E0l,210933,4,G,Major,GMajor
+352,55,Aaliyah,2002,Rock the Boat,contemporary r&b,dance pop,hip pop,0.644,0.723,5,-5.393,0,0.0327,0.0731,0.00404,0.0803,0.456,92.999,6qKfN4X9ShGopT3EbaiNnz,277499,4,F,minor,Fminor
+353,56,Alan Jackson,2002,Drive (For Daddy Gene),contemporary country,country,country road,0.709,0.626,11,-6.78,1,0.0432,0.312,0.0,0.154,0.451,125.166,32qiMwmCESGPYtjfnIkIqC,242827,4,B,Major,BMajor
+354,57,Jewel,2002,Standing Still,alaska indie,lilith,permanent wave,0.618,0.647,2,-7.308,1,0.0344,0.115,6.12e-06,0.113,0.315,123.889,1V1Zit6cgKzpewBwMjm3zB,271733,4,D,Major,DMajor
+355,58,Brandy,2002,Full Moon,contemporary r&b,dance pop,hip hop,0.611,0.654,10,-4.823,0,0.139,0.372,0.00432,0.0926,0.609,105.922,6QxuZMdsElzjC1NnXUfl8c,248933,4,A#,minor,A#minor
+356,59,B2K,2002,Uh Huh,boy band,contemporary r&b,dance pop,0.854,0.663,2,-5.198,1,0.0676,0.0935,3.66e-06,0.0606,0.9,99.712,4bJ02dcoGEkcSJOhNbx0tp,223800,4,D,Major,DMajor
+357,60,Céline Dion,2002,A New Day Has Come - Radio Remix,canadian pop,dance pop,,0.458,0.645,6,-6.892,1,0.0632,0.0794,1.58e-05,0.155,0.193,183.924,6JjYbaUFBYW7bXfMYXQeUo,260147,4,F#,Major,F#Major
+358,61,Nelly Furtado,2002,Turn Off The Light,canadian latin,canadian pop,dance pop,0.585,0.672,2,-6.211,1,0.105,0.0842,0.00044,0.459,0.666,180.176,4pUqtEXcZiQxpP5FPciLmb,276107,4,D,Major,DMajor
+359,62,George Strait,2002,Living And Living Well,contemporary country,country,country road,0.605,0.675,1,-6.806,1,0.0308,0.403,0.00137,0.112,0.523,120.815,2221t83il80TwtMqcBEddH,218293,4,C#,Major,C#Major
+360,63,Toby Keith,2002,My List,contemporary country,country,country road,0.629,0.737,1,-4.309,0,0.0323,0.332,0.0,0.147,0.341,87.068,6mMbySRoIhJ5rsYSWSO2AS,199813,4,C#,minor,C#minor
+361,64,Alanis Morissette,2002,Hands Clean,canadian pop,canadian singer-songwriter,pop rock,0.506,0.806,7,-4.775,1,0.0293,0.00187,1.76e-06,0.52,0.49,100.115,150QiRJd7uPtylrfFHGyCO,272467,4,G,Major,GMajor
+362,65,Avril Lavigne,2002,Sk8er Boi,canadian pop,candy pop,dance pop,0.487,0.9,0,-4.417,1,0.0482,6.79e-05,0.0,0.358,0.484,149.937,3vgKD50C8hWlQq8HX0Jf8k,204000,4,C,Major,CMajor
+363,66,The Chicks,2002,Long Time Gone,contemporary country,country,country dawn,0.549,0.668,2,-7.004,1,0.0322,0.133,3.68e-06,0.148,0.766,169.791,5E9oKP5jttS24a9QXwCHCs,248160,4,D,Major,DMajor
+364,67,Alan Jackson,2002,Where Were You (When the World Stopped Turning),contemporary country,country,country road,0.623,0.387,0,-9.537,1,0.0316,0.549,0.0,0.0764,0.189,115.362,3eSwvMfSA0Fyku6Ak5JEw0,305093,4,C,Major,CMajor
+365,68,Toya,2002,I Do!!,hip pop,,,0.782,0.694,6,-5.196,0,0.055,0.0712,0.00223,0.0764,0.927,156.087,610sx23crS0FOQISsn2e49,210533,4,F#,minor,F#minor
+366,69,Fat Joe,2002,What's Luv? (feat. Ja-Rule & Ashanti),bronx hip hop,east coast hip hop,gangster rap,0.835,0.707,8,-5.074,1,0.0598,0.0219,2.19e-05,0.108,0.919,93.955,2mKouqwAIdQnMP43zxR89r,267093,4,G#,Major,G#Major
+367,70,Ja Rule,2002,Always On Time,dance pop,east coast hip hop,gangster rap,0.852,0.753,5,-5.7,0,0.167,0.188,0.0,0.556,0.888,96.585,0oWmL6PMYbPDa10yWQ6zbA,243347,4,F,minor,Fminor
+368,71,Diddy,2002,I Need a Girl (Pt. 1) [feat. Usher & Loon],dance pop,east coast hip hop,hip hop,0.66,0.707,6,-5.758,1,0.208,0.397,0.0,0.211,0.761,89.279,7lVNTXkI3cHFvcXiI8damb,268800,4,F#,Major,F#Major
+369,72,Diddy,2002,"I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans]",dance pop,east coast hip hop,hip hop,0.713,0.471,1,-7.392,0,0.483,0.421,0.0,0.0308,0.779,199.764,6Wt5QBzHp9vdSLAFlvdnDQ,285587,4,C#,minor,C#minor
+370,73,Eve,2002,Gangsta Lovin',dance pop,gangster rap,hip hop,0.723,0.84,1,-3.523,0,0.0608,0.0619,0.0,0.0945,0.827,94.332,0WgLpgUdThEpA5L5K0SKq7,239267,4,C#,minor,C#minor
+371,74,Cam’ron,2002,Oh Boy,battle rap,east coast hip hop,gangster rap,0.754,0.767,6,-5.586,1,0.145,0.0216,0.0,0.172,0.828,83.014,4gdQ8QShlC3toP9Mkc8DwB,204707,4,F#,Major,F#Major
+372,75,No Doubt,2002,Hey Baby,alternative rock,dance pop,dance rock,0.597,0.86,11,-3.959,0,0.205,0.0588,0.0,0.266,0.759,187.338,0ySdXfvOy7zCc59yz2Dx8q,206760,4,B,minor,Bminor
+373,76,*NSYNC,2002,Girlfriend,boy band,dance pop,post-teen pop,0.748,0.809,0,-5.213,0,0.0904,0.0857,1.48e-05,0.0282,0.868,93.963,6u5flhVFxKZrl9AApvf2SL,253600,4,C,minor,Cminor
+374,77,N.O.R.E.,2002,Nothin',hardcore hip hop,hip hop,hip pop,0.791,0.863,3,-6.118,0,0.151,0.317,1.13e-06,0.27,0.742,97.035,5ZKVNTG7yu7gbX4vryqS2X,264653,4,D#,minor,D#minor
+375,78,Tweet,2002,Oops (Oh My) [feat. Missy Elliott],contemporary r&b,hip hop,hip pop,0.66,0.536,10,-8.786,0,0.29,0.233,0.00669,0.111,0.775,159.963,5Y0E3dOeynKuLDAXu0t0Bg,237800,4,A#,minor,A#minor
+376,79,Truth Hurts,2002,Addictive,contemporary r&b,hip pop,r&b,0.701,0.677,11,-6.591,0,0.147,0.0737,0.000162,0.187,0.367,99.271,36jSIOSE72neBbKntCthqw,226440,4,B,minor,Bminor
+377,80,Disturbing Tha Peace,2002,Move Bitch,atl hip hop,dirty south rap,pop rap,0.777,0.764,1,-5.681,1,0.141,0.243,0.0,0.103,0.174,177.868,1Q9b6CeMcDuO0uq5OJCrqu,270867,4,C#,Major,C#Major
+378,81,Mary J. Blige,2002,Rainy Dayz,dance pop,hip pop,neo soul,0.476,0.663,6,-6.905,1,0.191,0.182,0.0,0.321,0.525,74.884,1F1XjwRzMh8KT2BvH6ISkG,276360,4,F#,Major,F#Major
+379,82,Angie Martinez,2002,If I Could Go!,hip pop,,,0.654,0.747,9,-5.115,0,0.315,0.136,0.0,0.0778,0.632,195.678,0IvsLOZL3rhP57RXcXHzcD,224733,4,A,minor,Aminor
+380,83,No Doubt,2002,Underneath It All,alternative rock,dance pop,dance rock,0.73,0.738,4,-4.583,1,0.0736,0.222,0.0,0.391,0.867,138.208,6wFemJ1Oh4gnTalNKgtvBg,302040,4,E,Major,EMajor
+381,84,City High,2002,Caramel,hip pop,,,0.801,0.66,5,-8.267,0,0.286,0.175,9.5e-06,0.0748,0.295,93.036,5dXmPzPDTMWmxmpzxAV1JZ,212293,4,F,minor,Fminor
+382,85,Ja Rule,2002,Livin' It Up,dance pop,east coast hip hop,gangster rap,0.879,0.759,1,-4.075,1,0.298,0.0562,0.0,0.0338,0.661,106.032,1kEruIJPLnM1agV8bnCmSZ,257533,4,C#,Major,C#Major
+383,86,Fat Joe,2002,We Thuggin' (feat. R. Kelly),bronx hip hop,east coast hip hop,gangster rap,0.896,0.649,8,-3.792,1,0.208,0.177,0.0,0.0759,0.822,99.107,2EcW94ak7kYH4mDMvI7iWg,213533,4,G#,Major,G#Major
+384,87,Justin Timberlake,2002,Like I Love You,dance pop,pop,,0.853,0.811,6,-4.927,0,0.0646,0.0439,0.000307,0.0703,0.9,114.964,6W2Ef5Ph6ILTUAedoQ3QIv,283627,4,F#,minor,F#minor
+385,88,Nelly,2002,Dilemma,dance pop,gangster rap,hip hop,0.727,0.552,2,-8.074,0,0.14,0.227,0.000164,0.198,0.607,168.189,0ARK753YaiJbpLUk7z5yIM,289160,4,D,minor,Dminor
+386,89,Chad Kroeger,2002,Hero (feat. Josey Scott),alternative metal,,,0.427,0.843,4,-4.54,1,0.0364,0.00216,0.0,0.179,0.304,147.387,779ooI3rBd0CLqCiiJmtVo,200480,3,E,Major,EMajor
+387,90,Mario Vazquez,2002,Just A Friend,urban contemporary,,,0.718,0.499,9,-8.188,0,0.042,0.123,0.0,0.0586,0.151,117.955,1xhgmhUBlwn4PbRzc3uyDO,266680,4,A,minor,Aminor
+388,0,Gotye,2012,Somebody That I Used To Know,australian pop,,,0.865,0.521,0,-6.932,1,0.0371,0.548,0.000115,0.0989,0.748,129.059,1qDrWA6lyx8cLECdZE7TV7,244885,4,C,Major,CMajor
+389,1,Carly Rae Jepsen,2012,Call Me Maybe,canadian pop,dance pop,electropop,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,20I6sIOMTCkB6w7ryavxtO,193400,4,G,Major,GMajor
+390,2,fun.,2012,We Are Young (feat. Janelle Monáe),baroque pop,metropopolis,modern rock,0.378,0.638,10,-5.576,1,0.075,0.02,7.66e-05,0.0849,0.735,184.086,5rgy6ghBq1eRApCkeUdJXf,250627,4,A#,Major,A#Major
+391,3,Maroon 5,2012,Payphone,pop,,,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,1XGmzt0PVuFgQYYnV2It7A,231173,4,E,Major,EMajor
+392,4,Ellie Goulding,2012,Lights - Single Version,dance pop,edm,electropop,0.68,0.799,8,-5.805,0,0.0347,0.0323,0.0459,0.123,0.744,120.031,2QwG0flKv1wq9fyvfsMD9C,210634,4,G#,minor,G#minor
+393,5,The Wanted,2012,Glad You Came,boy band,dance pop,pop,0.562,0.857,7,-3.926,0,0.0801,0.0383,0.0,0.11,0.539,126.883,6nHqns54LRqDNjeqKDF3v8,197936,4,G,minor,Gminor
+394,6,Kelly Clarkson,2012,Stronger (What Doesn't Kill You),dance pop,neo mellow,pop,0.562,0.939,0,-4.282,1,0.0475,0.046,0.0,0.112,0.684,116.044,1nInOsHbtotAmEOQhtvnzP,221947,4,C,Major,CMajor
+395,7,Rihanna,2012,We Found Love,barbadian pop,dance pop,pop,0.734,0.766,1,-4.485,1,0.0383,0.025,0.00138,0.108,0.6,127.986,5uImkHXfTLkNYwemtGH7kB,215227,4,C#,Major,C#Major
+396,8,Nicki Minaj,2012,Starships,dance pop,hip pop,pop,0.747,0.716,11,-2.457,0,0.075,0.135,0.0,0.251,0.751,125.008,2EBCVPNAG46nbgs6jXPGvv,210627,4,B,minor,Bminor
+397,9,One Direction,2012,What Makes You Beautiful,boy band,pop,post-teen pop,0.726,0.787,4,-2.494,1,0.0737,0.009,0.0,0.0596,0.888,124.99,4cluDES4hQEUhmXj6TXkSo,199987,4,E,Major,EMajor
+398,10,Flo Rida,2012,Wild Ones (feat. Sia),dance pop,miami hip hop,pop,0.608,0.86,5,-5.324,0,0.0554,0.0991,0.0,0.262,0.437,127.075,1NpW5kyvO4XrNJ3rnfcNy3,232947,4,F,minor,Fminor
+399,11,Adele,2012,Set Fire to the Rain,british soul,pop,pop soul,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.66e-06,0.112,0.445,107.995,5PKWUDfQFtc5qqo8cs1gQp,242974,4,D,minor,Dminor
+400,12,LMFAO,2012,Sexy And I Know It,dance pop,pop,pop rap,0.707,0.861,7,-4.225,1,0.316,0.1,0.0,0.191,0.795,130.021,70Vdd1gx5tn84jkAU31ASv,199480,4,G,Major,GMajor
+401,13,fun.,2012,Some Nights,baroque pop,metropopolis,modern rock,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938,67WTwafOMgegV6ABnBQxcE,277040,4,C,Major,CMajor
+402,14,Katy Perry,2012,Wide Awake,dance pop,pop,post-teen pop,0.514,0.683,5,-5.099,1,0.0367,0.0749,2.64e-06,0.392,0.575,159.814,5JLv62qFIS1DR3zGEcApRt,220947,4,F,Major,FMajor
+403,15,Flo Rida,2012,Good Feeling,dance pop,miami hip hop,pop,0.706,0.89,1,-4.444,0,0.0688,0.0588,0.00286,0.306,0.684,128.011,2LEF1A8DOZ9wRYikWgVlZ8,248133,4,C#,minor,C#minor
+404,16,Flo Rida,2012,Whistle,dance pop,miami hip hop,pop,0.747,0.937,0,-5.746,1,0.0453,0.0208,0.0,0.29,0.739,103.976,3bC1ahPIYt1btJzSSEyyrF,224653,4,C,Major,CMajor
+405,17,Maroon 5,2012,One More Night,pop,,,0.716,0.821,5,-3.435,0,0.0314,0.0558,0.0,0.0844,0.618,92.997,6cpk00i5TxCqSeqNi2HuIe,219547,4,F,minor,Fminor
+406,18,Train,2012,Drive By,dance pop,neo mellow,pop,0.765,0.837,1,-3.113,0,0.032,0.00107,1.06e-05,0.0801,0.721,122.028,7zWj09xkFgA9tcV6YhfU6q,195973,4,C#,minor,C#minor
+407,19,Rihanna,2012,Where Have You Been,barbadian pop,dance pop,pop,0.719,0.847,0,-6.34,0,0.0916,0.00201,0.0204,0.223,0.444,127.963,1tjY4H0X706ZH03SXa1DFh,242680,4,C,minor,Cminor
+408,20,Neon Trees,2012,Everybody Talks,modern alternative rock,modern rock,pop rock,0.471,0.924,8,-3.906,1,0.0586,0.00301,0.0,0.313,0.725,154.961,2iUmqdfGZcHIhS3b9E9EWq,177280,4,G#,Major,G#Major
+409,21,Drake,2012,Take Care,canadian hip hop,canadian pop,hip hop,0.629,0.515,0,-10.358,0,0.265,0.0267,1.22e-05,0.0888,0.299,121.845,124NFj84ppZ5pAxTuVQYCQ,277387,4,C,minor,Cminor
+410,22,David Guetta,2012,Titanium (feat. Sia),big room,dance pop,edm,0.604,0.787,0,-3.674,0,0.103,0.0679,0.15,0.127,0.301,126.062,0TDLuuLlV54CkRRUOahJb4,245040,4,C,minor,Cminor
+411,23,Jason Mraz,2012,I Won't Give Up,acoustic pop,neo mellow,pop,0.483,0.303,4,-10.058,1,0.0429,0.694,0.0,0.115,0.139,133.406,5ivF4eQBqJiVL5IAE9jRyl,240166,3,E,Major,EMajor
+412,24,Bruno Mars,2012,It Will Rain,dance pop,pop,,0.576,0.835,2,-6.826,1,0.0486,0.337,0.0,0.082,0.476,150.017,0M3HkE321xpCbCYqVKzr1q,257720,4,D,Major,DMajor
+413,25,Justin Bieber,2012,Boyfriend,canadian pop,pop,,0.719,0.535,10,-6.069,0,0.0641,0.0314,0.0017,0.141,0.276,96.982,07dYGGSrzPeg6a3KZjWX65,171333,4,A#,minor,A#minor
+414,26,LMFAO,2012,Party Rock Anthem,dance pop,pop,pop rap,0.751,0.736,5,-4.168,0,0.156,0.0206,0.0,0.265,0.352,130.014,7mitXLIMCflkhZiD34uEQI,262147,4,F,minor,Fminor
+415,27,Alex Clare,2012,Too Close,modern alternative rock,,,0.588,0.694,11,-4.278,0,0.0387,0.00948,0.0,0.113,0.271,126.027,4VySpxhRGy32u5zPCprzDn,256613,4,B,minor,Bminor
+416,28,Katy Perry,2012,Part Of Me,dance pop,pop,post-teen pop,0.678,0.918,5,-4.63,1,0.0355,0.000417,0.0,0.0744,0.769,130.028,1nZzRJbFvCEct3uzu04ZoL,216160,4,F,Major,FMajor
+417,29,Snoop Dogg,2012,"Young, Wild & Free (feat. Bruno Mars)",g funk,gangster rap,hip hop,0.715,0.655,0,-6.425,1,0.137,0.0525,0.0,0.115,0.531,95.078,5HQVUIKwCEXpe7JIHyY734,207333,4,C,Major,CMajor
+418,30,Justin Bieber,2012,As Long As You Love Me,canadian pop,pop,,0.579,0.871,0,-3.385,0,0.109,0.0679,0.0,0.353,0.601,139.841,4rvtlpAeDuOn4baUJPCEhy,229467,4,C,minor,Cminor
+419,31,David Guetta,2012,Turn Me On (feat. Nicki Minaj),big room,dance pop,edm,0.704,0.793,8,-2.266,1,0.0591,0.0488,0.0,0.575,0.412,127.96,6T27IN7Ai94BeDv6PPCmoC,199680,4,G#,Major,G#Major
+420,32,Maroon 5,2012,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",pop,,,0.72,0.747,11,-4.472,0,0.0463,0.0131,0.0,0.331,0.621,128.014,33d10LAl3HwvH2IJCOxfgy,201560,4,B,minor,Bminor
+421,33,P!nk,2012,Blow Me (One Last Kiss),dance pop,pop,,0.597,0.919,7,-2.954,1,0.0439,0.000145,0.0,0.282,0.729,113.991,4k80K0b6KZ2QjAYkXON7q6,255587,4,G,Major,GMajor
+422,34,Owl City,2012,Good Time,indietronica,pop rock,,0.554,0.878,3,-4.271,1,0.134,0.0216,5.76e-06,0.362,0.682,126.045,5w6TVvv71F8px5cObg2xnx,205933,4,D#,Major,D#Major
+423,35,Demi Lovato,2012,Give Your Heart A Break,dance pop,pop,post-teen pop,0.651,0.688,6,-3.097,1,0.0475,0.251,0.0,0.136,0.583,123.009,3YC0Pq7V472TbM1zFzUcOh,205347,4,F#,Major,F#Major
+424,36,JAY-Z,2012,Ni**as In Paris,east coast hip hop,hip hop,rap,0.789,0.858,1,-5.542,1,0.311,0.127,0.0,0.349,0.775,140.022,4Li2WHPkuyCdtmokzW2007,219333,4,C#,Major,C#Major
+425,37,Katy Perry,2012,The One That Got Away,dance pop,pop,post-teen pop,0.687,0.792,1,-4.023,0,0.0353,0.000802,0.0,0.2,0.864,133.962,3oL3XRtkP1WVbMxf7dtTdu,227333,4,C#,minor,C#minor
+426,38,Calvin Harris,2012,Feel So Close - Radio Edit,dance pop,edm,electro house,0.707,0.924,7,-2.842,1,0.031,0.000972,0.00703,0.204,0.919,127.937,1gihuPhrLraKYrJMAEONyc,206413,4,G,Major,GMajor
+427,39,Adele,2012,Someone Like You,british soul,pop,pop soul,0.554,0.321,9,-8.251,1,0.028,0.893,0.0,0.0996,0.288,135.047,6QPKYGnAW9QozVz2dSWqRg,285240,4,A,Major,AMajor
+428,40,Usher,2012,Scream,atl hip hop,contemporary r&b,dance pop,0.616,0.862,7,-5.18,0,0.0973,0.00117,0.0,0.179,0.569,127.992,5sAlmL7Qp9N9BJTADkwEt9,234693,4,G,minor,Gminor
+429,41,Jessie J,2012,Domino,dance pop,pop,pop rap,0.758,0.557,7,-4.568,1,0.034,0.0117,0.0,0.0418,0.781,126.986,2fQxE0jVrjNMT9oJAXtSJR,231840,4,G,Major,GMajor
+430,42,Pitbull,2012,International Love (feat. Chris Brown),dance pop,latin,miami hip hop,0.67,0.855,0,-3.035,0,0.0499,0.0124,0.0,0.335,0.648,120.05,62zFEHfAYl5kdHYOivj4BC,227280,4,C,minor,Cminor
+431,43,Phillip Phillips,2012,Home,folk-pop,neo mellow,pop rock,0.607,0.818,0,-6.04,1,0.0298,0.0262,1.28e-05,0.136,0.382,121.03,0B4vVGxblizAtGWvaoVIiC,210173,4,C,Major,CMajor
+432,44,David Guetta,2012,Without You (feat. Usher),big room,dance pop,edm,0.608,0.614,2,-3.727,1,0.0285,0.227,4.06e-06,0.157,0.402,127.884,3UN6cIn3VIyg0z1LCuFSum,208133,4,D,Major,DMajor
+433,45,Gym Class Heroes,2012,Ass Back Home (feat. Neon Hitch),dance pop,pop rap,,0.716,0.838,10,-4.289,1,0.0513,0.134,0.0,0.148,0.646,130.034,3bfqkspKABT4pPicm6wC9F,222213,4,A#,Major,A#Major
+434,46,Cher Lloyd,2012,Want U Back,dance pop,electropop,pop,0.696,0.893,9,-2.963,1,0.076,0.0662,0.0,0.473,0.573,97.954,5InWRmnfgjVwQWoXHNBATu,214013,4,A,Major,AMajor
+435,47,Chris Brown,2012,Don't Wake Me Up,dance pop,pop,pop rap,0.602,0.691,7,-5.197,0,0.051,0.0548,0.0,0.144,0.206,127.967,3tXUKdqkv76ugWTrlDHs7g,222307,4,G,minor,Gminor
+436,48,Karmin,2012,Brokenhearted,dance pop,electropop,post-teen pop,0.765,0.765,1,-2.732,0,0.0585,0.00765,3.82e-06,0.0527,0.886,120.001,4urcG6Nfubqsuqy3juMjBi,227147,4,C#,minor,C#minor
+437,49,Gym Class Heroes,2012,Stereo Hearts (feat. Adam Levine),dance pop,pop rap,,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,0qOnSQQF0yzuPWsXrQ9paz,210960,4,A,Major,AMajor
+438,50,Pitbull,2012,"Back in Time - featured in ""Men In Black 3""",dance pop,latin,miami hip hop,0.731,0.915,0,-4.453,1,0.043,0.00191,1.16e-06,0.324,0.789,127.086,2U2ONBrf1HJCDxQlynpD6J,205680,4,C,Major,CMajor
+439,51,Adele,2012,Rumour Has It,british soul,pop,pop soul,0.612,0.748,0,-5.014,1,0.0445,0.617,0.0,0.167,0.574,120.052,50yHVBbU6M4iIfqBI1bxWx,223267,4,C,Major,CMajor
+440,52,Calvin Harris,2012,Let's Go (feat. Ne-Yo),dance pop,edm,electro house,0.71,0.882,4,-2.932,0,0.0595,0.00777,0.00771,0.294,0.875,128.016,4wkQmYpAaMe41Rc3sYZ7Vz,232800,4,E,minor,Eminor
+441,53,The Lumineers,2012,Ho Hey,folk-pop,stomp and holler,,0.685,0.474,0,-9.105,1,0.0313,0.779,1.23e-06,0.149,0.36,79.991,1jdNcAD8Ir58RlsdGjJJdx,161227,4,C,Major,CMajor
+442,54,Coldplay,2012,Paradise,permanent wave,pop,,0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,6nek1Nin9q48AVZcWs9e9D,278719,4,F,Major,FMajor
+443,55,Adele,2012,Rolling in the Deep,british soul,pop,pop soul,0.73,0.77,8,-5.114,1,0.0298,0.138,0.0,0.0473,0.507,104.948,1eq1wUnLVLg4pdEfx9kajC,228093,4,G#,Major,G#Major
+444,56,Ne-Yo,2012,Let Me Love You (Until You Learn To Love Yourself),dance pop,pop,r&b,0.658,0.677,5,-6.628,1,0.0393,0.248,0.0,0.368,0.248,124.91,4kte3OcW800TPvOVgrLLj8,251627,4,F,Major,FMajor
+445,57,Nicki Minaj,2012,Pound The Alarm,dance pop,hip pop,pop,0.736,0.848,1,-3.635,0,0.068,0.041,4.96e-06,0.0316,0.624,124.987,0jaFadjn9PwHr8ZcqhZmAH,205640,4,C#,minor,C#minor
+446,58,Rihanna,2012,Birthday Cake,barbadian pop,dance pop,pop,0.702,0.826,3,-6.498,1,0.0529,0.32,0.000227,0.355,0.329,80.014,77kF7rF7ikC5OcZHVXN76X,78200,4,D#,Major,D#Major
+447,59,B.o.B,2012,So Good,atl hip hop,dance pop,hip hop,0.66,0.9,7,-5.02,1,0.14,0.0403,0.0,0.219,0.591,85.51,28GUjBGqZVcAV4PHSYzkj2,213253,4,G,Major,GMajor
+448,60,Train,2012,50 Ways to Say Goodbye,dance pop,neo mellow,pop,0.591,0.935,6,-2.664,1,0.0478,0.000284,0.000278,0.142,0.736,140.043,0bQXIksOCU5MUqcddOan3K,247947,4,F#,Major,F#Major
+449,61,Selena Gomez & The Scene,2012,Love You Like A Love Song,dance pop,pop,post-teen pop,0.858,0.677,1,-3.842,0,0.0465,0.0752,0.0,0.0718,0.925,117.005,3veFQzlEOTpcGGIbYPKdYq,188067,4,C#,minor,C#minor
+450,62,Chris Brown,2012,Turn Up the Music,dance pop,pop,pop rap,0.594,0.841,1,-5.792,1,0.102,0.000238,2.22e-06,0.156,0.643,129.925,3hFPJunq7YhBLwmbRnXMfT,227973,4,C#,Major,C#Major
+451,63,Kesha,2012,Die Young,dance pop,electropop,pop,0.711,0.7,1,-4.805,0,0.046,0.00498,0.000125,0.215,0.801,128.001,6mnjcTmK8TewHfyOp3fC9C,211920,4,C#,minor,C#minor
+452,64,T-Pain,2012,5 O'Clock (feat. Lily Allen & Wiz Khalifa),dance pop,hip hop,pop,0.555,0.742,7,-5.495,0,0.22,0.0697,0.0,0.102,0.352,83.85,2Rea6PxenESVsJfEaGBGsD,281280,4,G,minor,Gminor
+453,65,Christina Perri,2012,A Thousand Years,dance pop,neo mellow,pop,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,6lanRgr6wXibZr8KgzXxBl,285120,3,A#,Major,A#Major
+454,66,Rihanna,2012,You Da One,barbadian pop,dance pop,pop,0.702,0.715,5,-5.377,0,0.0425,0.503,2.44e-05,0.126,0.863,127.05,5DBfBBTNQH20XbNqp2XZJE,200013,4,F,minor,Fminor
+455,67,Havana Brown,2012,We Run The Night,australian dance,australian pop,australian talent show,0.717,0.836,9,-4.646,0,0.0395,0.0804,0.000495,0.0856,0.612,126.998,1HNqRyGSw1uIRu6VNPqQwF,216218,4,A,minor,Aminor
+456,68,Imagine Dragons,2012,It's Time,modern rock,rock,,0.657,0.885,2,-4.695,1,0.0344,0.0168,0.0,0.147,0.869,105.011,3xqF04FdMK7gpIPG3SPFpY,237987,4,D,Major,DMajor
+457,69,Rihanna,2012,Diamonds,barbadian pop,dance pop,pop,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972,6O20JhBJPePEkBdrB5sqRx,225147,4,B,minor,Bminor
+458,70,Linkin Park,2012,BURN IT DOWN,alternative metal,nu metal,post-grunge,0.585,0.972,9,-4.45,0,0.0534,0.0143,0.0,0.0707,0.585,110.006,7oVEtyuv9NBmnytsCIsY5I,230253,4,A,minor,Aminor
+459,0,Beyoncé,2022,BREAK MY SOUL,dance pop,pop,r&b,0.687,0.887,1,-5.04,0,0.0826,0.0575,2.21e-06,0.27,0.853,114.941,2KukL7UlQ8TdvpaA7bY3ZJ,278282,4,C#,minor,C#minor
+460,1,Lizzo,2022,About Damn Time,dance pop,escape room,minnesota hip hop,0.836,0.743,10,-6.305,0,0.0656,0.0995,0.0,0.335,0.722,108.966,1PckUlxKqWQs3RlWXVBLw3,191822,4,A#,minor,A#minor
+461,2,Harry Styles,2022,As It Was,pop,,,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4LRPiXqCikLlN15c3yImP7,167303,4,F#,minor,F#minor
+462,3,Kate Bush,2022,Running Up That Hill (A Deal With God) - 2018 Remaster,art pop,art rock,baroque pop,0.625,0.533,10,-11.903,0,0.0596,0.659,0.00266,0.0546,0.139,108.296,29d0nY7TzCoi22XBqDQkiP,300840,4,A#,minor,A#minor
+463,4,Future,2022,WAIT FOR U (feat. Drake & Tems),atl hip hop,rap,southern hip hop,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,59nOXPmaKlBfGMDeOVGrIK,189893,4,C#,Major,C#Major
+464,5,Jack Harlow,2022,First Class,deep underground hip hop,kentucky hip hop,rap,0.905,0.563,8,-6.135,1,0.102,0.0254,9.71e-06,0.113,0.324,106.998,1rDQ4oMwGJI7B4tovsBOxc,173948,4,G#,Major,G#Major
+465,6,Steve Lacy,2022,Bad Habit,afrofuturism,,,0.686,0.507,1,-7.097,1,0.0357,0.626,7.51e-05,0.383,0.69,168.955,5CM4UuQ9Gnd6K2YyKGPMoK,232115,4,C#,Major,C#Major
+466,7,Bad Bunny,2022,Me Porto Bonito,latin,reggaeton,trap latino,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,6Sq7ltF9Qa7SNFBsV5Cogx,178567,4,C#,minor,C#minor
+467,8,Nicky Youre,2022,Sunroof,,,,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,4h4QlmocP3IuwYEj2j14p8,163026,4,A#,Major,A#Major
+468,9,Harry Styles,2022,Late Night Talking,pop,,,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,1qEmFfgcLObUfQm0j1W2CK,177955,4,A#,Major,A#Major
+469,10,Post Malone,2022,I Like You (A Happier Song) (with Doja Cat),dfw rap,melodic rap,rap,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,0O6u0VJ46W86TxN9wgyqDj,192841,4,F,Major,FMajor
+470,11,Glass Animals,2022,Heat Waves,gauze pop,indietronica,shiver pop,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3USxtqRwSYz57Ewm6wWRMp,238805,4,B,Major,BMajor
+471,12,Beyoncé,2022,CUFF IT,dance pop,pop,r&b,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,1xzi1Jcr7mEi9K2RfzLOqS,225389,4,G,Major,GMajor
+472,13,Luke Combs,2022,The Kind of Love We Make,contemporary country,country,,0.608,0.745,1,-4.13,1,0.0277,0.0226,6.47e-06,0.0942,0.464,102.025,48UKTR66uUOT9LaUvooTNx,224427,4,C#,Major,C#Major
+473,14,Morgan Wallen,2022,Wasted On You,contemporary country,,,0.505,0.657,11,-5.24,0,0.0318,0.373,0.00107,0.126,0.252,196.0,3cBsEDNhFI9E82vPj3kvi3,178520,3,B,minor,Bminor
+474,15,Bad Bunny,2022,Tití Me Preguntó,latin,reggaeton,trap latino,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,1IHWl5LamUGEuP4ozKQSXZ,243717,4,F,minor,Fminor
+475,16,The Kid LAROI,2022,STAY (with Justin Bieber),australian hip hop,,,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,5HCyWlXZPP0y6Gqq8TgA20,141806,4,C#,Major,C#Major
+476,17,Latto,2022,Big Energy,pop,trap queen,,0.935,0.807,11,-3.838,0,0.114,0.0514,0.0,0.349,0.813,106.017,6Zu3aw7FfjAF9WA0fA81Oq,173182,4,B,minor,Bminor
+477,18,Beyoncé,2022,ALIEN SUPERSTAR,dance pop,pop,r&b,0.545,0.641,10,-6.398,0,0.0998,0.00453,6.59e-05,0.171,0.464,121.892,1Hohk6AufHZOrrhMXZppax,215460,4,A#,minor,A#minor
+478,19,Drake,2022,Jimmy Cooks (feat. 21 Savage),canadian hip hop,canadian pop,hip hop,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3F5CgOj3wFlRv51JsHbxhe,218365,4,C,Major,CMajor
+479,20,Morgan Wallen,2022,You Proof,contemporary country,,,0.731,0.85,9,-4.913,1,0.0336,0.252,0.0,0.605,0.644,119.706,5uU1uuyaUIBOiiUSQG7Wl3,157478,4,A,Major,AMajor
+480,21,Beyoncé,2022,CHURCH GIRL,dance pop,pop,r&b,0.792,0.919,2,-5.688,1,0.276,0.0381,5.1e-06,0.368,0.22,92.028,2mqTtvbKxH7SoEQ2oGAnsA,224473,4,D,Major,DMajor
+481,22,OneRepublic,2022,I Ain't Worried,dance pop,piano rock,pop,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4h9wh7iOZ0GGn8QVp4RAOB,148486,4,C,Major,CMajor
+482,23,Em Beihold,2022,Numb Little Bug,alt z,gen z singer-songwriter,,0.742,0.527,8,-6.892,0,0.0769,0.327,0.0,0.25,0.638,84.974,3o9kpgkIcffx0iSwxhuNI2,169238,4,G#,minor,G#minor
+483,24,Cole Swindell,2022,She Had Me At Heads Carolina,contemporary country,country,country road,0.607,0.912,8,-3.449,1,0.0611,0.124,0.0,0.332,0.722,134.944,200x8ONbPfFzByUr3fVz46,206107,4,G#,Major,G#Major
+484,25,Beyoncé,2022,I'M THAT GIRL,dance pop,pop,r&b,0.554,0.535,5,-8.959,0,0.186,0.0616,1.32e-05,0.124,0.136,105.865,1MpCaOeUWhox2Fgigbe1cL,208014,4,F,minor,Fminor
+485,26,Beyoncé,2022,ENERGY (feat. Beam),dance pop,pop,r&b,0.903,0.519,1,-9.151,1,0.26,0.281,0.000106,0.155,0.587,114.991,0314PeD1sQNonfVWix3B2K,116727,4,C#,Major,C#Major
+486,27,Joji,2022,Glimpse of Us,viral pop,,,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,6xGruZOHLs39ZbVccQTuPZ,233456,3,G#,Major,G#Major
+487,28,Justin Bieber,2022,Ghost,canadian pop,pop,,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,6I3mqTwhRpn34SLVafSH7G,153190,4,D,Major,DMajor
+488,29,Beyoncé,2022,COZY,dance pop,pop,r&b,0.556,0.63,7,-8.15,1,0.102,0.000828,0.00468,0.155,0.367,149.147,0mKGwFMHzTprtS2vpR3b6s,210372,5,G,Major,GMajor
+489,30,Doja Cat,2022,Get Into It (Yuh),dance pop,pop,,0.912,0.655,8,-6.029,0,0.162,0.315,3.39e-05,0.0894,0.793,91.942,0W6I02J9xcqK8MtSeosEXb,138293,4,G#,minor,G#minor
+490,31,Bad Bunny,2022,Moscow Mule,latin,reggaeton,trap latino,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,6Xom58OOXk2SoU711L2IXO,245940,4,F,minor,Fminor
+491,32,Ed Sheeran,2022,Shivers,pop,uk pop,,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,75MNhvTCCKsST3YqqUiU9r,207853,4,D,Major,DMajor
+492,33,Kane Brown,2022,Like I Love Country Music,black americana,contemporary country,country,0.542,0.82,8,-6.073,1,0.0432,0.000682,0.000136,0.0561,0.702,124.85,3j1xkzTW8owIphkWV51V9s,234341,4,G#,Major,G#Major
+493,34,Doja Cat,2022,Vegas (From the Original Motion Picture Soundtrack ELVIS),dance pop,pop,,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,0hquQWY3xvYqN4qtiquniF,182907,4,G#,minor,G#minor
+494,35,Elton John,2022,Cold Heart - PNAU Remix,glam rock,mellow gold,piano rock,0.796,0.798,1,-6.312,1,0.0317,0.034,4.19e-05,0.0952,0.942,116.032,6zSpb8dQRaw0M1dK8PBwQz,202735,4,C#,Major,C#Major
+495,36,Lil Baby,2022,In A Minute,atl hip hop,atl trap,rap,0.643,0.605,4,-5.968,0,0.297,0.0336,0.0,0.112,0.145,84.216,3ihIZrJreMJPjQdNLrEXnP,200471,4,E,minor,Eminor
+496,37,Tyler Hubbard,2022,5 Foot 9,,,,0.602,0.796,5,-5.609,1,0.0465,0.146,0.0,0.125,0.53,106.005,6AqwH2Y9FJwhUE2dCSkw1u,189780,4,F,Major,FMajor
+497,38,Drake,2022,Sticky,canadian hip hop,canadian pop,hip hop,0.853,0.495,6,-14.63,1,0.14,0.0917,0.000217,0.0844,0.0774,137.027,4rmVZajAF7PkrCagGPHbqa,243228,4,F#,Major,F#Major
+498,39,Bailey Zimmerman,2022,Rock and A Hard Place,contemporary country,,,0.582,0.568,1,-7.3,1,0.0275,0.577,0.0,0.105,0.394,121.991,4686eQ81DEswHa90bcdlC9,207541,3,C#,Major,C#Major
+499,40,Beyoncé,2022,PLASTIC OFF THE SOFA,dance pop,pop,r&b,0.618,0.712,1,-8.246,1,0.114,0.14,4.53e-06,0.575,0.305,97.057,6ufcuVInt0ocHrUimDjGlb,254319,4,C#,Major,C#Major
+500,41,Bailey Zimmerman,2022,Fall In Love,contemporary country,,,0.524,0.643,9,-6.055,1,0.0297,0.451,0.0,0.221,0.397,135.962,5gVCfYmQRPy1QJifP8f5gg,232059,4,A,Major,AMajor
+501,42,Beyoncé,2022,VIRGO'S GROOVE,dance pop,pop,r&b,0.683,0.85,11,-5.042,0,0.0699,0.0781,1.09e-06,0.741,0.598,107.988,0Fl4eWzVaMUOdXcOrj6F1q,368758,4,B,minor,Bminor
+502,43,KAROL G,2022,PROVENZA,latin,reggaeton,reggaeton colombiano,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,7dSZ6zGTQx66c2GF91xCrb,210200,4,C#,Major,C#Major
+503,44,Zach Bryan,2022,Something in the Orange,oklahoma country,,,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3WMj8moIAXJhHsyLaqIIHI,228013,3,E,minor,Eminor
+504,45,Bad Bunny,2022,Efecto,latin,reggaeton,trap latino,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,5Eax0qFko2dh7Rl2lYs3bx,213061,4,G,minor,Gminor
+505,46,Beyoncé,2022,SUMMER RENAISSANCE,dance pop,pop,r&b,0.674,0.625,1,-9.593,1,0.0514,0.0843,0.0015,0.11,0.208,120.004,3HyR1j49TY5ACP2lseF1jx,273998,4,C#,Major,C#Major
+506,47,Kodak Black,2022,Super Gremlin,florida rap,hip hop,melodic rap,0.825,0.414,2,-6.634,1,0.144,0.00265,0.0,0.357,0.106,72.993,4A8cWXxKfIL3lAyUDzXbCF,200548,4,D,Major,DMajor
+507,48,Jon Pardi,2022,Last Night Lonely,contemporary country,country,country road,0.646,0.816,6,-2.65,1,0.0269,0.00496,0.0,0.179,0.865,102.972,3SeeaIXnrCfT88vHVCRWHl,181991,4,F#,Major,F#Major
+508,49,NAV,2022,Never Sleep (with Lil Baby feat. Travis Scott),canadian hip hop,canadian trap,hip hop,0.819,0.651,1,-5.829,1,0.169,0.00639,0.0,0.122,0.501,139.957,3GdWfmQBiiJrDUvSZS1bGv,185786,4,C#,Major,C#Major
+509,50,Beyoncé,2022,HEATED,dance pop,pop,r&b,0.785,0.732,1,-5.724,1,0.164,0.0636,0.000807,0.265,0.496,110.952,1w7cgGZR86yWz1pA2puVJD,260771,4,C#,Major,C#Major
+510,51,Scotty McCreery,2022,Damn Strait,contemporary country,country,country road,0.523,0.64,4,-6.15,1,0.0295,0.0512,5.52e-05,0.0675,0.48,144.022,4jp9FimhP2bQ93vR0A5r7b,230227,4,E,Major,EMajor
+511,52,Beyoncé,2022,THIQUE,dance pop,pop,r&b,0.823,0.536,5,-10.123,0,0.319,0.0616,0.0143,0.326,0.537,128.955,1LCm0lFnEsxR2oPqyHLGX9,244792,4,F,minor,Fminor
+512,53,Parmalee,2022,Take My Name,contemporary country,country,country road,0.559,0.66,7,-4.143,1,0.0512,0.222,0.0,0.193,0.574,163.957,2afB4eV1KWBqLqFqME6PTh,157907,4,G,Major,GMajor
+513,54,Beyoncé,2022,MOVE (feat. Grace Jones & Tems),dance pop,pop,r&b,0.876,0.628,1,-6.595,1,0.0935,0.0165,0.0339,0.0938,0.809,118.028,5YLGlPYkZBDXieMwzVve7g,203383,4,C#,Major,C#Major
+514,55,Cardi B,2022,Hot Shit (feat. Ye & Lil Durk),dance pop,pop,pop rap,0.878,0.685,9,-5.28,1,0.225,0.00152,0.0,0.0753,0.523,157.003,3uJFmluXzYedoJcvhpC1AW,211649,4,A,Major,AMajor
+515,56,Charlie Puth,2022,Left and Right (feat. Jung Kook of BTS) - Instrumental,dance pop,pop,viral pop,0.899,0.464,2,-8.003,1,0.0667,0.504,0.9,0.0753,0.654,101.014,3QRJgF8HY4zEuboEy4Q1gd,152117,4,D,Major,DMajor
+516,57,Jelly Roll,2022,Son Of A Sinner,country rap,nashville hip hop,tennessee hip hop,0.365,0.541,7,-7.489,1,0.0304,0.0419,2.25e-06,0.281,0.329,86.041,25VQoiuyc0HkC5FQTj1a8G,232093,4,G,Major,GMajor
+517,58,Bad Bunny,2022,Party,latin,reggaeton,trap latino,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,0.471,97.013,4tYFy8ALRjIZvnvSLw5lxN,227629,4,A,Major,AMajor
+518,59,SleazyWorld Go,2022,Sleazy Flow (with Lil Baby) - Remix,viral rap,,,0.869,0.298,2,-12.076,1,0.386,0.2,0.0,0.0753,0.178,77.47,5cx7vkF8BQ0iOsVpfvZbnz,161355,4,D,Major,DMajor
+519,60,Bad Bunny,2022,Ojitos Lindos,latin,reggaeton,trap latino,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,3k3NWokhRRkEPhCzPmV8TW,258299,4,D#,minor,D#minor
+520,61,Hitkidd,2022,F.N.F. (Let's Go),memphis hip hop,,,0.864,0.476,1,-10.068,1,0.436,0.0374,0.0,0.374,0.647,157.144,1vrFJDrysqmsNAgyjBzx4f,137580,4,C#,Major,C#Major
+521,62,Marshmello,2022,Numb,brostep,dance pop,edm,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,10xV5l9nhLvFpR8mqzs0bL,155589,4,C,minor,Cminor
+522,63,Beyoncé,2022,PURE/HONEY,dance pop,pop,r&b,0.857,0.558,1,-7.888,1,0.134,0.0122,4.8e-05,0.288,0.453,123.973,4DByEumlGTZKSzuVEZ35eo,288255,4,C#,Major,C#Major
+523,64,Yung Gravy,2022,Betty (Get Money),minnesota hip hop,,,0.723,0.772,1,-6.784,1,0.0792,0.00524,1.15e-05,0.367,0.58,102.004,4cacyP5c3PMlfnyjpg13xW,146471,4,C#,Major,C#Major
+524,65,Dylan Scott,2022,New Truck,contemporary country,country,country road,0.529,0.755,1,-5.864,1,0.125,0.222,0.0,0.0986,0.528,96.86,4MDYIbU6I29Gjiu7JATTIJ,174360,4,C#,Major,C#Major
+525,66,Bad Bunny,2022,Después de la Playa,latin,reggaeton,trap latino,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,0.607,78.293,1dm6z1fWB0cErMszU25dy2,230400,4,F,Major,FMajor
+526,67,Halsey,2022,So Good,dance pop,electropop,etherpop,0.576,0.627,3,-4.649,0,0.0449,0.0385,0.0,0.181,0.311,164.998,6kxaaIeowajN7w21PfMLbu,176059,4,D#,minor,D#minor
+527,68,Beyoncé,2022,AMERICA HAS A PROBLEM,dance pop,pop,r&b,0.789,0.614,1,-6.491,1,0.0579,0.00348,0.00152,0.283,0.108,126.035,2XMAWynSTIst5KmLSv0Npf,198898,4,C#,Major,C#Major
+528,69,Beyoncé,2022,ALL UP IN YOUR MIND,dance pop,pop,r&b,0.744,0.577,9,-7.228,1,0.0631,0.0672,3.06e-06,0.178,0.0805,135.869,3k4CoiIQXiNBrwrmbBMDxj,169820,4,A,Major,AMajor
+529,70,Ingrid Andress,2022,Wishful Drinking (with Sam Hunt),contemporary country,country pop,,0.678,0.528,10,-7.317,1,0.0551,0.289,0.0,0.0734,0.614,79.018,3HGnIIdHYIbkowzLk8UHbE,194545,4,A#,Major,A#Major
+530,71,Jason Aldean,2022,Trouble With A Heartbreak,contemporary country,country,country road,0.582,0.797,5,-4.926,1,0.0334,0.23,0.0,0.132,0.595,135.973,4lSNyiHil3tuiwtvEpN1qq,196027,4,F,Major,FMajor
+531,72,Post Malone,2022,Cooped Up (with Roddy Ricch),dfw rap,melodic rap,rap,0.669,0.773,0,-5.619,1,0.153,0.038,0.0,0.113,0.377,93.923,32vE1nuG8T9c8bhmZdRY6d,185857,4,C,Major,CMajor
+532,73,Bad Bunny,2022,Tarot,latin,reggaeton,trap latino,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,41oY4WCTj5kccfesTVFnvN,237895,4,B,minor,Bminor
+533,74,Burna Boy,2022,Last Last,afro dancehall,dancehall,nigerian hip hop,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,2PDgArI0p7UkeYgXWuqpmh,172342,4,D#,minor,D#minor
+534,75,Corey Kent,2022,Wild as Her,contemporary country,,,0.504,0.736,0,-6.079,1,0.0352,0.00216,0.0,0.129,0.46,148.014,4RG7P0CXQ4pe0OeCAHjX5L,199733,4,C,Major,CMajor
+535,76,Tems,2022,Free Mind,afro r&b,alte,nigerian pop,0.562,0.463,6,-7.478,1,0.0787,0.442,0.000145,0.157,0.416,125.15,2mzM4Y0Rnx2BDZqRnhQ5Q6,247579,5,F#,Major,F#Major
+536,77,Sia,2022,Unstoppable,australian dance,australian pop,pop,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,0.26,173.799,1yvMUkIOTeUNtNWlWRgANS,217747,4,A,Major,AMajor
+537,78,Future,2022,PUFFIN ON ZOOTIEZ,atl hip hop,rap,southern hip hop,0.883,0.657,8,-5.748,1,0.305,0.0603,0.0,0.128,0.284,124.992,1qMMYpVatbRITKCfq1gasi,172933,4,G#,Major,G#Major
+538,79,Mitchell Tenpenny,2022,Truth About You,contemporary country,heartland rock,,0.492,0.708,10,-4.639,1,0.0334,0.0975,0.0,0.12,0.697,161.989,4Qum1kECNQrpREev5fvAQ4,203037,4,A#,Major,A#Major
+539,80,Nate Smith,2022,Whiskey On You,contemporary country,,,0.479,0.768,8,-5.204,1,0.0312,7.02e-05,0.00549,0.121,0.576,110.024,6Tm4Io4ct4w14nB1EUzsY3,183790,4,G#,Major,G#Major
+540,81,Justin Moore,2022,With A Woman You Love,arkansas country,contemporary country,country,0.611,0.756,7,-4.483,1,0.0288,0.0587,0.0,0.378,0.596,106.012,20WKHeDTmtU0Zj4sNB8aoA,167376,4,G,Major,GMajor
+541,82,Jax,2022,Victoria’s Secret,gen z singer-songwriter,,,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,4svaKoxMMP7ImmKrD5hfQu,176125,4,F#,Major,F#Major
+542,83,Imagine Dragons,2022,Bones,modern rock,rock,,0.773,0.742,5,-3.678,0,0.046,0.0206,0.0,0.0754,0.571,114.071,0HqZX76SFLDz2aW8aiqi7G,165265,4,F,minor,Fminor
+543,84,Russell Dickerson,2022,She Likes It (feat. Jake Scott),contemporary country,country,country road,0.79,0.325,4,-11.689,1,0.127,0.509,0.0,0.155,0.539,126.877,6VVqPBFZIbcmv14zNfOc13,163311,4,E,Major,EMajor
+544,85,Chris Young,2022,At the End of a Bar,contemporary country,country,country road,0.494,0.782,3,-4.228,1,0.0409,0.0443,0.0,0.0921,0.44,75.932,2NYOqKy4VX6dqVtzrv1Cx9,186373,4,D#,Major,D#Major
+545,86,Quavo,2022,HOTEL LOBBY (Unc & Phew),atl hip hop,hip hop,melodic rap,0.821,0.636,11,-4.479,1,0.169,0.142,0.0,0.233,0.163,127.961,0QNNd0qMCDbraS1nQPg3aA,142657,4,B,Major,BMajor
+546,87,Gabby Barrett,2022,Pick Me Up,contemporary country,country pop,,0.472,0.701,2,-4.563,1,0.0369,0.0387,0.0,0.107,0.515,79.805,7xNYZeFtrB05pi9tc6lEeb,169440,4,D,Major,DMajor
+547,88,Nardo Wick,2022,Dah Dah DahDah,florida rap,rap,trap,0.66,0.373,11,-10.234,1,0.595,0.149,0.0,0.106,0.35,167.912,2TSfStvlAMLw89u3tali79,151776,4,B,Major,BMajor
+548,89,The Kid LAROI,2022,Thousand Miles,australian hip hop,,,0.376,0.657,7,-4.658,1,0.0768,0.0858,0.0,0.0884,0.203,80.565,1r8ZCjfrQxoy2wVaBUbpwg,164782,4,G,Major,GMajor
+549,90,Carrie Underwood,2022,Ghost Story,contemporary country,country,country dawn,0.479,0.742,7,-5.587,1,0.0539,0.0069,0.000834,0.278,0.454,142.909,2FGOg7uYBfnspkPOISXTFY,181400,3,G,Major,GMajor
+550,91,Sam Smith,2022,Love Me More,dance pop,pop,uk pop,0.791,0.439,10,-5.62,1,0.0645,0.302,1.85e-05,0.126,0.559,85.004,16MQETUgqXwY4lZcyRafU3,190659,4,A#,Major,A#Major
+551,92,Morgan Wallen,2022,Thought You Should Know,contemporary country,,,0.529,0.695,6,-6.174,1,0.0278,0.488,1.24e-05,0.142,0.514,139.993,6NHpyYvJyQsg2nXXzGYc2R,215572,4,F#,Major,F#Major
+552,93,Ed Sheeran,2022,2step (feat. Lil Baby),pop,uk pop,,0.693,0.643,4,-5.867,0,0.0828,0.138,0.0,0.108,0.477,95.055,2UN0lp72LAusrXi8LLVomt,163450,4,E,minor,Eminor
+553,94,Drake,2022,Massive,canadian hip hop,canadian pop,hip hop,0.499,0.671,4,-6.774,0,0.0561,0.114,0.0169,0.148,0.0557,124.994,28JBD8p18xNuOfyV7Cotdn,336924,3,E,minor,Eminor
+554,95,Stephen Sanchez,2022,Until I Found You,gen z singer-songwriter,,,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,0T5iIrXA4p5GsubkhuBIKV,177720,3,A#,Major,A#Major
+555,96,Bad Bunny,2022,Un Ratito,latin,reggaeton,trap latino,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,5CzixCxDkRXX9mScCmah8O,176936,4,C,minor,Cminor
+556,97,Jake Owen,2022,Best Thing Since Backroads,contemporary country,country,country road,0.512,0.841,7,-3.8,1,0.0309,0.0424,0.000257,0.113,0.33,156.077,0R1REdJZIDy7IS3DybdBce,187433,4,G,Major,GMajor
+557,98,Bad Bunny,2022,La Corriente,latin,reggaeton,trap latino,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,1797zYiX4cKosMH836X9Gt,198367,4,B,minor,Bminor
+558,99,Bizarrap,2022,"Quevedo: Bzrp Music Sessions, Vol. 52",argentine hip hop,pop venezolano,trap argentino,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,2tTmW7RDtMQtBk7m2rYeSw,198938,4,D,Major,DMajor

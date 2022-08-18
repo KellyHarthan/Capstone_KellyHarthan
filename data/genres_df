@@ -1,0 +1,91 @@
+,index,year,primary_genre,p_gen_count,pg_count,sub_genre_1,sg1_count,s1_count,sub_genre_2,sg2_count,s2_count
+0,0,1972,adult standards,17,26,brill building pop,11.0,35.0,classic rock,13.0,25.0
+1,1,1972,classic soul,17,26,art rock,9.0,35.0,funk,7.0,25.0
+2,2,1972,album rock,14,26,classic soul,8.0,35.0,soul,6.0,25.0
+3,3,1972,bubblegum pop,6,26,classic rock,7.0,35.0,bubblegum pop,5.0,25.0
+4,4,1972,funk,4,26,funk,6.0,35.0,folk,5.0,25.0
+5,5,1972,classic rock,4,26,disco,5.0,35.0,memphis soul,5.0,25.0
+6,6,1972,chicago soul,4,26,bubblegum pop,4.0,35.0,country rock,4.0,25.0
+7,7,1972,art rock,3,26,folk rock,3.0,35.0,disco,4.0,25.0
+8,8,1972,classic country pop,2,26,folk,2.0,35.0,mellow gold,3.0,25.0
+9,9,1972,pop,2,26,philly soul,2.0,35.0,blues rock,3.0,25.0
+10,10,1972,country rock,2,26,soft rock,2.0,35.0,folk rock,2.0,25.0
+11,11,1972,classic uk pop,2,26,quiet storm,2.0,35.0,quiet storm,2.0,25.0
+12,12,1972,brill building pop,2,26,country rock,2.0,35.0,rock,1.0,25.0
+13,13,1972,canadian singer-songwriter,1,26,r&b,2.0,35.0,psychedelic soul,1.0,25.0
+14,14,1972,british folk,1,26,nederpop,1.0,35.0,piano rock,1.0,25.0
+15,0,1982,album rock,45,17,classic rock,19.0,33.0,classic rock,16.0,23.0
+16,1,1982,adult standards,16,17,art rock,10.0,33.0,country rock,13.0,23.0
+17,2,1982,disco,8,17,funk,5.0,33.0,mellow gold,11.0,23.0
+18,3,1982,mellow gold,6,17,soft rock,5.0,33.0,girl group,4.0,23.0
+19,4,1982,classic country pop,4,17,disco,5.0,33.0,hard rock,4.0,23.0
+20,5,1982,new romantic,3,17,mellow gold,4.0,33.0,jazz funk,3.0,23.0
+21,6,1982,country,2,17,bubblegum pop,3.0,33.0,post-disco,3.0,23.0
+22,7,1982,funk,2,17,candy pop,3.0,33.0,new wave pop,3.0,23.0
+23,8,1982,glam punk,2,17,new wave pop,3.0,33.0,soft rock,3.0,23.0
+24,9,1982,glam rock,2,17,country dawn,2.0,33.0,disco,3.0,23.0
+25,10,1982,british invasion,1,17,heartland rock,2.0,33.0,funk,2.0,23.0
+26,11,1982,cyberpunk,1,17,new romantic,2.0,33.0,folk rock,2.0,23.0
+27,12,1982,dance pop,1,17,new wave,2.0,33.0,motown,2.0,23.0
+28,13,1982,art rock,1,17,album rock,2.0,33.0,new wave,2.0,23.0
+29,14,1982,europop,1,17,country,2.0,33.0,piano rock,2.0,23.0
+30,0,1992,contemporary r&b,15,34,contemporary r&b,11.0,34.0,new jack swing,8.0,31.0
+31,1,1992,album rock,11,34,mellow gold,6.0,34.0,hip house,6.0,31.0
+32,2,1992,dance pop,7,34,hard rock,5.0,34.0,rock,5.0,31.0
+33,3,1992,boy band,7,34,hip pop,5.0,34.0,hip hop,4.0,31.0
+34,4,1992,atl hip hop,5,34,dance pop,5.0,34.0,classic rock,4.0,31.0
+35,5,1992,canadian pop,4,34,hip hop,4.0,34.0,soft rock,4.0,31.0
+36,6,1992,gangster rap,4,34,pop,4.0,34.0,r&b,4.0,31.0
+37,7,1992,pop,3,34,new wave pop,4.0,34.0,new wave pop,4.0,31.0
+38,8,1992,christian music,3,34,art rock,3.0,34.0,neo soul,3.0,31.0
+39,9,1992,glam metal,3,34,r&b,3.0,34.0,classic canadian rock,3.0,31.0
+40,10,1992,alternative rock,3,34,diva house,3.0,34.0,hip pop,3.0,31.0
+41,11,1992,disco,3,34,permanent wave,3.0,34.0,soul,3.0,31.0
+42,12,1992,adult standards,3,34,canadian singer-songwriter,3.0,34.0,girl group,3.0,31.0
+43,13,1992,eurodance,2,34,europop,2.0,34.0,dance pop,3.0,31.0
+44,14,1992,irish rock,2,34,funk,2.0,34.0,pop rock,2.0,31.0
+45,0,2002,dance pop,23,27,dance pop,16.0,29.0,hip pop,9.0,27.0
+46,1,2002,contemporary r&b,8,27,hip hop,10.0,29.0,dance pop,7.0,27.0
+47,2,2002,alternative metal,7,27,east coast hip hop,7.0,29.0,gangster rap,7.0,27.0
+48,3,2002,contemporary country,7,27,country,7.0,29.0,hip hop,7.0,27.0
+49,4,2002,hip pop,5,27,pop,4.0,29.0,country road,6.0,27.0
+50,5,2002,alternative rock,4,27,hip pop,4.0,29.0,pop rock,4.0,27.0
+51,6,2002,atl hip hop,4,27,neo mellow,3.0,29.0,dance rock,3.0,27.0
+52,7,2002,canadian pop,4,27,nu metal,3.0,29.0,rap,3.0,27.0
+53,8,2002,detroit hip hop,3,27,gangster rap,3.0,29.0,pop,3.0,27.0
+54,9,2002,boy band,3,27,contemporary r&b,3.0,29.0,neo soul,3.0,27.0
+55,10,2002,neo mellow,3,27,dirty south rap,2.0,29.0,latin,2.0,27.0
+56,11,2002,bronx hip hop,2,27,candy pop,2.0,29.0,pop rap,2.0,27.0
+57,12,2002,lilith,2,27,canadian rock,2.0,29.0,nu metal,2.0,27.0
+58,13,2002,colombian pop,2,27,latin,2.0,29.0,piano rock,2.0,27.0
+59,14,2002,hardcore hip hop,1,27,mellow gold,1.0,29.0,post-teen pop,2.0,27.0
+60,0,2012,dance pop,33,21,pop,21.0,20.0,pop,19.0,16.0
+61,1,2012,barbadian pop,5,21,dance pop,11.0,20.0,post-teen pop,7.0,16.0
+62,2,2012,british soul,4,21,neo mellow,6.0,20.0,pop rap,5.0,16.0
+63,3,2012,pop,3,21,edm,3.0,20.0,pop soul,4.0,16.0
+64,4,2012,big room,3,21,electropop,3.0,20.0,edm,3.0,16.0
+65,5,2012,canadian pop,3,21,miami hip hop,3.0,20.0,hip hop,3.0,16.0
+66,6,2012,atl hip hop,2,21,metropopolis,2.0,20.0,electro house,2.0,16.0
+67,7,2012,baroque pop,2,21,hip hop,2.0,20.0,electropop,2.0,16.0
+68,8,2012,boy band,2,21,hip pop,2.0,20.0,miami hip hop,2.0,16.0
+69,9,2012,modern alternative rock,2,21,latin,2.0,20.0,modern rock,2.0,16.0
+70,10,2012,folk-pop,2,21,pop rap,2.0,20.0,pop rock,2.0,16.0
+71,11,2012,g funk,1,21,nu metal,1.0,20.0,australian talent show,1.0,16.0
+72,12,2012,permanent wave,1,21,rock,1.0,20.0,dance pop,1.0,16.0
+73,13,2012,modern rock,1,21,pop rock,1.0,20.0,post-grunge,1.0,16.0
+74,14,2012,indietronica,1,21,australian pop,1.0,20.0,r&b,1.0,16.0
+75,0,2022,dance pop,24,31,pop,22.0,29.0,r&b,16.0,25.0
+76,1,2022,contemporary country,21,31,reggaeton,11.0,29.0,trap latino,10.0,25.0
+77,2,2022,latin,11,31,country,11.0,29.0,country road,9.0,25.0
+78,3,2022,pop,5,31,rap,3.0,29.0,rap,4.0,25.0
+79,4,2022,canadian hip hop,4,31,canadian pop,3.0,29.0,hip hop,4.0,25.0
+80,5,2022,atl hip hop,4,31,uk pop,2.0,29.0,pop,2.0,25.0
+81,6,2022,australian hip hop,2,31,hip hop,2.0,29.0,melodic rap,2.0,25.0
+82,7,2022,dfw rap,2,31,melodic rap,2.0,29.0,southern hip hop,2.0,25.0
+83,8,2022,gen z singer-songwriter,2,31,country pop,2.0,29.0,country,2.0,25.0
+84,9,2022,florida rap,2,31,contemporary country,2.0,29.0,uk pop,1.0,25.0
+85,10,2022,memphis hip hop,1,31,kentucky hip hop,1.0,29.0,trap argentino,1.0,25.0
+86,11,2022,glam rock,1,31,pop venezolano,1.0,29.0,trap,1.0,25.0
+87,12,2022,minnesota hip hop,1,31,piano rock,1.0,29.0,tennessee hip hop,1.0,25.0
+88,13,2022,modern rock,1,31,nashville hip hop,1.0,29.0,shiver pop,1.0,25.0
+89,14,2022,oklahoma country,1,31,rock,1.0,29.0,reggaeton colombiano,1.0,25.0
