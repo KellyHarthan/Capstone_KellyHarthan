@@ -1,8 +1,5 @@
-# 50 years of the Billboard HOT 100
+# 50 Years of the Billboard HOT 100
 ---
-Kelly Harthan
-
-**Still need to revise and add links. Wanted to get this version pushed up now. Will be polished/ finished in the next hour or two.
 
 - [Motivation](#motivation)
 - [Data Sources](#data-sources)
@@ -13,9 +10,13 @@ Kelly Harthan
 
 ---
 ## Motivation 
-I have loved music for as long as I can remember. Even before I could play or sing, I used to write poems and songs. I started playing music in my late teens and have continued down the road songwriting and telling stories. Music was what initially bought me to Nashville.
+I have loved music for as long as I can remember. Even before I could play or sing, I used to write poems and songs. I started playing music in my late teens and have continued down the road songwriting and telling stories. Music was what initially bought me to Nashville about two years ago. When I had the opportunity to dig into any topic, music was a natural first choice.
 
-The Billboard HOT 100 is one of the most popular and longest running music charts used today being on it’s 64th year. It is such a wealth of knowledge regarding the most popular tracks over the past six to seven decades.  Billboard alone can tell you a lot about the popular artists and music styles of the day. However, there was a golden opportunity in combining that history with Spotify’s ‘Audio Features’ to do a more thorough analysis of the musical elements of each of the tracks, With this combination we could get a more thorough understanding  the changes the actual music structure over time.
+The Billboard HOT 100 is one of the most popular and longest running music charts used today currently being in it’s 64th year. It is a wealth of knowledge regarding the most popular tracks over the past six to seven decades.  Billboard alone can speak volumes about the popular artists and music styles of the day. However, it does not have the capacity to analyze the music itself for broader changes in composition. 
+
+Enter Spotify. Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. With digitalization and adavnced alogorythms, we are able to look at music in a whole new way. The algorithm used leverages Convolutional Neural Networks that use clustering to identify similarities in time signature, key, mode, tempo and loudness based on its audio waveform. This is done pertrack, so it is easy to compare a track from 1970 to today and analyze the differnces in features such at timing, key, tempo,energy, etc.
+
+These two sources provided an exciting opportunity to combine the history and statistics in the annual Billoard HOT 100 with Spotify’s ‘Audio Features’ to understand at a deeper level the musical elements of each of the tracks and compare across time. 
 
 ---
 ## Data Sources
