@@ -1,4 +1,5 @@
 # 50 years of the Billboard HOT 100
+---
 Kelly Harthan
 
 **Still need to revise and add links. Wanted to get this version pushed up now. Will be polished/ finished in the next hour or two.
@@ -10,12 +11,13 @@ Kelly Harthan
 - [The Process](#the-process)
 - [Dashboard](#dashboard)
 
-
+---
 ## Motivation 
 I have loved music for as long as I can remember. Even before I could play or sing, I used to write poems and songs. I started playing music in my late teens and have continued down the road songwriting and telling stories. Music was what initially bought me to Nashville.
 
 The Billboard HOT 100 is one of the most popular and longest running music charts used today being on it’s 64th year. It is such a wealth of knowledge regarding the most popular tracks over the past six to seven decades.  Billboard alone can tell you a lot about the popular artists and music styles of the day. However, there was a golden opportunity in combining that history with Spotify’s ‘Audio Features’ to do a more thorough analysis of the musical elements of each of the tracks, With this combination we could get a more thorough understanding  the changes the actual music structure over time.
 
+---
 ## Data Sources
 - [Billboard](https://www.billboard.com/charts/hot-100/)
 - [Spotify](https://developer.spotify.com/)
@@ -25,24 +27,27 @@ The Billboard HOT 100 is one of the most popular and longest running music chart
   -	Artist Info
   -	Genre’s
   -	Playlists
-
+ 
+---
 ## Data Questions:
 1.	Can we use Spotify’s ‘Audio Features’ to identify trends in popular music over the last 50 years?
 2.	What are the most significant musical elements determining charting tracks?
 3.	Are there differences in the presence of these core audio elements when looking at the top 100, top 10 and the chart-topping artists?
 4.	What do genres tell us about the post popular music styles?
 
+---
 ## Technologies
-Python
-o	Jupyter Notebooks
-o	Pandas
-o	Requests
-o	Ittertools
-o	numpy
-o	Spotipy
-Power BI
-o	Custom Visuals
+- [Python](https://www.python.org/)
+- [Jupyter Notebooks](https://jupyter.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Requests](https://pypi.org/project/requests/)
+- [Ittertools](https://docs.python.org/3/library/itertools.html)
+- [NumPy](https://numpy.org/)
+- [Spotipy](https://spotipy.readthedocs.io/en/master/)
+- [Power BI](https://powerbi.microsoft.com/en-us/)
+- [Custom Visuals- ImgViewerVisual.0.1.0](https://blog.pragmaticworks.com/power-bi-custom-visuals-image-viewer)
 
+---
 ## The Process
 
 ### Getting the Data
@@ -64,6 +69,7 @@ After getting the complied lists, I needed to start pulling in the data. From he
 
 ### Clean, Prepare and Analyze
 
+---
 ## Dashboard
 [50 years of the Billboard HOT 100](https://app.powerbi.com/view?r=eyJrIjoiNjg0Yjk3ZTItOTQyYy00YTNkLWFmZTQtZWE0ZTQxNmE3N2FjIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ReportSection)
 
