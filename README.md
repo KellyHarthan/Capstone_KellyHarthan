@@ -3,17 +3,12 @@ Kelly Harthan
 
 **Still need to revise and add links. Wanted to get this version pushed up now. Will be polished/ finished in the next hour or two.
 
-[Motivation](#motivation)
-
-[Data Sources](#data-sources)
-
-[Data Questions](#data-questions)
-
-[Technologies](#technologies)
-
-[The Process](#the-process)
-
-[Dashboard](#dashboard)
+- [Motivation](#motivation)
+- [Data Sources](#data-sources)
+- [Data Questions](#data-questions)
+- [Technologies](#technologies)
+- [The Process](#the-process)
+- [Dashboard](#dashboard)
 
 
 ## Motivation 
@@ -22,14 +17,14 @@ I have loved music for as long as I can remember. Even before I could play or si
 The Billboard HOT 100 is one of the most popular and longest running music charts used today being on it’s 64th year. It is such a wealth of knowledge regarding the most popular tracks over the past six to seven decades.  Billboard alone can tell you a lot about the popular artists and music styles of the day. However, there was a golden opportunity in combining that history with Spotify’s ‘Audio Features’ to do a more thorough analysis of the musical elements of each of the tracks, With this combination we could get a more thorough understanding  the changes the actual music structure over time.
 
 ## Data Sources
-[Billboard](https://www.billboard.com/charts/hot-100/)
--	Spotify
-o	Spotify for Developers
-o	Audio Features
-o	Track Info
-o	Artist Info
-o	Genre’s
-o	Playlists
+- [Billboard](https://www.billboard.com/charts/hot-100/)
+- [Spotify](https://developer.spotify.com/)
+  -	Spotify for Developers
+  -	Audio Features
+  -	Track Info
+  -	Artist Info
+  -	Genre’s
+  -	Playlists
 
 ## Data Questions:
 1.	Can we use Spotify’s ‘Audio Features’ to identify trends in popular music over the last 50 years?
