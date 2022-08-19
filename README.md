@@ -9,29 +9,31 @@
 - [Dashboard](#dashboard)
 
 ---
-## Motivation 
-I have loved music for as long as I can remember. Even before I could play or sing, I used to write poems and songs. I started playing music in my late teens and have continued down the road songwriting and telling stories. Music was what initially bought me to Nashville about two years ago. When I had the opportunity to dig into any topic, music was a natural first choice.
 
-The Billboard HOT 100 is one of the most popular and longest running music charts used today currently being in it’s 64th year. It is a wealth of knowledge regarding the most popular tracks over the past six to seven decades.  Billboard alone can speak volumes about the popular artists and music styles of the day. However, it does not have the capacity to analyze the music itself for broader changes in composition. 
 
-Enter Spotify. Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. With digitalization and adavnced alogorythms, we are able to look at and understand music in a whole new way. The algorithm used leverages Convolutional Neural Networks that use clustering to identify similarities in time signature, key, mode, tempo and loudness based on its audio waveform. This is done per-track, so it is easy to compare across genres and time analyzing the differnces in features such as timing, key, tempo, energy, etc.
+## Motivation
+I have loved music for as long as I can remember. Even before I could play or sing, I used to write poems and songs. I started playing music in my late teens and have continued down the road songwriting and telling stories. Music was what initially brought me to Nashville about two years ago. When I had the opportunity to dig into any topic, music was a natural first choice.
 
-These two data sources provided an exciting opportunity to combine the history and statistics found in the annual Billoard HOT 100, with Spotify’s ‘Audio Features’ to understand at a deeper level the musical elements of each track and across time. 
+The Billboard HOT 100 is one of the most popular and longest running music charts used today, currently being in its 64th year. It is a wealth of knowledge regarding the most popular tracks over the past six to seven decades.  Billboard alone can speak volumes about the popular artists and music styles of the day. However, it does not have the capacity to analyze the music itself for broader changes in composition.
+
+Enter Spotify. Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. With digitalization and advanced algorithms, we are able to look at and understand music in a whole new way. The algorithm leverages Convolutional Neural Networks that use clustering to identify similarities in time signature, key, mode, tempo and loudness based on its audio waveform. This is done per-track, so it is easy to compare across genres and time, analyzing the differences in features such as timing, key, tempo, energy, etc.
+
+These two data sources provided an exciting opportunity to combine the history and statistics found in the annual Billboard HOT 100, with Spotify’s ‘Audio Features’ to understand at a deeper level the musical elements of each track and across time.
 
 ---
 ## Data Sources
 - [Billboard](https://www.billboard.com/charts/hot-100/)
 - [Spotify](https://developer.spotify.com/)
-  -	Spotify for Developers
-  -	Audio Features
-  -	Track Info
-  -	Artist Info
-  -	Genre’s
-  -	Playlists
- 
+  -	Spotify for Developers
+  -	Audio Features
+  -	Track Info
+  -	Artist Info
+  -	Genre’s
+  -	Playlists
+ 
 ---
 ## Data Questions:
-1.	Can we use Spotify’s ‘Audio Features’ to identify trends in  the most popular music reported by the Billboard HOT 100 over the last 50 years?
+1.	Can we use Spotify’s ‘Audio Features’ to identify trends in  the most popular music reported by the Billboard HOT 100 over the last 50 years?
 2.	What are the most significant audio features determining charting tracks?
 3.	Are there differences in the presence of these core audio elements when looking at averages of the top 100, top 10 or the chart-topping artists?
 4.	What does the popularity of genres tell us about the progression popular music styles over the decades?
@@ -52,6 +54,7 @@ These two data sources provided an exciting opportunity to combine the history a
 ---
 ## The Process
 
+
 ### Getting the Data
 
 The initial process started with doing a web scrape of the HOT 100 Billboard hits. I used requests and beautiful soup and some reg-ex functions to clean the data to integrate with the Spotify data. Once I had the list, I was ready to move to Spotify to start pulling the artist/ track info through that system.
@@ -64,6 +67,7 @@ Next, I had to figure out how to get Spotify to recognize the Billboard artist/ 
 
 I had to take a step back, and I had to rethink and look at this through a different lens.
 
+
 ### Getting the Data (again)
 
 After a little bit of searching, it turned out that Spotify had playlists of the Billboard Top 100 for almost every year since it began. Hallelujah we were back in business! This was a great learning opportunity for me to remember to put in the time upfront and look at all options. When you get stuck, do it again. Given more time, I am sure I could have figured out the joining of the web scrapped Billboard data. Ultimately this was incredibly helpful being on a relatively short deadline. I was able to take already created Spotify playlists and pull in the tracks I wanted through the console.
@@ -73,10 +77,12 @@ After getting the compiled track lists, I needed to start pulling in the data. F
 
 ### Clean, Prepare and Analyze
 
-Once I had pulled all the separate metrics I wanted, it was time to start merging the data into a single list per year. From that list, there was some cleaning in the form of reformatting and shifting data types. I did a series of itterrows to swap out a numerical key system to represent a more recognizable standard alphabetic key. 
+Once I had pulled all the separate metrics I wanted, it was time to start merging the data into a single list per year. From that list, there was some cleaning in the form of reformatting and shifting data types. I did a series of itterrows to swap out a numerical key system to represent a more recognizable standard alphabetic key.
 
-For the analysis, I sorted and grouped certain metrics like the primary and secondary genres as I know this is a bit sticky in power BI with the intent of comparing subgroupings.  I compiled groupings of the top ten artists by year and  found averages of all the key metrics I wanted to use from whole years as well as the top ten artists for the years and compared that with the top artist.  As a last step I pulled the image for the top artists from each decade and brought in some outside bio information just for a fun personal touch. 
-The creation of the  went relatively smoothly, I did have to bring in an additional plug in to be able to view the album artwork for the the op artists as displayed. 
+For the analysis, I sorted and grouped certain metrics like the primary and secondary genres as I know this is a bit sticky in power BI with the intent of comparing subgroupings.  I compiled groupings of the top ten artists by year and  found averages of all the key metrics I wanted to use from whole years as well as the top ten artists for the years and compared that with the top artist.  As a last step I pulled the image for the top artists from each decade and brought in some outside bio information just for a fun personal touch.
+
+From here, the process of replicating the data from each year was pretty simple. Each data frame transferred to a csv file and then merged into a single data frame compiled of all the years sampled. The rest was done in Power BI. The creation of the  went relatively smoothly, I did have to bring in an additional plug in to be able to view the album artwork for the the op artists as displayed.
+
 
 ---
 ## Dashboard
